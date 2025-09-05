@@ -15,6 +15,9 @@ concurrency:
 jobs:
   scrape_publish:
     runs-on: ubuntu-latest
+    # Bind to your GitHub Environment so its secrets are available.
+    # If your environment name differs, change "production" accordingly.
+    environment: production
     env:
       # Write MDX posts to the blog package
       NEXTJS_BLOG_DIR: packages/blog/data/blog
@@ -36,8 +39,14 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
           cache: npm
+
+      - name: Check required envs
+        run: |
+          test -n "$SUPABASE_URL" || (echo "Missing SUPABASE_URL" && exit 1)
+          test -n "$SUPABASE_SERVICE_ROLE_KEY" || (echo "Missing SUPABASE_SERVICE_ROLE_KEY" && exit 1)
+          test -n "$OPENAI_API_KEY" || (echo "Missing OPENAI_API_KEY" && exit 1)
 
       - name: Install scraper workspace only
         run: npm ci --workspace=@crypto-feed/scraper
@@ -55,4 +64,3 @@ jobs:
           git add packages/blog/data/blog
           git diff --cached --quiet || git commit -m "chore(blog): publish new articles"
           git push
-

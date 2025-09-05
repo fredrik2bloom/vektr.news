@@ -1,5 +1,6 @@
 const cron = require('node-cron');
 const fs = require('fs');
+const path = require('path');
 const OPMLParser = require('./utils/opmlParser');
 const FeedFetcher = require('./services/feedFetcher');
 const Database = require('./services/database');
@@ -15,7 +16,10 @@ require('dotenv').config({
 
 class CryptoFeedAggregator {
   constructor() {
-    this.opmlParser = new OPMLParser('./config/RAW.opml');
+    // Resolve config files relative to this package, not process.cwd()
+    const pkgRoot = path.resolve(__dirname, '..');
+    this.pkgRoot = pkgRoot;
+    this.opmlParser = new OPMLParser(path.join(pkgRoot, 'config/RAW.opml'));
     this.feedFetcher = new FeedFetcher();
     this.database = new Database();
     this.openaiService = new OpenAIService();
@@ -31,7 +35,7 @@ class CryptoFeedAggregator {
 
   loadFeedsFromJSON() {
     try {
-      const data = fs.readFileSync('./config/crypto-feeds.json', 'utf8');
+      const data = fs.readFileSync(path.join(this.pkgRoot, 'config/crypto-feeds.json'), 'utf8');
       return JSON.parse(data);
     } catch (error) {
       console.error('Error reading JSON feeds file:', error);
