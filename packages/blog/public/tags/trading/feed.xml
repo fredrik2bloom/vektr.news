@@ -1,0 +1,54 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>vektr.news</title>
+      <link>https://vektr.news/blog</link>
+      <description>AI-curated cryptocurrency news and analysis from trusted sources across the web. Stay updated with Bitcoin, Ethereum, DeFi, and the latest crypto market trends.</description>
+      <language>en-us</language>
+      <managingEditor>curator@vektr.news (vektr)</managingEditor>
+      <webMaster>curator@vektr.news (vektr)</webMaster>
+      <lastBuildDate>Wed, 03 Sep 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://vektr.news/tags/trading/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03--world-liberty-burns-47m-tokens-in-bid-to-pump-price-as-slide-continues-</guid>
+    <title> World Liberty burns 47M tokens in bid to pump price as slide continues </title>
+    <link>https://vektr.news/blog/2025-09-03--world-liberty-burns-47m-tokens-in-bid-to-pump-price-as-slide-continues-</link>
+    <description>World Liberty Financial is combatting a price drop in its cryptocurrency by burning tokens. This strategy aims to stabilize the value of the crypto, which has b</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>crypto</category><category>cryptocurrency</category><category>trading</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03-cardano-ada-signals-recovery-is-a-strong-upside-move-ahead</guid>
+    <title>Cardano (ADA) Signals Recovery – Is a Strong Upside Move Ahead?</title>
+    <link>https://vektr.news/blog/2025-09-03-cardano-ada-signals-recovery-is-a-strong-upside-move-ahead</link>
+    <description>Cardano&#39;s price has bounced back from $0.780, aiming to surpass $0.840. With a strong upward trend, ADA is now trading above $0.8120 and the 100-hourly SMA. Thi</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>analysis</category><category>trading</category><category>cardano</category><category>news</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03-morning-minute-bitcoin-and-eth-trading-is-coming-to-the-nyse-nasdaq-and-more</guid>
+    <title>Morning Minute: Bitcoin and ETH Trading Is Coming to the NYSE, Nasdaq and More</title>
+    <link>https://vektr.news/blog/2025-09-03-morning-minute-bitcoin-and-eth-trading-is-coming-to-the-nyse-nasdaq-and-more</link>
+    <description>SEC &amp; CFTC team up for &#39;Project Crypto&#39; while SOL dominates amidst green market surge.</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>bitcoin</category><category>eth</category><category>crypto</category><category>trading</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03-wall-street-giants-poised-to-offer-spot-bitcoin-and-ethereum-trading</guid>
+    <title>Wall Street Giants Poised to Offer Spot Bitcoin and Ethereum Trading</title>
+    <link>https://vektr.news/blog/2025-09-03-wall-street-giants-poised-to-offer-spot-bitcoin-and-ethereum-trading</link>
+    <description>US regulators greenlight Wall Street giants to host Bitcoin and Ethereum trading.</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>bitcoin</category><category>ethereum</category><category>eth</category><category>trading</category>
+  </item>
+
+    </channel>
+  </rss>

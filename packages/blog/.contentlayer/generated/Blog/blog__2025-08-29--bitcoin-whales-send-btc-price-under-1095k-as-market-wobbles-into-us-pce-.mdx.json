@@ -1,0 +1,53 @@
+{
+  "title": " Bitcoin whales send BTC price under $109.5K as market ‘wobbles’ into US PCE ",
+  "date": "2025-08-29T00:00:00.000Z",
+  "tags": [
+    "news",
+    "bitcoin",
+    "btc",
+    "crypto"
+  ],
+  "draft": false,
+  "summary": "Crypto traders are noticing familiar patterns in Bitcoin whale behavior this week, just in time for the release of US inflation data. Keep an eye on the market ",
+  "images": [
+    "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhlZjUtOTA2Yi03ZmI1LTgwYjktNTk1NzNmZjJiY2Mw.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://cointelegraph.com/news/bitcoin-whales-send-btc-price-under-109-5k-market-wobbles-into-us-pce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "body": {
+    "raw": "\n![ Bitcoin whales send BTC price under $109.5K as market ‘wobbles’ into US PCE ](https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhlZjUtOTA2Yi03ZmI1LTgwYjktNTk1NzNmZjJiY2Mw.jpg)\n\nCrypto traders are noticing familiar patterns in Bitcoin whale behavior this week, just in time for the release of US inflation data. Keep an eye on the market as these \"spoofy\" trends unfold.\n\n---\n\n**Original Article:** [Cointelegraph.com News](https://cointelegraph.com/news/bitcoin-whales-send-btc-price-under-109-5k-market-wobbles-into-us-pce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n*This article was originally published on [Cointelegraph.com News](https://cointelegraph.com/news/bitcoin-whales-send-btc-price-under-109-5k-market-wobbles-into-us-pce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var d=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var w=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),_=(t,e)=>{for(var r in e)i(t,r,{get:e[r],enumerable:!0})},o=(t,e,r,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let s of u(e))!b.call(t,s)&&s!==r&&i(t,s,{get:()=>e[s],enumerable:!(a=p(e,s))||a.enumerable});return t};var f=(t,e,r)=>(r=t!=null?d(g(t)):{},o(e||!t||!t.__esModule?i(r,\"default\",{value:t,enumerable:!0}):r,t)),j=t=>o(i({},\"__esModule\",{value:!0}),t);var m=w((x,c)=>{c.exports=_jsx_runtime});var M={};_(M,{default:()=>h,frontmatter:()=>y});var n=f(m()),y={title:\" Bitcoin whales send BTC price under $109.5K as market \\u2018wobbles\\u2019 into US PCE \",date:\"2025-08-29\",tags:[\"news\",\"bitcoin\",\"btc\",\"crypto\"],draft:!1,summary:\"Crypto traders are noticing familiar patterns in Bitcoin whale behavior this week, just in time for the release of US inflation data. Keep an eye on the market \",images:[\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhlZjUtOTA2Yi03ZmI1LTgwYjktNTk1NzNmZjJiY2Mw.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://cointelegraph.com/news/bitcoin-whales-send-btc-price-under-109-5k-market-wobbles-into-us-pce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\"};function l(t){let e={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:(0,n.jsx)(e.img,{alt:\" Bitcoin whales send BTC price under $109.5K as market \\u2018wobbles\\u2019 into US PCE \",src:\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhlZjUtOTA2Yi03ZmI1LTgwYjktNTk1NzNmZjJiY2Mw.jpg\"})}),(0,n.jsx)(e.p,{children:'Crypto traders are noticing familiar patterns in Bitcoin whale behavior this week, just in time for the release of US inflation data. Keep an eye on the market as these \"spoofy\" trends unfold.'}),(0,n.jsx)(e.hr,{}),(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,n.jsx)(e.a,{href:\"https://cointelegraph.com/news/bitcoin-whales-send-btc-price-under-109-5k-market-wobbles-into-us-pce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"})]}),(0,n.jsx)(e.p,{children:(0,n.jsxs)(e.em,{children:[\"This article was originally published on \",(0,n.jsx)(e.a,{href:\"https://cointelegraph.com/news/bitcoin-whales-send-btc-price-under-109-5k-market-wobbles-into-us-pce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"}),\" and has been curated for our readers.\"]})})]})}function h(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(l,{...t})}):l(t)}return j(M);})();\n;return Component;"
+  },
+  "_id": "blog/2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-.mdx",
+    "sourceFileName": "2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.34,
+    "time": 20400,
+    "words": 68
+  },
+  "slug": "2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-",
+  "path": "blog/2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-",
+  "filePath": "blog/2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": " Bitcoin whales send BTC price under $109.5K as market ‘wobbles’ into US PCE ",
+    "datePublished": "2025-08-29T00:00:00.000Z",
+    "dateModified": "2025-08-29T00:00:00.000Z",
+    "description": "Crypto traders are noticing familiar patterns in Bitcoin whale behavior this week, just in time for the release of US inflation data. Keep an eye on the market ",
+    "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhlZjUtOTA2Yi03ZmI1LTgwYjktNTk1NzNmZjJiY2Mw.jpg",
+    "url": "https://vektr.news/blog/2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-"
+  }
+}

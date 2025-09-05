@@ -1,0 +1,55 @@
+{
+  "title": "A New Vision For Money: Hoskinson Predicts Bitcoin Will Hit $10 Trillion",
+  "date": "2025-08-29T00:00:00.000Z",
+  "tags": [
+    "analysis",
+    "bitcoin",
+    "ethereum",
+    "eth",
+    "crypto",
+    "cardano"
+  ],
+  "draft": false,
+  "summary": "Charles Hoskinson, co-founder of Ethereum and Cardano, shared his bullish outlook on crypto markets. He believes Bitcoin could hit $250,000 this cycle. Stay tun",
+  "images": [
+    "https://www.newsbtc.com/wp-content/uploads/2025/08/generate_image_of_bitcoin_rising_and_dominating.jpeg?fit=536%2C536"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://www.newsbtc.com/bitcoin-news/a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion/",
+  "body": {
+    "raw": "\n![A New Vision For Money: Hoskinson Predicts Bitcoin Will Hit $10 Trillion](https://www.newsbtc.com/wp-content/uploads/2025/08/generate_image_of_bitcoin_rising_and_dominating.jpeg?fit=536%2C536)\n\nCharles Hoskinson, co-founder of Ethereum and Cardano, shared his bullish outlook on crypto markets. He believes Bitcoin could hit $250,000 this cycle. Stay tuned for more insights on the future of crypto payments.\n\n---\n\n**Original Article:** [NewsBTC](https://www.newsbtc.com/bitcoin-news/a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion/)\n\n*This article was originally published on [NewsBTC](https://www.newsbtc.com/bitcoin-news/a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion/) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var m=Object.create;var s=Object.defineProperty;var w=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var g=(i,n)=>()=>(n||i((n={exports:{}}).exports,n),n.exports),b=(i,n)=>{for(var o in n)s(i,o,{get:n[o],enumerable:!0})},c=(i,n,o,r)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let e of u(n))!f.call(i,e)&&e!==o&&s(i,e,{get:()=>n[e],enumerable:!(r=w(n,e))||r.enumerable});return i};var y=(i,n,o)=>(o=i!=null?m(p(i)):{},c(n||!i||!i.__esModule?s(o,\"default\",{value:i,enumerable:!0}):o,i)),_=i=>c(s({},\"__esModule\",{value:!0}),i);var l=g((H,a)=>{a.exports=_jsx_runtime});var C={};b(C,{default:()=>d,frontmatter:()=>k});var t=y(l()),k={title:\"A New Vision For Money: Hoskinson Predicts Bitcoin Will Hit $10 Trillion\",date:\"2025-08-29\",tags:[\"analysis\",\"bitcoin\",\"ethereum\",\"eth\",\"crypto\",\"cardano\"],draft:!1,summary:\"Charles Hoskinson, co-founder of Ethereum and Cardano, shared his bullish outlook on crypto markets. He believes Bitcoin could hit $250,000 this cycle. Stay tun\",images:[\"https://www.newsbtc.com/wp-content/uploads/2025/08/generate_image_of_bitcoin_rising_and_dominating.jpeg?fit=536%2C536\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://www.newsbtc.com/bitcoin-news/a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion/\"};function h(i){let n={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...i.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:(0,t.jsx)(n.img,{alt:\"A New Vision For Money: Hoskinson Predicts Bitcoin Will Hit $10 Trillion\",src:\"https://www.newsbtc.com/wp-content/uploads/2025/08/generate_image_of_bitcoin_rising_and_dominating.jpeg?fit=536%2C536\"})}),(0,t.jsx)(n.p,{children:\"Charles Hoskinson, co-founder of Ethereum and Cardano, shared his bullish outlook on crypto markets. He believes Bitcoin could hit $250,000 this cycle. Stay tuned for more insights on the future of crypto payments.\"}),(0,t.jsx)(n.hr,{}),(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:\"Original Article:\"}),\" \",(0,t.jsx)(n.a,{href:\"https://www.newsbtc.com/bitcoin-news/a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion/\",children:\"NewsBTC\"})]}),(0,t.jsx)(n.p,{children:(0,t.jsxs)(n.em,{children:[\"This article was originally published on \",(0,t.jsx)(n.a,{href:\"https://www.newsbtc.com/bitcoin-news/a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion/\",children:\"NewsBTC\"}),\" and has been curated for our readers.\"]})})]})}function d(i={}){let{wrapper:n}=i.components||{};return n?(0,t.jsx)(n,{...i,children:(0,t.jsx)(h,{...i})}):h(i)}return _(C);})();\n;return Component;"
+  },
+  "_id": "blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion.mdx",
+    "sourceFileName": "2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.315,
+    "time": 18900,
+    "words": 63
+  },
+  "slug": "2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion",
+  "path": "blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion",
+  "filePath": "blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "A New Vision For Money: Hoskinson Predicts Bitcoin Will Hit $10 Trillion",
+    "datePublished": "2025-08-29T00:00:00.000Z",
+    "dateModified": "2025-08-29T00:00:00.000Z",
+    "description": "Charles Hoskinson, co-founder of Ethereum and Cardano, shared his bullish outlook on crypto markets. He believes Bitcoin could hit $250,000 this cycle. Stay tun",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2025/08/generate_image_of_bitcoin_rising_and_dominating.jpeg?fit=536%2C536",
+    "url": "https://vektr.news/blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion"
+  }
+}

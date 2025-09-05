@@ -1,0 +1,52 @@
+{
+  "title": "Hong Kong’s Fosun tokenizes shares of medical company valued at $328 million",
+  "date": "2025-09-03T00:00:00.000Z",
+  "tags": [
+    "news",
+    "crypto",
+    "solana"
+  ],
+  "draft": false,
+  "summary": "Vaulta's Banking OS now integrates Solana for issuance and settlement. This move enhances the company's initiative, combining cutting-edge technology with effic",
+  "images": [
+    "https://www.tbstat.com/wp/uploads/2025/04/20250411_Tokens_News_2-800x450.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://www.theblock.co/post/368395/hong-kongs-fosun-tokenizes-328-million-rwa?utm_source=rss&utm_medium=rss",
+  "body": {
+    "raw": "\n![Hong Kong’s Fosun tokenizes shares of medical company valued at $328 million](https://www.tbstat.com/wp/uploads/2025/04/20250411_Tokens_News_2-800x450.jpg)\n\nVaulta's Banking OS now integrates Solana for issuance and settlement. This move enhances the company's initiative, combining cutting-edge technology with efficient processes in the crypto space. Exciting developments for crypto enthusiasts to watch!\n\n---\n\n**Original Article:** [The Block](https://www.theblock.co/post/368395/hong-kongs-fosun-tokenizes-328-million-rwa?utm_source=rss&utm_medium=rss)\n\n*This article was originally published on [The Block](https://www.theblock.co/post/368395/hong-kongs-fosun-tokenizes-328-million-rwa?utm_source=rss&utm_medium=rss) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var u=Object.create;var a=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var d=Object.getPrototypeOf,w=Object.prototype.hasOwnProperty;var f=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),_=(t,e)=>{for(var s in e)a(t,s,{get:e[s],enumerable:!0})},r=(t,e,s,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of p(e))!w.call(t,o)&&o!==s&&a(t,o,{get:()=>e[o],enumerable:!(i=g(e,o))||i.enumerable});return t};var k=(t,e,s)=>(s=t!=null?u(d(t)):{},r(e||!t||!t.__esModule?a(s,\"default\",{value:t,enumerable:!0}):s,t)),y=t=>r(a({},\"__esModule\",{value:!0}),t);var l=f((v,c)=>{c.exports=_jsx_runtime});var b={};_(b,{default:()=>h,frontmatter:()=>x});var n=k(l()),x={title:\"Hong Kong\\u2019s Fosun tokenizes shares of medical company valued at $328 million\",date:\"2025-09-03\",tags:[\"news\",\"crypto\",\"solana\"],draft:!1,summary:\"Vaulta's Banking OS now integrates Solana for issuance and settlement. This move enhances the company's initiative, combining cutting-edge technology with effic\",images:[\"https://www.tbstat.com/wp/uploads/2025/04/20250411_Tokens_News_2-800x450.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://www.theblock.co/post/368395/hong-kongs-fosun-tokenizes-328-million-rwa?utm_source=rss&utm_medium=rss\"};function m(t){let e={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:(0,n.jsx)(e.img,{alt:\"Hong Kong\\u2019s Fosun tokenizes shares of medical company valued at $328 million\",src:\"https://www.tbstat.com/wp/uploads/2025/04/20250411_Tokens_News_2-800x450.jpg\"})}),(0,n.jsx)(e.p,{children:\"Vaulta's Banking OS now integrates Solana for issuance and settlement. This move enhances the company's initiative, combining cutting-edge technology with efficient processes in the crypto space. Exciting developments for crypto enthusiasts to watch!\"}),(0,n.jsx)(e.hr,{}),(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,n.jsx)(e.a,{href:\"https://www.theblock.co/post/368395/hong-kongs-fosun-tokenizes-328-million-rwa?utm_source=rss&utm_medium=rss\",children:\"The Block\"})]}),(0,n.jsx)(e.p,{children:(0,n.jsxs)(e.em,{children:[\"This article was originally published on \",(0,n.jsx)(e.a,{href:\"https://www.theblock.co/post/368395/hong-kongs-fosun-tokenizes-328-million-rwa?utm_source=rss&utm_medium=rss\",children:\"The Block\"}),\" and has been curated for our readers.\"]})})]})}function h(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(m,{...t})}):m(t)}return y(b);})();\n;return Component;"
+  },
+  "_id": "blog/2025-09-03-hong-kongs-fosun-tokenizes-shares-of-medical-company-valued-at-328-million.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-09-03-hong-kongs-fosun-tokenizes-shares-of-medical-company-valued-at-328-million.mdx",
+    "sourceFileName": "2025-09-03-hong-kongs-fosun-tokenizes-shares-of-medical-company-valued-at-328-million.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-09-03-hong-kongs-fosun-tokenizes-shares-of-medical-company-valued-at-328-million"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.325,
+    "time": 19500,
+    "words": 65
+  },
+  "slug": "2025-09-03-hong-kongs-fosun-tokenizes-shares-of-medical-company-valued-at-328-million",
+  "path": "blog/2025-09-03-hong-kongs-fosun-tokenizes-shares-of-medical-company-valued-at-328-million",
+  "filePath": "blog/2025-09-03-hong-kongs-fosun-tokenizes-shares-of-medical-company-valued-at-328-million.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Hong Kong’s Fosun tokenizes shares of medical company valued at $328 million",
+    "datePublished": "2025-09-03T00:00:00.000Z",
+    "dateModified": "2025-09-03T00:00:00.000Z",
+    "description": "Vaulta's Banking OS now integrates Solana for issuance and settlement. This move enhances the company's initiative, combining cutting-edge technology with effic",
+    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250411_Tokens_News_2-800x450.jpg",
+    "url": "https://vektr.news/blog/2025-09-03-hong-kongs-fosun-tokenizes-shares-of-medical-company-valued-at-328-million"
+  }
+}

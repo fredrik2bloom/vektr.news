@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>vektr.news</title>
+      <link>https://vektr.news/blog</link>
+      <description>AI-curated cryptocurrency news and analysis from trusted sources across the web. Stay updated with Bitcoin, Ethereum, DeFi, and the latest crypto market trends.</description>
+      <language>en-us</language>
+      <managingEditor>curator@vektr.news (vektr)</managingEditor>
+      <webMaster>curator@vektr.news (vektr)</webMaster>
+      <lastBuildDate>Fri, 29 Aug 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://vektr.news/tags/binance/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://vektr.news/blog/2025-08-29-binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner</guid>
+    <title>Binance&#39;s CZ Breaks Silence on DEX vs. CEX Rivalry, Picks Future Winner</title>
+    <link>https://vektr.news/blog/2025-08-29-binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner</link>
+    <description>Binance CEO CZ highlights groundbreaking crypto innovations set for major advancements. Stay tuned for the latest developments in the world of blockchain techno</description>
+    <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>crypto</category><category>blockchain</category><category>binance</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03-binance-delisting-announcement-causes-freefall-for-3-altcoins</guid>
+    <title>Binance Delisting Announcement Causes Freefall for 3 Altcoins</title>
+    <link>https://vektr.news/blog/2025-09-03-binance-delisting-announcement-causes-freefall-for-3-altcoins</link>
+    <description>Binance recently announced the delisting of BakeryToken, Hifi Finance, and Self Chain, leading to price drops and important deadlines for users. Stay updated on</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>crypto</category><category>altcoin</category><category>binance</category>
+  </item>
+
+    </channel>
+  </rss>

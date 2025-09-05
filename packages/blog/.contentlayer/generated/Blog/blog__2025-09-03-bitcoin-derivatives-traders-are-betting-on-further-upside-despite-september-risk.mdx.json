@@ -1,0 +1,52 @@
+{
+  "title": "Bitcoin Derivatives Traders Are Betting on Further Upside Despite September Risks",
+  "date": "2025-09-03T00:00:00.000Z",
+  "tags": [
+    "news",
+    "bitcoin",
+    "crypto"
+  ],
+  "draft": false,
+  "summary": "Crypto traders are optimistic but cautious, considering a potential rate cut that could impact September's bearish trends. Stay tuned for updates on Bitcoin's m",
+  "images": [
+    "https://cdn.decrypt.co/wp-content/uploads/2025/08/bitcoin-bull-decrypt-style-gID_7.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://decrypt.co/337835/bitcoin-derivatives-traders-further-upside-despite-september-risks",
+  "body": {
+    "raw": "\n![Bitcoin Derivatives Traders Are Betting on Further Upside Despite September Risks](https://cdn.decrypt.co/wp-content/uploads/2025/08/bitcoin-bull-decrypt-style-gID_7.jpg)\n\nCrypto traders are optimistic but cautious, considering a potential rate cut that could impact September's bearish trends. Stay tuned for updates on Bitcoin's market movements.\n\n---\n\n**Original Article:** [Decrypt](https://decrypt.co/337835/bitcoin-derivatives-traders-further-upside-despite-september-risks)\n\n*This article was originally published on [Decrypt](https://decrypt.co/337835/bitcoin-derivatives-traders-further-upside-despite-september-risks) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var l=Object.create;var n=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var b=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var g=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),f=(e,t)=>{for(var i in t)n(e,i,{get:t[i],enumerable:!0})},o=(e,t,i,a)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let s of m(t))!y.call(e,s)&&s!==i&&n(e,s,{get:()=>t[s],enumerable:!(a=h(t,s))||a.enumerable});return e};var v=(e,t,i)=>(i=e!=null?l(b(e)):{},o(t||!e||!e.__esModule?n(i,\"default\",{value:e,enumerable:!0}):i,e)),D=e=>o(n({},\"__esModule\",{value:!0}),e);var d=g((k,c)=>{c.exports=_jsx_runtime});var _={};f(_,{default:()=>u,frontmatter:()=>x});var r=v(d()),x={title:\"Bitcoin Derivatives Traders Are Betting on Further Upside Despite September Risks\",date:\"2025-09-03\",tags:[\"news\",\"bitcoin\",\"crypto\"],draft:!1,summary:\"Crypto traders are optimistic but cautious, considering a potential rate cut that could impact September's bearish trends. Stay tuned for updates on Bitcoin's m\",images:[\"https://cdn.decrypt.co/wp-content/uploads/2025/08/bitcoin-bull-decrypt-style-gID_7.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://decrypt.co/337835/bitcoin-derivatives-traders-further-upside-despite-september-risks\"};function p(e){let t={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...e.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(t.p,{children:(0,r.jsx)(t.img,{alt:\"Bitcoin Derivatives Traders Are Betting on Further Upside Despite September Risks\",src:\"https://cdn.decrypt.co/wp-content/uploads/2025/08/bitcoin-bull-decrypt-style-gID_7.jpg\"})}),(0,r.jsx)(t.p,{children:\"Crypto traders are optimistic but cautious, considering a potential rate cut that could impact September's bearish trends. Stay tuned for updates on Bitcoin's market movements.\"}),(0,r.jsx)(t.hr,{}),(0,r.jsxs)(t.p,{children:[(0,r.jsx)(t.strong,{children:\"Original Article:\"}),\" \",(0,r.jsx)(t.a,{href:\"https://decrypt.co/337835/bitcoin-derivatives-traders-further-upside-despite-september-risks\",children:\"Decrypt\"})]}),(0,r.jsx)(t.p,{children:(0,r.jsxs)(t.em,{children:[\"This article was originally published on \",(0,r.jsx)(t.a,{href:\"https://decrypt.co/337835/bitcoin-derivatives-traders-further-upside-despite-september-risks\",children:\"Decrypt\"}),\" and has been curated for our readers.\"]})})]})}function u(e={}){let{wrapper:t}=e.components||{};return t?(0,r.jsx)(t,{...e,children:(0,r.jsx)(p,{...e})}):p(e)}return D(_);})();\n;return Component;"
+  },
+  "_id": "blog/2025-09-03-bitcoin-derivatives-traders-are-betting-on-further-upside-despite-september-risk.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-09-03-bitcoin-derivatives-traders-are-betting-on-further-upside-despite-september-risk.mdx",
+    "sourceFileName": "2025-09-03-bitcoin-derivatives-traders-are-betting-on-further-upside-despite-september-risk.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-09-03-bitcoin-derivatives-traders-are-betting-on-further-upside-despite-september-risk"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.27,
+    "time": 16200,
+    "words": 54
+  },
+  "slug": "2025-09-03-bitcoin-derivatives-traders-are-betting-on-further-upside-despite-september-risk",
+  "path": "blog/2025-09-03-bitcoin-derivatives-traders-are-betting-on-further-upside-despite-september-risk",
+  "filePath": "blog/2025-09-03-bitcoin-derivatives-traders-are-betting-on-further-upside-despite-september-risk.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Bitcoin Derivatives Traders Are Betting on Further Upside Despite September Risks",
+    "datePublished": "2025-09-03T00:00:00.000Z",
+    "dateModified": "2025-09-03T00:00:00.000Z",
+    "description": "Crypto traders are optimistic but cautious, considering a potential rate cut that could impact September's bearish trends. Stay tuned for updates on Bitcoin's m",
+    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/bitcoin-bull-decrypt-style-gID_7.jpg",
+    "url": "https://vektr.news/blog/2025-09-03-bitcoin-derivatives-traders-are-betting-on-further-upside-despite-september-risk"
+  }
+}

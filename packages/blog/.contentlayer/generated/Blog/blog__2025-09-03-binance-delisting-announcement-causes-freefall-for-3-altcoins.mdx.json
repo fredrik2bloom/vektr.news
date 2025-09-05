@@ -1,0 +1,53 @@
+{
+  "title": "Binance Delisting Announcement Causes Freefall for 3 Altcoins",
+  "date": "2025-09-03T00:00:00.000Z",
+  "tags": [
+    "news",
+    "crypto",
+    "altcoin",
+    "binance"
+  ],
+  "draft": false,
+  "summary": "Binance recently announced the delisting of BakeryToken, Hifi Finance, and Self Chain, leading to price drops and important deadlines for users. Stay updated on",
+  "images": [
+    "https://beincrypto.com/wp-content/uploads/2023/06/bic_warning_crypto_1-covers.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://beincrypto.com/binance-delisting-3-altcoins/",
+  "body": {
+    "raw": "\n![Binance Delisting Announcement Causes Freefall for 3 Altcoins](https://beincrypto.com/wp-content/uploads/2023/06/bic_warning_crypto_1-covers.jpg)\n\nBinance recently announced the delisting of BakeryToken, Hifi Finance, and Self Chain, leading to price drops and important deadlines for users. Stay updated on the latest developments in the crypto market.\n\n---\n\n**Original Article:** [BeInCrypto](https://beincrypto.com/binance-delisting-3-altcoins/)\n\n*This article was originally published on [BeInCrypto](https://beincrypto.com/binance-delisting-3-altcoins/) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var h=Object.create;var a=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),b=(e,n)=>{for(var i in n)a(e,i,{get:n[i],enumerable:!0})},c=(e,n,i,o)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let r of u(n))!f.call(e,r)&&r!==i&&a(e,r,{get:()=>n[r],enumerable:!(o=m(n,r))||o.enumerable});return e};var _=(e,n,i)=>(i=e!=null?h(g(e)):{},c(n||!e||!e.__esModule?a(i,\"default\",{value:e,enumerable:!0}):i,e)),x=e=>c(a({},\"__esModule\",{value:!0}),e);var l=y((w,s)=>{s.exports=_jsx_runtime});var C={};b(C,{default:()=>p,frontmatter:()=>B});var t=_(l()),B={title:\"Binance Delisting Announcement Causes Freefall for 3 Altcoins\",date:\"2025-09-03\",tags:[\"news\",\"crypto\",\"altcoin\",\"binance\"],draft:!1,summary:\"Binance recently announced the delisting of BakeryToken, Hifi Finance, and Self Chain, leading to price drops and important deadlines for users. Stay updated on\",images:[\"https://beincrypto.com/wp-content/uploads/2023/06/bic_warning_crypto_1-covers.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://beincrypto.com/binance-delisting-3-altcoins/\"};function d(e){let n={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:(0,t.jsx)(n.img,{alt:\"Binance Delisting Announcement Causes Freefall for 3 Altcoins\",src:\"https://beincrypto.com/wp-content/uploads/2023/06/bic_warning_crypto_1-covers.jpg\"})}),(0,t.jsx)(n.p,{children:\"Binance recently announced the delisting of BakeryToken, Hifi Finance, and Self Chain, leading to price drops and important deadlines for users. Stay updated on the latest developments in the crypto market.\"}),(0,t.jsx)(n.hr,{}),(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:\"Original Article:\"}),\" \",(0,t.jsx)(n.a,{href:\"https://beincrypto.com/binance-delisting-3-altcoins/\",children:\"BeInCrypto\"})]}),(0,t.jsx)(n.p,{children:(0,t.jsxs)(n.em,{children:[\"This article was originally published on \",(0,t.jsx)(n.a,{href:\"https://beincrypto.com/binance-delisting-3-altcoins/\",children:\"BeInCrypto\"}),\" and has been curated for our readers.\"]})})]})}function p(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(d,{...e})}):d(e)}return x(C);})();\n;return Component;"
+  },
+  "_id": "blog/2025-09-03-binance-delisting-announcement-causes-freefall-for-3-altcoins.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-09-03-binance-delisting-announcement-causes-freefall-for-3-altcoins.mdx",
+    "sourceFileName": "2025-09-03-binance-delisting-announcement-causes-freefall-for-3-altcoins.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-09-03-binance-delisting-announcement-causes-freefall-for-3-altcoins"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.285,
+    "time": 17100,
+    "words": 57
+  },
+  "slug": "2025-09-03-binance-delisting-announcement-causes-freefall-for-3-altcoins",
+  "path": "blog/2025-09-03-binance-delisting-announcement-causes-freefall-for-3-altcoins",
+  "filePath": "blog/2025-09-03-binance-delisting-announcement-causes-freefall-for-3-altcoins.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Binance Delisting Announcement Causes Freefall for 3 Altcoins",
+    "datePublished": "2025-09-03T00:00:00.000Z",
+    "dateModified": "2025-09-03T00:00:00.000Z",
+    "description": "Binance recently announced the delisting of BakeryToken, Hifi Finance, and Self Chain, leading to price drops and important deadlines for users. Stay updated on",
+    "image": "https://beincrypto.com/wp-content/uploads/2023/06/bic_warning_crypto_1-covers.jpg",
+    "url": "https://vektr.news/blog/2025-09-03-binance-delisting-announcement-causes-freefall-for-3-altcoins"
+  }
+}

@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>vektr.news</title>
+      <link>https://vektr.news/blog</link>
+      <description>AI-curated cryptocurrency news and analysis from trusted sources across the web. Stay updated with Bitcoin, Ethereum, DeFi, and the latest crypto market trends.</description>
+      <language>en-us</language>
+      <managingEditor>curator@vektr.news (vektr)</managingEditor>
+      <webMaster>curator@vektr.news (vektr)</webMaster>
+      <lastBuildDate>Tue, 02 Sep 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://vektr.news/tags/cryptocurrency/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://vektr.news/blog/2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-</guid>
+    <title> Ripple vs. SEC: How the lawsuit strengthened XRP’s narrative </title>
+    <link>https://vektr.news/blog/2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-</link>
+    <description>Discover how XRP overcame a potential threat from an SEC lawsuit to emerge stronger in 2025, showcasing the resilience and adaptability of the cryptocurrency in</description>
+    <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>crypto</category><category>cryptocurrency</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025</guid>
+    <title>100% XRP Explosion: Biggest 24-Hour Spike in 2025</title>
+    <link>https://vektr.news/blog/2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025</link>
+    <description>XRP&#39;s recent surge in on-chain activity signals potential long-term growth. This increase in transactions could be a positive sign for the cryptocurrency&#39;s reco</description>
+    <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>crypto</category><category>cryptocurrency</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03--world-liberty-burns-47m-tokens-in-bid-to-pump-price-as-slide-continues-</guid>
+    <title> World Liberty burns 47M tokens in bid to pump price as slide continues </title>
+    <link>https://vektr.news/blog/2025-09-03--world-liberty-burns-47m-tokens-in-bid-to-pump-price-as-slide-continues-</link>
+    <description>World Liberty Financial is combatting a price drop in its cryptocurrency by burning tokens. This strategy aims to stabilize the value of the crypto, which has b</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>crypto</category><category>cryptocurrency</category><category>trading</category>
+  </item>
+
+    </channel>
+  </rss>

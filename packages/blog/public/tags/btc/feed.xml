@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>vektr.news</title>
+      <link>https://vektr.news/blog</link>
+      <description>AI-curated cryptocurrency news and analysis from trusted sources across the web. Stay updated with Bitcoin, Ethereum, DeFi, and the latest crypto market trends.</description>
+      <language>en-us</language>
+      <managingEditor>curator@vektr.news (vektr)</managingEditor>
+      <webMaster>curator@vektr.news (vektr)</webMaster>
+      <lastBuildDate>Fri, 29 Aug 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://vektr.news/tags/btc/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://vektr.news/blog/2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-</guid>
+    <title> Bitcoin whales send BTC price under $109.5K as market ‘wobbles’ into US PCE </title>
+    <link>https://vektr.news/blog/2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-</link>
+    <description>Crypto traders are noticing familiar patterns in Bitcoin whale behavior this week, just in time for the release of US inflation data. Keep an eye on the market </description>
+    <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>bitcoin</category><category>btc</category><category>crypto</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas</guid>
+    <title>Bitcoin Pioneer Charlie Shrem: &#39;5-10 Bitcoin Getting to Be Life-Changing Money Fast’</title>
+    <link>https://vektr.news/blog/2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas</link>
+    <description>Bitcoin pioneer Charlie Shrem reflects on his accurate Bitcoin prediction from six years ago. Explore Shrem&#39;s insights into the future of BTC and the impact of </description>
+    <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>bitcoin</category><category>btc</category><category>crypto</category><category>adoption</category>
+  </item>
+
+    </channel>
+  </rss>

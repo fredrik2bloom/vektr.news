@@ -1,0 +1,51 @@
+{
+  "title": "Coinbase CEO Drops Major Solana News as Key Integration Goes Live",
+  "date": "2025-09-03T00:00:00.000Z",
+  "tags": [
+    "news",
+    "crypto",
+    "blockchain",
+    "solana",
+    "coinbase"
+  ],
+  "draft": false,
+  "summary": "The integration of Solana on Coinbase could revolutionize the crypto landscape with its advanced blockchain technology.",
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://u.today/coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live",
+  "body": {
+    "raw": "\nThe integration of Solana on Coinbase could revolutionize the crypto landscape with its advanced blockchain technology.\n\n---\n\n**Original Article:** [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live)\n\n*This article was originally published on [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var u=Object.create;var r=Object.defineProperty;var y=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,m=Object.prototype.hasOwnProperty;var f=(o,e)=>()=>(e||o((e={exports:{}}).exports,e),e.exports),b=(o,e)=>{for(var n in e)r(o,n,{get:e[n],enumerable:!0})},i=(o,e,n,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let t of p(e))!m.call(o,t)&&t!==n&&r(o,t,{get:()=>e[t],enumerable:!(s=y(e,t))||s.enumerable});return o};var w=(o,e,n)=>(n=o!=null?u(g(o)):{},i(e||!o||!o.__esModule?r(n,\"default\",{value:o,enumerable:!0}):n,o)),j=o=>i(r({},\"__esModule\",{value:!0}),o);var l=f((_,c)=>{c.exports=_jsx_runtime});var T={};b(T,{default:()=>h,frontmatter:()=>x});var a=w(l()),x={title:\"Coinbase CEO Drops Major Solana News as Key Integration Goes Live\",date:\"2025-09-03\",tags:[\"news\",\"crypto\",\"blockchain\",\"solana\",\"coinbase\"],draft:!1,summary:\"The integration of Solana on Coinbase could revolutionize the crypto landscape with its advanced blockchain technology.\",authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://u.today/coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live\"};function d(o){let e={a:\"a\",em:\"em\",hr:\"hr\",p:\"p\",strong:\"strong\",...o.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(e.p,{children:\"The integration of Solana on Coinbase could revolutionize the crypto landscape with its advanced blockchain technology.\"}),(0,a.jsx)(e.hr,{}),(0,a.jsxs)(e.p,{children:[(0,a.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,a.jsx)(e.a,{href:\"https://u.today/coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"})]}),(0,a.jsx)(e.p,{children:(0,a.jsxs)(e.em,{children:[\"This article was originally published on \",(0,a.jsx)(e.a,{href:\"https://u.today/coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"}),\" and has been curated for our readers.\"]})})]})}function h(o={}){let{wrapper:e}=o.components||{};return e?(0,a.jsx)(e,{...o,children:(0,a.jsx)(d,{...o})}):d(o)}return j(T);})();\n;return Component;"
+  },
+  "_id": "blog/2025-09-03-coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-09-03-coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live.mdx",
+    "sourceFileName": "2025-09-03-coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-09-03-coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.27,
+    "time": 16200,
+    "words": 54
+  },
+  "slug": "2025-09-03-coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live",
+  "path": "blog/2025-09-03-coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live",
+  "filePath": "blog/2025-09-03-coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Coinbase CEO Drops Major Solana News as Key Integration Goes Live",
+    "datePublished": "2025-09-03T00:00:00.000Z",
+    "dateModified": "2025-09-03T00:00:00.000Z",
+    "description": "The integration of Solana on Coinbase could revolutionize the crypto landscape with its advanced blockchain technology.",
+    "image": "/static/images/twitter-card.png",
+    "url": "https://vektr.news/blog/2025-09-03-coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live"
+  }
+}

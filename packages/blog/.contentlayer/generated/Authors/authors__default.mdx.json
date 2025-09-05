@@ -1,0 +1,33 @@
+{
+  "name": "vektr",
+  "avatar": "/static/images/avatar.png",
+  "occupation": "Crypto News Analyst",
+  "company": "vektr",
+  "email": "curator@vektr.news",
+  "twitter": "https://twitter.com/vektr",
+  "linkedin": "https://www.linkedin.com/company/vektr",
+  "github": "https://github.com/vektr",
+  "body": {
+    "raw": "\nvektr curator is an ai system that ingests a wide range of crypto rss feeds, tracks breaking items, and renders them as a headline + tight tldr with a link back to the source.\n\neach story is treated as a vector. readers can ACC/DEC the slope—amplify if it matters, dampen if it doesn’t—so momentum reflects real attention, not just recency.\n\nmission: fast, accurate, and transparent coverage that surfaces signal over noise while crediting original reporting.\n\nsources are monitored for reliability and freshness; summaries aim for clarity over hype.",
+    "code": "var Component=(()=>{var p=Object.create;var s=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var k=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),v=(e,t)=>{for(var n in t)s(e,n,{get:t[n],enumerable:!0})},o=(e,t,n,i)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let a of u(t))!g.call(e,a)&&a!==n&&s(e,a,{get:()=>t[a],enumerable:!(i=h(t,a))||i.enumerable});return e};var y=(e,t,n)=>(n=e!=null?p(f(e)):{},o(t||!e||!e.__esModule?s(n,\"default\",{value:e,enumerable:!0}):n,e)),w=e=>o(s({},\"__esModule\",{value:!0}),e);var m=k((C,c)=>{c.exports=_jsx_runtime});var _={};v(_,{default:()=>l,frontmatter:()=>x});var r=y(m()),x={name:\"vektr\",avatar:\"/static/images/avatar.png\",occupation:\"Crypto News Analyst\",company:\"vektr\",email:\"curator@vektr.news\",twitter:\"https://twitter.com/vektr\",linkedin:\"https://www.linkedin.com/company/vektr\",github:\"https://github.com/vektr\"};function d(e){let t={p:\"p\",...e.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(t.p,{children:\"vektr curator is an ai system that ingests a wide range of crypto rss feeds, tracks breaking items, and renders them as a headline + tight tldr with a link back to the source.\"}),(0,r.jsx)(t.p,{children:\"each story is treated as a vector. readers can ACC/DEC the slope\\u2014amplify if it matters, dampen if it doesn\\u2019t\\u2014so momentum reflects real attention, not just recency.\"}),(0,r.jsx)(t.p,{children:\"mission: fast, accurate, and transparent coverage that surfaces signal over noise while crediting original reporting.\"}),(0,r.jsx)(t.p,{children:\"sources are monitored for reliability and freshness; summaries aim for clarity over hype.\"})]})}function l(e={}){let{wrapper:t}=e.components||{};return t?(0,r.jsx)(t,{...e,children:(0,r.jsx)(d,{...e})}):d(e)}return w(_);})();\n;return Component;"
+  },
+  "_id": "authors/default.mdx",
+  "_raw": {
+    "sourceFilePath": "authors/default.mdx",
+    "sourceFileName": "default.mdx",
+    "sourceFileDir": "authors",
+    "contentType": "mdx",
+    "flattenedPath": "authors/default"
+  },
+  "type": "Authors",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.44,
+    "time": 26400,
+    "words": 88
+  },
+  "slug": "default",
+  "path": "authors/default",
+  "filePath": "authors/default.mdx",
+  "toc": []
+}

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>vektr.news</title>
+      <link>https://vektr.news/blog</link>
+      <description>AI-curated cryptocurrency news and analysis from trusted sources across the web. Stay updated with Bitcoin, Ethereum, DeFi, and the latest crypto market trends.</description>
+      <language>en-us</language>
+      <managingEditor>curator@vektr.news (vektr)</managingEditor>
+      <webMaster>curator@vektr.news (vektr)</webMaster>
+      <lastBuildDate>Wed, 03 Sep 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://vektr.news/tags/coinbase/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03-coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live</guid>
+    <title>Coinbase CEO Drops Major Solana News as Key Integration Goes Live</title>
+    <link>https://vektr.news/blog/2025-09-03-coinbase-ceo-drops-major-solana-news-as-key-integration-goes-live</link>
+    <description>The integration of Solana on Coinbase could revolutionize the crypto landscape with its advanced blockchain technology.</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>crypto</category><category>blockchain</category><category>solana</category><category>coinbase</category>
+  </item>
+
+    </channel>
+  </rss>

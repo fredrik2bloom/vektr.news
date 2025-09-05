@@ -1,0 +1,31 @@
+{
+  "name": "crypto-feed-monorepo",
+  "version": "1.0.0",
+  "description": "Crypto news aggregation and blog publishing system",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "npm run start --workspace=@crypto-feed/scraper",
+    "dev:scraper": "npm run dev --workspace=@crypto-feed/scraper",
+    "dev:blog": "npm run dev --workspace=tailwind-nextjs-starter-blog",
+    "build:blog": "npm run build --workspace=tailwind-nextjs-starter-blog",
+    "publish:nextjs": "npm run publish:nextjs --workspace=@crypto-feed/scraper",
+    "preview:nextjs": "npm run preview:nextjs --workspace=@crypto-feed/scraper",
+    "install:all": "npm install && npm install --workspace=@crypto-feed/scraper && npm install --workspace=tailwind-nextjs-starter-blog",
+    "clean": "rm -rf node_modules packages/*/node_modules",
+    "scraper:once": "npm run once --workspace=@crypto-feed/scraper",
+    "update-image-domains": "node scripts/update-image-domains.js"
+  },
+  "keywords": ["crypto", "rss", "news", "aggregation", "nextjs", "blog"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=18.18.0",
+    "npm": ">=9.0.0"
+  }
+}

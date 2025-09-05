@@ -1,0 +1,52 @@
+{
+  "title": "Bitcoin Faces Mounting Pressure Below Key Cost Bases",
+  "date": "2025-08-29T00:00:00.000Z",
+  "tags": [
+    "news",
+    "bitcoin",
+    "crypto"
+  ],
+  "draft": false,
+  "summary": "Realized price levels reveal investor sentiment and upcoming psychological barriers in the crypto market. Understanding these levels can help traders make infor",
+  "images": [
+    "https://cdn.sanity.io/images/s3y3vcno/production/e63508d67a4a5d3ef15aad3cd62f852736ce5443-3200x1800.png?auto=format&w=1920&h=1080&crop=focalpoint&fit=clip"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://www.coindesk.com/markets/2025/08/29/bitcoin-faces-mounting-pressure-below-key-cost-bases",
+  "body": {
+    "raw": "\n![Bitcoin Faces Mounting Pressure Below Key Cost Bases](https://cdn.sanity.io/images/s3y3vcno/production/e63508d67a4a5d3ef15aad3cd62f852736ce5443-3200x1800.png?auto=format&w=1920&h=1080&crop=focalpoint&fit=clip)\n\nRealized price levels reveal investor sentiment and upcoming psychological barriers in the crypto market. Understanding these levels can help traders make informed decisions.\n\n---\n\n**Original Article:** [CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data](https://www.coindesk.com/markets/2025/08/29/bitcoin-faces-mounting-pressure-below-key-cost-bases)\n\n*This article was originally published on [CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data](https://www.coindesk.com/markets/2025/08/29/bitcoin-faces-mounting-pressure-below-key-cost-bases) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var p=Object.create;var o=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var w=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),y=(t,e)=>{for(var s in e)o(t,s,{get:e[s],enumerable:!0})},i=(t,e,s,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of u(e))!f.call(t,r)&&r!==s&&o(t,r,{get:()=>e[r],enumerable:!(a=h(e,r))||a.enumerable});return t};var k=(t,e,s)=>(s=t!=null?p(g(t)):{},i(e||!t||!t.__esModule?o(s,\"default\",{value:t,enumerable:!0}):s,t)),b=t=>i(o({},\"__esModule\",{value:!0}),t);var l=w((C,c)=>{c.exports=_jsx_runtime});var v={};y(v,{default:()=>m,frontmatter:()=>x});var n=k(l()),x={title:\"Bitcoin Faces Mounting Pressure Below Key Cost Bases\",date:\"2025-08-29\",tags:[\"news\",\"bitcoin\",\"crypto\"],draft:!1,summary:\"Realized price levels reveal investor sentiment and upcoming psychological barriers in the crypto market. Understanding these levels can help traders make infor\",images:[\"https://cdn.sanity.io/images/s3y3vcno/production/e63508d67a4a5d3ef15aad3cd62f852736ce5443-3200x1800.png?auto=format&w=1920&h=1080&crop=focalpoint&fit=clip\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://www.coindesk.com/markets/2025/08/29/bitcoin-faces-mounting-pressure-below-key-cost-bases\"};function d(t){let e={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:(0,n.jsx)(e.img,{alt:\"Bitcoin Faces Mounting Pressure Below Key Cost Bases\",src:\"https://cdn.sanity.io/images/s3y3vcno/production/e63508d67a4a5d3ef15aad3cd62f852736ce5443-3200x1800.png?auto=format&w=1920&h=1080&crop=focalpoint&fit=clip\"})}),(0,n.jsx)(e.p,{children:\"Realized price levels reveal investor sentiment and upcoming psychological barriers in the crypto market. Understanding these levels can help traders make informed decisions.\"}),(0,n.jsx)(e.hr,{}),(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,n.jsx)(e.a,{href:\"https://www.coindesk.com/markets/2025/08/29/bitcoin-faces-mounting-pressure-below-key-cost-bases\",children:\"CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data\"})]}),(0,n.jsx)(e.p,{children:(0,n.jsxs)(e.em,{children:[\"This article was originally published on \",(0,n.jsx)(e.a,{href:\"https://www.coindesk.com/markets/2025/08/29/bitcoin-faces-mounting-pressure-below-key-cost-bases\",children:\"CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data\"}),\" and has been curated for our readers.\"]})})]})}function m(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(d,{...t})}):d(t)}return b(v);})();\n;return Component;"
+  },
+  "_id": "blog/2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases.mdx",
+    "sourceFileName": "2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.315,
+    "time": 18900,
+    "words": 63
+  },
+  "slug": "2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases",
+  "path": "blog/2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases",
+  "filePath": "blog/2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Bitcoin Faces Mounting Pressure Below Key Cost Bases",
+    "datePublished": "2025-08-29T00:00:00.000Z",
+    "dateModified": "2025-08-29T00:00:00.000Z",
+    "description": "Realized price levels reveal investor sentiment and upcoming psychological barriers in the crypto market. Understanding these levels can help traders make infor",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e63508d67a4a5d3ef15aad3cd62f852736ce5443-3200x1800.png?auto=format&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "url": "https://vektr.news/blog/2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases"
+  }
+}

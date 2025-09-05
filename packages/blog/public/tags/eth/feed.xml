@@ -1,0 +1,104 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>vektr.news</title>
+      <link>https://vektr.news/blog</link>
+      <description>AI-curated cryptocurrency news and analysis from trusted sources across the web. Stay updated with Bitcoin, Ethereum, DeFi, and the latest crypto market trends.</description>
+      <language>en-us</language>
+      <managingEditor>curator@vektr.news (vektr)</managingEditor>
+      <webMaster>curator@vektr.news (vektr)</webMaster>
+      <lastBuildDate>Fri, 29 Aug 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://vektr.news/tags/eth/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://vektr.news/blog/2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-</guid>
+    <title> CoinShares reports 26% AUM increase to $3.46B in Q2 </title>
+    <link>https://vektr.news/blog/2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-</link>
+    <description>CoinShares reports $32.4M profit in Q2 and eyes US listing. Executives anticipate growth in second half with Bitcoin and Ether reaching record highs.</description>
+    <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>bitcoin</category><category>eth</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion</guid>
+    <title>A New Vision For Money: Hoskinson Predicts Bitcoin Will Hit $10 Trillion</title>
+    <link>https://vektr.news/blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion</link>
+    <description>Charles Hoskinson, co-founder of Ethereum and Cardano, shared his bullish outlook on crypto markets. He believes Bitcoin could hit $250,000 this cycle. Stay tun</description>
+    <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>analysis</category><category>bitcoin</category><category>ethereum</category><category>eth</category><category>crypto</category><category>cardano</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021</guid>
+    <title>Ethereum onchain volume tops $320 billion in August, highest since mid-2021</title>
+    <link>https://vektr.news/blog/2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021</link>
+    <description>In August, Ethereum saw a significant spike in onchain volume, surpassing $320 billion. This surge was driven by increased institutional interest and low transa</description>
+    <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>ethereum</category><category>eth</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter</guid>
+    <title>Tether leads as crypto borrowing soars to $44 billion in record quarter</title>
+    <link>https://vektr.news/blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter</link>
+    <description>Crypto borrowing surged in Q2 2025, hitting a record $26.47 billion backed by digital assets on DeFi platforms. Galaxy Research revealed a 42.1% increase from t</description>
+    <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>eth</category><category>crypto</category><category>defi</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-02-bunni-dex-halts-smart-contracts-after-exploit-drains-84m-across-chains</guid>
+    <title>Bunni DEX Halts Smart Contracts After Exploit Drains $8.4M Across Chains</title>
+    <link>https://vektr.news/blog/2025-09-02-bunni-dex-halts-smart-contracts-after-exploit-drains-84m-across-chains</link>
+    <description>An exploit recently hit BunniHub&#39;s main contract system, leading to funds being redirected to two Ethereum wallets. Stay updated on the latest developments in t</description>
+    <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>ethereum</category><category>eth</category><category>crypto</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03--eth-staking-entry-queue-surges-to-two-year-high-as-institutions-accumulate-</guid>
+    <title> ETH staking entry queue surges to two-year high as institutions accumulate </title>
+    <link>https://vektr.news/blog/2025-09-03--eth-staking-entry-queue-surges-to-two-year-high-as-institutions-accumulate-</link>
+    <description>Institutional demand for Ethereum staking is soaring, leading to a record-high entry queue. Confidence in the blockchain is also growing. Meanwhile, the exit qu</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>ethereum</category><category>eth</category><category>blockchain</category><category>staking</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03--okx-fined-26m-in-netherlands-for-unlicensed-operations-ahead-of-mica-rollout-</guid>
+    <title> OKX fined $2.6M in Netherlands for unlicensed operations ahead of MiCA rollout </title>
+    <link>https://vektr.news/blog/2025-09-03--okx-fined-26m-in-netherlands-for-unlicensed-operations-ahead-of-mica-rollout-</link>
+    <description>OKX hit with $2.6M fine by Dutch National Bank for unregistered operations in Netherlands pre-MiCA.</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>eth</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03-morning-minute-bitcoin-and-eth-trading-is-coming-to-the-nyse-nasdaq-and-more</guid>
+    <title>Morning Minute: Bitcoin and ETH Trading Is Coming to the NYSE, Nasdaq and More</title>
+    <link>https://vektr.news/blog/2025-09-03-morning-minute-bitcoin-and-eth-trading-is-coming-to-the-nyse-nasdaq-and-more</link>
+    <description>SEC &amp; CFTC team up for &#39;Project Crypto&#39; while SOL dominates amidst green market surge.</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>bitcoin</category><category>eth</category><category>crypto</category><category>trading</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03-wall-street-giants-poised-to-offer-spot-bitcoin-and-ethereum-trading</guid>
+    <title>Wall Street Giants Poised to Offer Spot Bitcoin and Ethereum Trading</title>
+    <link>https://vektr.news/blog/2025-09-03-wall-street-giants-poised-to-offer-spot-bitcoin-and-ethereum-trading</link>
+    <description>US regulators greenlight Wall Street giants to host Bitcoin and Ethereum trading.</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>bitcoin</category><category>ethereum</category><category>eth</category><category>trading</category>
+  </item>
+
+    </channel>
+  </rss>

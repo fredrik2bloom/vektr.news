@@ -1,0 +1,64 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>vektr.news</title>
+      <link>https://vektr.news/blog</link>
+      <description>AI-curated cryptocurrency news and analysis from trusted sources across the web. Stay updated with Bitcoin, Ethereum, DeFi, and the latest crypto market trends.</description>
+      <language>en-us</language>
+      <managingEditor>curator@vektr.news (vektr)</managingEditor>
+      <webMaster>curator@vektr.news (vektr)</webMaster>
+      <lastBuildDate>Fri, 29 Aug 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://vektr.news/tags/analysis/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://vektr.news/blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion</guid>
+    <title>A New Vision For Money: Hoskinson Predicts Bitcoin Will Hit $10 Trillion</title>
+    <link>https://vektr.news/blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion</link>
+    <description>Charles Hoskinson, co-founder of Ethereum and Cardano, shared his bullish outlook on crypto markets. He believes Bitcoin could hit $250,000 this cycle. Stay tun</description>
+    <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>analysis</category><category>bitcoin</category><category>ethereum</category><category>eth</category><category>crypto</category><category>cardano</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-02-no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst</guid>
+    <title>No Fireworks, Just Grind: Bitcoin Could Drift To $1M Over 7 Years: Analyst</title>
+    <link>https://vektr.news/blog/2025-09-02-no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst</link>
+    <description>Bitcoin analyst PlanC suggests that the path to $1,000,000 per coin may not be as dramatic as some anticipate. Rather than rapid price spikes, Bitcoin could see</description>
+    <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>analysis</category><category>bitcoin</category><category>crypto</category><category>news</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03-bitcoin-flashes-rare-buy-signal-not-seen-since-49000-and-74000-bottoms</guid>
+    <title>Bitcoin Flashes Rare Buy Signal Not Seen Since $49,000 And $74,000 Bottoms</title>
+    <link>https://vektr.news/blog/2025-09-03-bitcoin-flashes-rare-buy-signal-not-seen-since-49000-and-74000-bottoms</link>
+    <description>On-chain analyst Frank spotted a “buy” signal for Bitcoin, indicating potential price increases. This signal has historically led to significant swing lows at $</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>analysis</category><category>bitcoin</category><category>news</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03-cardano-ada-signals-recovery-is-a-strong-upside-move-ahead</guid>
+    <title>Cardano (ADA) Signals Recovery – Is a Strong Upside Move Ahead?</title>
+    <link>https://vektr.news/blog/2025-09-03-cardano-ada-signals-recovery-is-a-strong-upside-move-ahead</link>
+    <description>Cardano&#39;s price has bounced back from $0.780, aiming to surpass $0.840. With a strong upward trend, ADA is now trading above $0.8120 and the 100-hourly SMA. Thi</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>analysis</category><category>trading</category><category>cardano</category><category>news</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03-strategy-expands-bitcoin-treasury-450-million-purchase-sends-total-holdings-to-n</guid>
+    <title>Strategy Expands Bitcoin Treasury: $450 Million Purchase Sends Total Holdings To New Highs</title>
+    <link>https://vektr.news/blog/2025-09-03-strategy-expands-bitcoin-treasury-450-million-purchase-sends-total-holdings-to-n</link>
+    <description>Strategy, formerly MicroStrategy, continues to bolster its Bitcoin treasury with a $450 million acquisition. Co-founder Michael Saylor remains bullish on Bitcoi</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>analysis</category><category>bitcoin</category><category>news</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,49 @@
+{
+  "title": "100% XRP Explosion: Biggest 24-Hour Spike in 2025",
+  "date": "2025-09-02T00:00:00.000Z",
+  "tags": [
+    "news",
+    "crypto",
+    "cryptocurrency"
+  ],
+  "draft": false,
+  "summary": "XRP's recent surge in on-chain activity signals potential long-term growth. This increase in transactions could be a positive sign for the cryptocurrency's reco",
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://u.today/100-xrp-explosion-biggest-24-hour-spike-in-2025",
+  "body": {
+    "raw": "\nXRP's recent surge in on-chain activity signals potential long-term growth. This increase in transactions could be a positive sign for the cryptocurrency's recovery.\n\n---\n\n**Original Article:** [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/100-xrp-explosion-biggest-24-hour-spike-in-2025)\n\n*This article was originally published on [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/100-xrp-explosion-biggest-24-hour-spike-in-2025) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var u=Object.create;var i=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var y=Object.getPrototypeOf,m=Object.prototype.hasOwnProperty;var x=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var r in e)i(t,r,{get:e[r],enumerable:!0})},a=(t,e,r,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of g(e))!m.call(t,o)&&o!==r&&i(t,o,{get:()=>e[o],enumerable:!(s=d(e,o))||s.enumerable});return t};var T=(t,e,r)=>(r=t!=null?u(y(t)):{},a(e||!t||!t.__esModule?i(r,\"default\",{value:t,enumerable:!0}):r,t)),b=t=>a(i({},\"__esModule\",{value:!0}),t);var l=x((v,c)=>{c.exports=_jsx_runtime});var _={};f(_,{default:()=>p,frontmatter:()=>w});var n=T(l()),w={title:\"100% XRP Explosion: Biggest 24-Hour Spike in 2025\",date:\"2025-09-02\",tags:[\"news\",\"crypto\",\"cryptocurrency\"],draft:!1,summary:\"XRP's recent surge in on-chain activity signals potential long-term growth. This increase in transactions could be a positive sign for the cryptocurrency's reco\",authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://u.today/100-xrp-explosion-biggest-24-hour-spike-in-2025\"};function h(t){let e={a:\"a\",em:\"em\",hr:\"hr\",p:\"p\",strong:\"strong\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"XRP's recent surge in on-chain activity signals potential long-term growth. This increase in transactions could be a positive sign for the cryptocurrency's recovery.\"}),(0,n.jsx)(e.hr,{}),(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,n.jsx)(e.a,{href:\"https://u.today/100-xrp-explosion-biggest-24-hour-spike-in-2025\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"})]}),(0,n.jsx)(e.p,{children:(0,n.jsxs)(e.em,{children:[\"This article was originally published on \",(0,n.jsx)(e.a,{href:\"https://u.today/100-xrp-explosion-biggest-24-hour-spike-in-2025\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"}),\" and has been curated for our readers.\"]})})]})}function p(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(h,{...t})}):h(t)}return b(_);})();\n;return Component;"
+  },
+  "_id": "blog/2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025.mdx",
+    "sourceFileName": "2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.305,
+    "time": 18300,
+    "words": 61
+  },
+  "slug": "2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025",
+  "path": "blog/2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025",
+  "filePath": "blog/2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "100% XRP Explosion: Biggest 24-Hour Spike in 2025",
+    "datePublished": "2025-09-02T00:00:00.000Z",
+    "dateModified": "2025-09-02T00:00:00.000Z",
+    "description": "XRP's recent surge in on-chain activity signals potential long-term growth. This increase in transactions could be a positive sign for the cryptocurrency's reco",
+    "image": "/static/images/twitter-card.png",
+    "url": "https://vektr.news/blog/2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025"
+  }
+}

@@ -1,0 +1,1171 @@
+{
+  "cacheItemsMap": {
+    "authors/default.mdx": {
+      "document": {
+        "name": "vectr Curator",
+        "avatar": "/static/images/avatar.png",
+        "occupation": "Crypto News Analyst",
+        "company": "vectr",
+        "email": "curator@vectr.news",
+        "twitter": "https://twitter.com/vectr",
+        "linkedin": "https://www.linkedin.com/company/vectr",
+        "github": "https://github.com/vectr",
+        "body": {
+          "raw": "\nThe vectr Curator is an AI-powered system that aggregates, analyzes, and curates the latest cryptocurrency news from trusted sources across the web.\n\nOur mission is to provide timely, accurate, and insightful crypto news coverage, helping readers stay informed about the rapidly evolving digital asset landscape.\n\nAll articles are sourced from reputable crypto news outlets and processed to ensure high-quality, relevant content for our readers.\n",
+          "code": "var Component=(()=>{var d=Object.create;var s=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var v=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),w=(t,e)=>{for(var n in e)s(t,n,{get:e[n],enumerable:!0})},c=(t,e,n,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of h(e))!y.call(t,a)&&a!==n&&s(t,a,{get:()=>e[a],enumerable:!(o=m(e,a))||o.enumerable});return t};var f=(t,e,n)=>(n=t!=null?d(g(t)):{},c(e||!t||!t.__esModule?s(n,\"default\",{value:t,enumerable:!0}):n,t)),x=t=>c(s({},\"__esModule\",{value:!0}),t);var u=v((C,i)=>{i.exports=_jsx_runtime});var b={};w(b,{default:()=>p,frontmatter:()=>_});var r=f(u()),_={name:\"vectr Curator\",avatar:\"/static/images/avatar.png\",occupation:\"Crypto News Analyst\",company:\"vectr\",email:\"curator@vectr.news\",twitter:\"https://twitter.com/vectr\",linkedin:\"https://www.linkedin.com/company/vectr\",github:\"https://github.com/vectr\"};function l(t){let e={p:\"p\",...t.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(e.p,{children:\"The vectr Curator is an AI-powered system that aggregates, analyzes, and curates the latest cryptocurrency news from trusted sources across the web.\"}),(0,r.jsx)(e.p,{children:\"Our mission is to provide timely, accurate, and insightful crypto news coverage, helping readers stay informed about the rapidly evolving digital asset landscape.\"}),(0,r.jsx)(e.p,{children:\"All articles are sourced from reputable crypto news outlets and processed to ensure high-quality, relevant content for our readers.\"})]})}function p(t={}){let{wrapper:e}=t.components||{};return e?(0,r.jsx)(e,{...t,children:(0,r.jsx)(l,{...t})}):l(t)}return x(b);})();\n;return Component;"
+        },
+        "_id": "authors/default.mdx",
+        "_raw": {
+          "sourceFilePath": "authors/default.mdx",
+          "sourceFileName": "default.mdx",
+          "sourceFileDir": "authors",
+          "contentType": "mdx",
+          "flattenedPath": "authors/default"
+        },
+        "type": "Authors",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.32,
+          "time": 19200,
+          "words": 64
+        },
+        "slug": "default",
+        "path": "authors/default",
+        "filePath": "authors/default.mdx",
+        "toc": []
+      },
+      "documentHash": "1756841186589",
+      "hasWarnings": false,
+      "documentTypeName": "Authors"
+    },
+    "blog/2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-.mdx": {
+      "document": {
+        "title": " Bitcoin whales send BTC price under $109.5K as market ‘wobbles’ into US PCE ",
+        "date": "2025-08-29T00:00:00.000Z",
+        "tags": [
+          "news",
+          "bitcoin",
+          "btc",
+          "crypto"
+        ],
+        "draft": false,
+        "summary": "Crypto traders are noticing familiar patterns in Bitcoin whale behavior this week, just in time for the release of US inflation data. Keep an eye on the market ",
+        "images": [
+          "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhlZjUtOTA2Yi03ZmI1LTgwYjktNTk1NzNmZjJiY2Mw.jpg"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://cointelegraph.com/news/bitcoin-whales-send-btc-price-under-109-5k-market-wobbles-into-us-pce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "body": {
+          "raw": "\n![ Bitcoin whales send BTC price under $109.5K as market ‘wobbles’ into US PCE ](https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhlZjUtOTA2Yi03ZmI1LTgwYjktNTk1NzNmZjJiY2Mw.jpg)\n\nCrypto traders are noticing familiar patterns in Bitcoin whale behavior this week, just in time for the release of US inflation data. Keep an eye on the market as these \"spoofy\" trends unfold.\n\n---\n\n**Original Article:** [Cointelegraph.com News](https://cointelegraph.com/news/bitcoin-whales-send-btc-price-under-109-5k-market-wobbles-into-us-pce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n*This article was originally published on [Cointelegraph.com News](https://cointelegraph.com/news/bitcoin-whales-send-btc-price-under-109-5k-market-wobbles-into-us-pce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var d=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var w=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),_=(t,e)=>{for(var r in e)i(t,r,{get:e[r],enumerable:!0})},o=(t,e,r,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let s of u(e))!b.call(t,s)&&s!==r&&i(t,s,{get:()=>e[s],enumerable:!(a=p(e,s))||a.enumerable});return t};var f=(t,e,r)=>(r=t!=null?d(g(t)):{},o(e||!t||!t.__esModule?i(r,\"default\",{value:t,enumerable:!0}):r,t)),j=t=>o(i({},\"__esModule\",{value:!0}),t);var m=w((x,c)=>{c.exports=_jsx_runtime});var M={};_(M,{default:()=>h,frontmatter:()=>y});var n=f(m()),y={title:\" Bitcoin whales send BTC price under $109.5K as market \\u2018wobbles\\u2019 into US PCE \",date:\"2025-08-29\",tags:[\"news\",\"bitcoin\",\"btc\",\"crypto\"],draft:!1,summary:\"Crypto traders are noticing familiar patterns in Bitcoin whale behavior this week, just in time for the release of US inflation data. Keep an eye on the market \",images:[\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhlZjUtOTA2Yi03ZmI1LTgwYjktNTk1NzNmZjJiY2Mw.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://cointelegraph.com/news/bitcoin-whales-send-btc-price-under-109-5k-market-wobbles-into-us-pce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\"};function l(t){let e={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:(0,n.jsx)(e.img,{alt:\" Bitcoin whales send BTC price under $109.5K as market \\u2018wobbles\\u2019 into US PCE \",src:\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhlZjUtOTA2Yi03ZmI1LTgwYjktNTk1NzNmZjJiY2Mw.jpg\"})}),(0,n.jsx)(e.p,{children:'Crypto traders are noticing familiar patterns in Bitcoin whale behavior this week, just in time for the release of US inflation data. Keep an eye on the market as these \"spoofy\" trends unfold.'}),(0,n.jsx)(e.hr,{}),(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,n.jsx)(e.a,{href:\"https://cointelegraph.com/news/bitcoin-whales-send-btc-price-under-109-5k-market-wobbles-into-us-pce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"})]}),(0,n.jsx)(e.p,{children:(0,n.jsxs)(e.em,{children:[\"This article was originally published on \",(0,n.jsx)(e.a,{href:\"https://cointelegraph.com/news/bitcoin-whales-send-btc-price-under-109-5k-market-wobbles-into-us-pce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"}),\" and has been curated for our readers.\"]})})]})}function h(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(l,{...t})}):l(t)}return j(M);})();\n;return Component;"
+        },
+        "_id": "blog/2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-.mdx",
+          "sourceFileName": "2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.34,
+          "time": 20400,
+          "words": 68
+        },
+        "slug": "2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-",
+        "path": "blog/2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-",
+        "filePath": "blog/2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": " Bitcoin whales send BTC price under $109.5K as market ‘wobbles’ into US PCE ",
+          "datePublished": "2025-08-29T00:00:00.000Z",
+          "dateModified": "2025-08-29T00:00:00.000Z",
+          "description": "Crypto traders are noticing familiar patterns in Bitcoin whale behavior this week, just in time for the release of US inflation data. Keep an eye on the market ",
+          "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhlZjUtOTA2Yi03ZmI1LTgwYjktNTk1NzNmZjJiY2Mw.jpg",
+          "url": "https://vectr.news/blog/2025-08-29--bitcoin-whales-send-btc-price-under-1095k-as-market-wobbles-into-us-pce-"
+        }
+      },
+      "documentHash": "1756474167587",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-.mdx": {
+      "document": {
+        "title": " CoinShares reports 26% AUM increase to $3.46B in Q2 ",
+        "date": "2025-08-29T00:00:00.000Z",
+        "tags": [
+          "news",
+          "bitcoin",
+          "eth"
+        ],
+        "draft": false,
+        "summary": "CoinShares reports $32.4M profit in Q2 and eyes US listing. Executives anticipate growth in second half with Bitcoin and Ether reaching record highs.",
+        "images": [
+          "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc2YWEtODM0NC03YmQ4LTg1YTEtNzNiMTVlYzRkZGZk.jpg"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://cointelegraph.com/news/coinshares-q2-2025-net-profit-32m-aum-growth-26?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "body": {
+          "raw": "\n![ CoinShares reports 26% AUM increase to $3.46B in Q2 ](https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc2YWEtODM0NC03YmQ4LTg1YTEtNzNiMTVlYzRkZGZk.jpg)\n\nCoinShares reports $32.4M profit in Q2 and eyes US listing. Executives anticipate growth in second half with Bitcoin and Ether reaching record highs.\n\n---\n\n**Original Article:** [Cointelegraph.com News](https://cointelegraph.com/news/coinshares-q2-2025-net-profit-32m-aum-growth-26?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n*This article was originally published on [Cointelegraph.com News](https://cointelegraph.com/news/coinshares-q2-2025-net-profit-32m-aum-growth-26?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var p=Object.create;var i=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var l=Object.getPrototypeOf,_=Object.prototype.hasOwnProperty;var M=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var n in e)i(t,n,{get:e[n],enumerable:!0})},o=(t,e,n,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let s of u(e))!_.call(t,s)&&s!==n&&i(t,s,{get:()=>e[s],enumerable:!(a=d(e,s))||a.enumerable});return t};var w=(t,e,n)=>(n=t!=null?p(l(t)):{},o(e||!t||!t.__esModule?i(n,\"default\",{value:t,enumerable:!0}):n,t)),x=t=>o(i({},\"__esModule\",{value:!0}),t);var m=M((Y,c)=>{c.exports=_jsx_runtime});var z={};f(z,{default:()=>g,frontmatter:()=>y});var r=w(m()),y={title:\" CoinShares reports 26% AUM increase to $3.46B in Q2 \",date:\"2025-08-29\",tags:[\"news\",\"bitcoin\",\"eth\"],draft:!1,summary:\"CoinShares reports $32.4M profit in Q2 and eyes US listing. Executives anticipate growth in second half with Bitcoin and Ether reaching record highs.\",images:[\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc2YWEtODM0NC03YmQ4LTg1YTEtNzNiMTVlYzRkZGZk.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://cointelegraph.com/news/coinshares-q2-2025-net-profit-32m-aum-growth-26?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\"};function h(t){let e={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(e.p,{children:(0,r.jsx)(e.img,{alt:\" CoinShares reports 26% AUM increase to $3.46B in Q2 \",src:\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc2YWEtODM0NC03YmQ4LTg1YTEtNzNiMTVlYzRkZGZk.jpg\"})}),(0,r.jsx)(e.p,{children:\"CoinShares reports $32.4M profit in Q2 and eyes US listing. Executives anticipate growth in second half with Bitcoin and Ether reaching record highs.\"}),(0,r.jsx)(e.hr,{}),(0,r.jsxs)(e.p,{children:[(0,r.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,r.jsx)(e.a,{href:\"https://cointelegraph.com/news/coinshares-q2-2025-net-profit-32m-aum-growth-26?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"})]}),(0,r.jsx)(e.p,{children:(0,r.jsxs)(e.em,{children:[\"This article was originally published on \",(0,r.jsx)(e.a,{href:\"https://cointelegraph.com/news/coinshares-q2-2025-net-profit-32m-aum-growth-26?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"}),\" and has been curated for our readers.\"]})})]})}function g(t={}){let{wrapper:e}=t.components||{};return e?(0,r.jsx)(e,{...t,children:(0,r.jsx)(h,{...t})}):h(t)}return x(z);})();\n;return Component;"
+        },
+        "_id": "blog/2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-.mdx",
+          "sourceFileName": "2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.27,
+          "time": 16200,
+          "words": 54
+        },
+        "slug": "2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-",
+        "path": "blog/2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-",
+        "filePath": "blog/2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": " CoinShares reports 26% AUM increase to $3.46B in Q2 ",
+          "datePublished": "2025-08-29T00:00:00.000Z",
+          "dateModified": "2025-08-29T00:00:00.000Z",
+          "description": "CoinShares reports $32.4M profit in Q2 and eyes US listing. Executives anticipate growth in second half with Bitcoin and Ether reaching record highs.",
+          "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc2YWEtODM0NC03YmQ4LTg1YTEtNzNiMTVlYzRkZGZk.jpg",
+          "url": "https://vectr.news/blog/2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-"
+        }
+      },
+      "documentHash": "1756474167588",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion.mdx": {
+      "document": {
+        "title": "A New Vision For Money: Hoskinson Predicts Bitcoin Will Hit $10 Trillion",
+        "date": "2025-08-29T00:00:00.000Z",
+        "tags": [
+          "analysis",
+          "bitcoin",
+          "ethereum",
+          "eth",
+          "crypto",
+          "cardano"
+        ],
+        "draft": false,
+        "summary": "Charles Hoskinson, co-founder of Ethereum and Cardano, shared his bullish outlook on crypto markets. He believes Bitcoin could hit $250,000 this cycle. Stay tun",
+        "images": [
+          "https://www.newsbtc.com/wp-content/uploads/2025/08/generate_image_of_bitcoin_rising_and_dominating.jpeg?fit=536%2C536"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://www.newsbtc.com/bitcoin-news/a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion/",
+        "body": {
+          "raw": "\n![A New Vision For Money: Hoskinson Predicts Bitcoin Will Hit $10 Trillion](https://www.newsbtc.com/wp-content/uploads/2025/08/generate_image_of_bitcoin_rising_and_dominating.jpeg?fit=536%2C536)\n\nCharles Hoskinson, co-founder of Ethereum and Cardano, shared his bullish outlook on crypto markets. He believes Bitcoin could hit $250,000 this cycle. Stay tuned for more insights on the future of crypto payments.\n\n---\n\n**Original Article:** [NewsBTC](https://www.newsbtc.com/bitcoin-news/a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion/)\n\n*This article was originally published on [NewsBTC](https://www.newsbtc.com/bitcoin-news/a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion/) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var m=Object.create;var s=Object.defineProperty;var w=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var g=(i,n)=>()=>(n||i((n={exports:{}}).exports,n),n.exports),b=(i,n)=>{for(var o in n)s(i,o,{get:n[o],enumerable:!0})},c=(i,n,o,r)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let e of u(n))!f.call(i,e)&&e!==o&&s(i,e,{get:()=>n[e],enumerable:!(r=w(n,e))||r.enumerable});return i};var y=(i,n,o)=>(o=i!=null?m(p(i)):{},c(n||!i||!i.__esModule?s(o,\"default\",{value:i,enumerable:!0}):o,i)),_=i=>c(s({},\"__esModule\",{value:!0}),i);var l=g((H,a)=>{a.exports=_jsx_runtime});var C={};b(C,{default:()=>d,frontmatter:()=>k});var t=y(l()),k={title:\"A New Vision For Money: Hoskinson Predicts Bitcoin Will Hit $10 Trillion\",date:\"2025-08-29\",tags:[\"analysis\",\"bitcoin\",\"ethereum\",\"eth\",\"crypto\",\"cardano\"],draft:!1,summary:\"Charles Hoskinson, co-founder of Ethereum and Cardano, shared his bullish outlook on crypto markets. He believes Bitcoin could hit $250,000 this cycle. Stay tun\",images:[\"https://www.newsbtc.com/wp-content/uploads/2025/08/generate_image_of_bitcoin_rising_and_dominating.jpeg?fit=536%2C536\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://www.newsbtc.com/bitcoin-news/a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion/\"};function h(i){let n={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...i.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:(0,t.jsx)(n.img,{alt:\"A New Vision For Money: Hoskinson Predicts Bitcoin Will Hit $10 Trillion\",src:\"https://www.newsbtc.com/wp-content/uploads/2025/08/generate_image_of_bitcoin_rising_and_dominating.jpeg?fit=536%2C536\"})}),(0,t.jsx)(n.p,{children:\"Charles Hoskinson, co-founder of Ethereum and Cardano, shared his bullish outlook on crypto markets. He believes Bitcoin could hit $250,000 this cycle. Stay tuned for more insights on the future of crypto payments.\"}),(0,t.jsx)(n.hr,{}),(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:\"Original Article:\"}),\" \",(0,t.jsx)(n.a,{href:\"https://www.newsbtc.com/bitcoin-news/a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion/\",children:\"NewsBTC\"})]}),(0,t.jsx)(n.p,{children:(0,t.jsxs)(n.em,{children:[\"This article was originally published on \",(0,t.jsx)(n.a,{href:\"https://www.newsbtc.com/bitcoin-news/a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion/\",children:\"NewsBTC\"}),\" and has been curated for our readers.\"]})})]})}function d(i={}){let{wrapper:n}=i.components||{};return n?(0,t.jsx)(n,{...i,children:(0,t.jsx)(h,{...i})}):h(i)}return _(C);})();\n;return Component;"
+        },
+        "_id": "blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion.mdx",
+          "sourceFileName": "2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.315,
+          "time": 18900,
+          "words": 63
+        },
+        "slug": "2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion",
+        "path": "blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion",
+        "filePath": "blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "A New Vision For Money: Hoskinson Predicts Bitcoin Will Hit $10 Trillion",
+          "datePublished": "2025-08-29T00:00:00.000Z",
+          "dateModified": "2025-08-29T00:00:00.000Z",
+          "description": "Charles Hoskinson, co-founder of Ethereum and Cardano, shared his bullish outlook on crypto markets. He believes Bitcoin could hit $250,000 this cycle. Stay tun",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2025/08/generate_image_of_bitcoin_rising_and_dominating.jpeg?fit=536%2C536",
+          "url": "https://vectr.news/blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion"
+        }
+      },
+      "documentHash": "1756474167587",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-08-29-binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner.mdx": {
+      "document": {
+        "title": "Binance's CZ Breaks Silence on DEX vs. CEX Rivalry, Picks Future Winner",
+        "date": "2025-08-29T00:00:00.000Z",
+        "tags": [
+          "news",
+          "crypto",
+          "blockchain",
+          "binance"
+        ],
+        "draft": false,
+        "summary": "Binance CEO CZ highlights groundbreaking crypto innovations set for major advancements. Stay tuned for the latest developments in the world of blockchain techno",
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://u.today/binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner",
+        "body": {
+          "raw": "\nBinance CEO CZ highlights groundbreaking crypto innovations set for major advancements. Stay tuned for the latest developments in the world of blockchain technology.\n\n---\n\n**Original Article:** [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner)\n\n*This article was originally published on [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var u=Object.create;var o=Object.defineProperty;var y=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,p=Object.prototype.hasOwnProperty;var g=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),x=(n,e)=>{for(var r in e)o(n,r,{get:e[r],enumerable:!0})},s=(n,e,r,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of f(e))!p.call(n,a)&&a!==r&&o(n,a,{get:()=>e[a],enumerable:!(i=y(e,a))||i.enumerable});return n};var b=(n,e,r)=>(r=n!=null?u(m(n)):{},s(e||!n||!n.__esModule?o(r,\"default\",{value:n,enumerable:!0}):r,n)),v=n=>s(o({},\"__esModule\",{value:!0}),n);var l=g((j,c)=>{c.exports=_jsx_runtime});var w={};x(w,{default:()=>h,frontmatter:()=>k});var t=b(l()),k={title:\"Binance's CZ Breaks Silence on DEX vs. CEX Rivalry, Picks Future Winner\",date:\"2025-08-29\",tags:[\"news\",\"crypto\",\"blockchain\",\"binance\"],draft:!1,summary:\"Binance CEO CZ highlights groundbreaking crypto innovations set for major advancements. Stay tuned for the latest developments in the world of blockchain techno\",authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://u.today/binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner\"};function d(n){let e={a:\"a\",em:\"em\",hr:\"hr\",p:\"p\",strong:\"strong\",...n.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.p,{children:\"Binance CEO CZ highlights groundbreaking crypto innovations set for major advancements. Stay tuned for the latest developments in the world of blockchain technology.\"}),(0,t.jsx)(e.hr,{}),(0,t.jsxs)(e.p,{children:[(0,t.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,t.jsx)(e.a,{href:\"https://u.today/binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"})]}),(0,t.jsx)(e.p,{children:(0,t.jsxs)(e.em,{children:[\"This article was originally published on \",(0,t.jsx)(e.a,{href:\"https://u.today/binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"}),\" and has been curated for our readers.\"]})})]})}function h(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,{...n,children:(0,t.jsx)(d,{...n})}):d(n)}return v(w);})();\n;return Component;"
+        },
+        "_id": "blog/2025-08-29-binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-08-29-binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner.mdx",
+          "sourceFileName": "2025-08-29-binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-08-29-binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.305,
+          "time": 18300,
+          "words": 61
+        },
+        "slug": "2025-08-29-binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner",
+        "path": "blog/2025-08-29-binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner",
+        "filePath": "blog/2025-08-29-binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "Binance's CZ Breaks Silence on DEX vs. CEX Rivalry, Picks Future Winner",
+          "datePublished": "2025-08-29T00:00:00.000Z",
+          "dateModified": "2025-08-29T00:00:00.000Z",
+          "description": "Binance CEO CZ highlights groundbreaking crypto innovations set for major advancements. Stay tuned for the latest developments in the world of blockchain techno",
+          "image": "/static/images/twitter-card.png",
+          "url": "https://vectr.news/blog/2025-08-29-binances-cz-breaks-silence-on-dex-vs-cex-rivalry-picks-future-winner"
+        }
+      },
+      "documentHash": "1756474167588",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases.mdx": {
+      "document": {
+        "title": "Bitcoin Faces Mounting Pressure Below Key Cost Bases",
+        "date": "2025-08-29T00:00:00.000Z",
+        "tags": [
+          "news",
+          "bitcoin",
+          "crypto"
+        ],
+        "draft": false,
+        "summary": "Realized price levels reveal investor sentiment and upcoming psychological barriers in the crypto market. Understanding these levels can help traders make infor",
+        "images": [
+          "https://cdn.sanity.io/images/s3y3vcno/production/e63508d67a4a5d3ef15aad3cd62f852736ce5443-3200x1800.png?auto=format&w=1920&h=1080&crop=focalpoint&fit=clip"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://www.coindesk.com/markets/2025/08/29/bitcoin-faces-mounting-pressure-below-key-cost-bases",
+        "body": {
+          "raw": "\n![Bitcoin Faces Mounting Pressure Below Key Cost Bases](https://cdn.sanity.io/images/s3y3vcno/production/e63508d67a4a5d3ef15aad3cd62f852736ce5443-3200x1800.png?auto=format&w=1920&h=1080&crop=focalpoint&fit=clip)\n\nRealized price levels reveal investor sentiment and upcoming psychological barriers in the crypto market. Understanding these levels can help traders make informed decisions.\n\n---\n\n**Original Article:** [CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data](https://www.coindesk.com/markets/2025/08/29/bitcoin-faces-mounting-pressure-below-key-cost-bases)\n\n*This article was originally published on [CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data](https://www.coindesk.com/markets/2025/08/29/bitcoin-faces-mounting-pressure-below-key-cost-bases) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var p=Object.create;var o=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var w=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),y=(t,e)=>{for(var s in e)o(t,s,{get:e[s],enumerable:!0})},i=(t,e,s,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of u(e))!f.call(t,r)&&r!==s&&o(t,r,{get:()=>e[r],enumerable:!(a=h(e,r))||a.enumerable});return t};var k=(t,e,s)=>(s=t!=null?p(g(t)):{},i(e||!t||!t.__esModule?o(s,\"default\",{value:t,enumerable:!0}):s,t)),b=t=>i(o({},\"__esModule\",{value:!0}),t);var l=w((C,c)=>{c.exports=_jsx_runtime});var v={};y(v,{default:()=>m,frontmatter:()=>x});var n=k(l()),x={title:\"Bitcoin Faces Mounting Pressure Below Key Cost Bases\",date:\"2025-08-29\",tags:[\"news\",\"bitcoin\",\"crypto\"],draft:!1,summary:\"Realized price levels reveal investor sentiment and upcoming psychological barriers in the crypto market. Understanding these levels can help traders make infor\",images:[\"https://cdn.sanity.io/images/s3y3vcno/production/e63508d67a4a5d3ef15aad3cd62f852736ce5443-3200x1800.png?auto=format&w=1920&h=1080&crop=focalpoint&fit=clip\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://www.coindesk.com/markets/2025/08/29/bitcoin-faces-mounting-pressure-below-key-cost-bases\"};function d(t){let e={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:(0,n.jsx)(e.img,{alt:\"Bitcoin Faces Mounting Pressure Below Key Cost Bases\",src:\"https://cdn.sanity.io/images/s3y3vcno/production/e63508d67a4a5d3ef15aad3cd62f852736ce5443-3200x1800.png?auto=format&w=1920&h=1080&crop=focalpoint&fit=clip\"})}),(0,n.jsx)(e.p,{children:\"Realized price levels reveal investor sentiment and upcoming psychological barriers in the crypto market. Understanding these levels can help traders make informed decisions.\"}),(0,n.jsx)(e.hr,{}),(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,n.jsx)(e.a,{href:\"https://www.coindesk.com/markets/2025/08/29/bitcoin-faces-mounting-pressure-below-key-cost-bases\",children:\"CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data\"})]}),(0,n.jsx)(e.p,{children:(0,n.jsxs)(e.em,{children:[\"This article was originally published on \",(0,n.jsx)(e.a,{href:\"https://www.coindesk.com/markets/2025/08/29/bitcoin-faces-mounting-pressure-below-key-cost-bases\",children:\"CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data\"}),\" and has been curated for our readers.\"]})})]})}function m(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(d,{...t})}):d(t)}return b(v);})();\n;return Component;"
+        },
+        "_id": "blog/2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases.mdx",
+          "sourceFileName": "2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.315,
+          "time": 18900,
+          "words": 63
+        },
+        "slug": "2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases",
+        "path": "blog/2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases",
+        "filePath": "blog/2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "Bitcoin Faces Mounting Pressure Below Key Cost Bases",
+          "datePublished": "2025-08-29T00:00:00.000Z",
+          "dateModified": "2025-08-29T00:00:00.000Z",
+          "description": "Realized price levels reveal investor sentiment and upcoming psychological barriers in the crypto market. Understanding these levels can help traders make infor",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e63508d67a4a5d3ef15aad3cd62f852736ce5443-3200x1800.png?auto=format&w=1920&h=1080&crop=focalpoint&fit=clip",
+          "url": "https://vectr.news/blog/2025-08-29-bitcoin-faces-mounting-pressure-below-key-cost-bases"
+        }
+      },
+      "documentHash": "1756474167587",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas.mdx": {
+      "document": {
+        "title": "Bitcoin Pioneer Charlie Shrem: '5-10 Bitcoin Getting to Be Life-Changing Money Fast’",
+        "date": "2025-08-29T00:00:00.000Z",
+        "tags": [
+          "news",
+          "bitcoin",
+          "btc",
+          "crypto",
+          "adoption"
+        ],
+        "draft": false,
+        "summary": "Bitcoin pioneer Charlie Shrem reflects on his accurate Bitcoin prediction from six years ago. Explore Shrem's insights into the future of BTC and the impact of ",
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://u.today/bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fast",
+        "body": {
+          "raw": "\nBitcoin pioneer Charlie Shrem reflects on his accurate Bitcoin prediction from six years ago. Explore Shrem's insights into the future of BTC and the impact of his early adoption on the crypto market.\n\n---\n\n**Original Article:** [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fast)\n\n*This article was originally published on [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fast) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var f=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var y=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),b=(t,e)=>{for(var n in e)r(t,n,{get:e[n],enumerable:!0})},c=(t,e,n,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of g(e))!u.call(t,o)&&o!==n&&r(t,o,{get:()=>e[o],enumerable:!(a=m(e,o))||a.enumerable});return t};var x=(t,e,n)=>(n=t!=null?f(p(t)):{},c(e||!t||!t.__esModule?r(n,\"default\",{value:t,enumerable:!0}):n,t)),B=t=>c(r({},\"__esModule\",{value:!0}),t);var h=y((j,s)=>{s.exports=_jsx_runtime});var C={};b(C,{default:()=>d,frontmatter:()=>T});var i=x(h()),T={title:\"Bitcoin Pioneer Charlie Shrem: '5-10 Bitcoin Getting to Be Life-Changing Money Fast\\u2019\",date:\"2025-08-29\",tags:[\"news\",\"bitcoin\",\"btc\",\"crypto\",\"adoption\"],draft:!1,summary:\"Bitcoin pioneer Charlie Shrem reflects on his accurate Bitcoin prediction from six years ago. Explore Shrem's insights into the future of BTC and the impact of \",authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://u.today/bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fast\"};function l(t){let e={a:\"a\",em:\"em\",hr:\"hr\",p:\"p\",strong:\"strong\",...t.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(e.p,{children:\"Bitcoin pioneer Charlie Shrem reflects on his accurate Bitcoin prediction from six years ago. Explore Shrem's insights into the future of BTC and the impact of his early adoption on the crypto market.\"}),(0,i.jsx)(e.hr,{}),(0,i.jsxs)(e.p,{children:[(0,i.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,i.jsx)(e.a,{href:\"https://u.today/bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fast\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"})]}),(0,i.jsx)(e.p,{children:(0,i.jsxs)(e.em,{children:[\"This article was originally published on \",(0,i.jsx)(e.a,{href:\"https://u.today/bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fast\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"}),\" and has been curated for our readers.\"]})})]})}function d(t={}){let{wrapper:e}=t.components||{};return e?(0,i.jsx)(e,{...t,children:(0,i.jsx)(l,{...t})}):l(t)}return B(C);})();\n;return Component;"
+        },
+        "_id": "blog/2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas.mdx",
+          "sourceFileName": "2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.355,
+          "time": 21300,
+          "words": 71
+        },
+        "slug": "2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas",
+        "path": "blog/2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas",
+        "filePath": "blog/2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "Bitcoin Pioneer Charlie Shrem: '5-10 Bitcoin Getting to Be Life-Changing Money Fast’",
+          "datePublished": "2025-08-29T00:00:00.000Z",
+          "dateModified": "2025-08-29T00:00:00.000Z",
+          "description": "Bitcoin pioneer Charlie Shrem reflects on his accurate Bitcoin prediction from six years ago. Explore Shrem's insights into the future of BTC and the impact of ",
+          "image": "/static/images/twitter-card.png",
+          "url": "https://vectr.news/blog/2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas"
+        }
+      },
+      "documentHash": "1756474167588",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021.mdx": {
+      "document": {
+        "title": "Ethereum onchain volume tops $320 billion in August, highest since mid-2021",
+        "date": "2025-08-29T00:00:00.000Z",
+        "tags": [
+          "news",
+          "ethereum",
+          "eth"
+        ],
+        "draft": false,
+        "summary": "In August, Ethereum saw a significant spike in onchain volume, surpassing $320 billion. This surge was driven by increased institutional interest and low transa",
+        "images": [
+          "https://www.tbstat.com/wp/uploads/2020/04/20200423_Ethereum_Stateless-1x-Daily-800x450.jpg"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://www.theblock.co/post/368753/ethereum-onchain-volume-surges-to-4-year-high?utm_source=rss&utm_medium=rss",
+        "body": {
+          "raw": "\n![Ethereum onchain volume tops $320 billion in August, highest since mid-2021](https://www.tbstat.com/wp/uploads/2020/04/20200423_Ethereum_Stateless-1x-Daily-800x450.jpg)\n\nIn August, Ethereum saw a significant spike in onchain volume, surpassing $320 billion. This surge was driven by increased institutional interest and low transaction fees. This marks Ethereum's highest monthly volume since 2021.\n\n---\n\n**Original Article:** [The Block](https://www.theblock.co/post/368753/ethereum-onchain-volume-surges-to-4-year-high?utm_source=rss&utm_medium=rss)\n\n*This article was originally published on [The Block](https://www.theblock.co/post/368753/ethereum-onchain-volume-surges-to-4-year-high?utm_source=rss&utm_medium=rss) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var c=Object.create;var r=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,w=Object.prototype.hasOwnProperty;var _=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var n in e)r(t,n,{get:e[n],enumerable:!0})},a=(t,e,n,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of d(e))!w.call(t,i)&&i!==n&&r(t,i,{get:()=>e[i],enumerable:!(o=g(e,i))||o.enumerable});return t};var b=(t,e,n)=>(n=t!=null?c(p(t)):{},a(e||!t||!t.__esModule?r(n,\"default\",{value:t,enumerable:!0}):n,t)),x=t=>a(r({},\"__esModule\",{value:!0}),t);var h=_((j,u)=>{u.exports=_jsx_runtime});var v={};f(v,{default:()=>m,frontmatter:()=>y});var s=b(h()),y={title:\"Ethereum onchain volume tops $320 billion in August, highest since mid-2021\",date:\"2025-08-29\",tags:[\"news\",\"ethereum\",\"eth\"],draft:!1,summary:\"In August, Ethereum saw a significant spike in onchain volume, surpassing $320 billion. This surge was driven by increased institutional interest and low transa\",images:[\"https://www.tbstat.com/wp/uploads/2020/04/20200423_Ethereum_Stateless-1x-Daily-800x450.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://www.theblock.co/post/368753/ethereum-onchain-volume-surges-to-4-year-high?utm_source=rss&utm_medium=rss\"};function l(t){let e={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(e.p,{children:(0,s.jsx)(e.img,{alt:\"Ethereum onchain volume tops $320 billion in August, highest since mid-2021\",src:\"https://www.tbstat.com/wp/uploads/2020/04/20200423_Ethereum_Stateless-1x-Daily-800x450.jpg\"})}),(0,s.jsx)(e.p,{children:\"In August, Ethereum saw a significant spike in onchain volume, surpassing $320 billion. This surge was driven by increased institutional interest and low transaction fees. This marks Ethereum's highest monthly volume since 2021.\"}),(0,s.jsx)(e.hr,{}),(0,s.jsxs)(e.p,{children:[(0,s.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,s.jsx)(e.a,{href:\"https://www.theblock.co/post/368753/ethereum-onchain-volume-surges-to-4-year-high?utm_source=rss&utm_medium=rss\",children:\"The Block\"})]}),(0,s.jsx)(e.p,{children:(0,s.jsxs)(e.em,{children:[\"This article was originally published on \",(0,s.jsx)(e.a,{href:\"https://www.theblock.co/post/368753/ethereum-onchain-volume-surges-to-4-year-high?utm_source=rss&utm_medium=rss\",children:\"The Block\"}),\" and has been curated for our readers.\"]})})]})}function m(t={}){let{wrapper:e}=t.components||{};return e?(0,s.jsx)(e,{...t,children:(0,s.jsx)(l,{...t})}):l(t)}return x(v);})();\n;return Component;"
+        },
+        "_id": "blog/2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021.mdx",
+          "sourceFileName": "2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.32,
+          "time": 19200,
+          "words": 64
+        },
+        "slug": "2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021",
+        "path": "blog/2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021",
+        "filePath": "blog/2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "Ethereum onchain volume tops $320 billion in August, highest since mid-2021",
+          "datePublished": "2025-08-29T00:00:00.000Z",
+          "dateModified": "2025-08-29T00:00:00.000Z",
+          "description": "In August, Ethereum saw a significant spike in onchain volume, surpassing $320 billion. This surge was driven by increased institutional interest and low transa",
+          "image": "https://www.tbstat.com/wp/uploads/2020/04/20200423_Ethereum_Stateless-1x-Daily-800x450.jpg",
+          "url": "https://vectr.news/blog/2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021"
+        }
+      },
+      "documentHash": "1756474167588",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-08-29-south-korea-busts-hacking-syndicate-after-multi-million-dollar-crypto-losses.mdx": {
+      "document": {
+        "title": "South Korea Busts Hacking Syndicate After Multi-Million Dollar Crypto Losses",
+        "date": "2025-08-29T00:00:00.000Z",
+        "tags": [
+          "news",
+          "crypto"
+        ],
+        "draft": false,
+        "summary": "Seoul police nabbed 16 suspects for stealing $28M from crypto and bank accounts, including BTS's Jungkook and Korean investors. Stay vigilant against cyber thef",
+        "images": [
+          "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://decrypt.co/337314/south-korea-busts-hacking-syndicate-after-multi-million-dollar-crypto-losses",
+        "body": {
+          "raw": "\n![South Korea Busts Hacking Syndicate After Multi-Million Dollar Crypto Losses](https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png)\n\nSeoul police nabbed 16 suspects for stealing $28M from crypto and bank accounts, including BTS's Jungkook and Korean investors. Stay vigilant against cyber theft in the crypto world!\n\n---\n\n**Original Article:** [Decrypt](https://decrypt.co/337314/south-korea-busts-hacking-syndicate-after-multi-million-dollar-crypto-losses)\n\n*This article was originally published on [Decrypt](https://decrypt.co/337314/south-korea-busts-hacking-syndicate-after-multi-million-dollar-crypto-losses) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var p=Object.create;var s=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var y=Object.getPrototypeOf,m=Object.prototype.hasOwnProperty;var f=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),k=(e,t)=>{for(var o in t)s(e,o,{get:t[o],enumerable:!0})},c=(e,t,o,a)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of g(t))!m.call(e,r)&&r!==o&&s(e,r,{get:()=>t[r],enumerable:!(a=h(t,r))||a.enumerable});return e};var b=(e,t,o)=>(o=e!=null?p(y(e)):{},c(t||!e||!e.__esModule?s(o,\"default\",{value:e,enumerable:!0}):o,e)),_=e=>c(s({},\"__esModule\",{value:!0}),e);var l=f((D,i)=>{i.exports=_jsx_runtime});var x={};k(x,{default:()=>u,frontmatter:()=>S});var n=b(l()),S={title:\"South Korea Busts Hacking Syndicate After Multi-Million Dollar Crypto Losses\",date:\"2025-08-29\",tags:[\"news\",\"crypto\"],draft:!1,summary:\"Seoul police nabbed 16 suspects for stealing $28M from crypto and bank accounts, including BTS's Jungkook and Korean investors. Stay vigilant against cyber thef\",images:[\"https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://decrypt.co/337314/south-korea-busts-hacking-syndicate-after-multi-million-dollar-crypto-losses\"};function d(e){let t={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.p,{children:(0,n.jsx)(t.img,{alt:\"South Korea Busts Hacking Syndicate After Multi-Million Dollar Crypto Losses\",src:\"https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png\"})}),(0,n.jsx)(t.p,{children:\"Seoul police nabbed 16 suspects for stealing $28M from crypto and bank accounts, including BTS's Jungkook and Korean investors. Stay vigilant against cyber theft in the crypto world!\"}),(0,n.jsx)(t.hr,{}),(0,n.jsxs)(t.p,{children:[(0,n.jsx)(t.strong,{children:\"Original Article:\"}),\" \",(0,n.jsx)(t.a,{href:\"https://decrypt.co/337314/south-korea-busts-hacking-syndicate-after-multi-million-dollar-crypto-losses\",children:\"Decrypt\"})]}),(0,n.jsx)(t.p,{children:(0,n.jsxs)(t.em,{children:[\"This article was originally published on \",(0,n.jsx)(t.a,{href:\"https://decrypt.co/337314/south-korea-busts-hacking-syndicate-after-multi-million-dollar-crypto-losses\",children:\"Decrypt\"}),\" and has been curated for our readers.\"]})})]})}function u(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(d,{...e})}):d(e)}return _(x);})();\n;return Component;"
+        },
+        "_id": "blog/2025-08-29-south-korea-busts-hacking-syndicate-after-multi-million-dollar-crypto-losses.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-08-29-south-korea-busts-hacking-syndicate-after-multi-million-dollar-crypto-losses.mdx",
+          "sourceFileName": "2025-08-29-south-korea-busts-hacking-syndicate-after-multi-million-dollar-crypto-losses.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-08-29-south-korea-busts-hacking-syndicate-after-multi-million-dollar-crypto-losses"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.28,
+          "time": 16800,
+          "words": 56
+        },
+        "slug": "2025-08-29-south-korea-busts-hacking-syndicate-after-multi-million-dollar-crypto-losses",
+        "path": "blog/2025-08-29-south-korea-busts-hacking-syndicate-after-multi-million-dollar-crypto-losses",
+        "filePath": "blog/2025-08-29-south-korea-busts-hacking-syndicate-after-multi-million-dollar-crypto-losses.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "South Korea Busts Hacking Syndicate After Multi-Million Dollar Crypto Losses",
+          "datePublished": "2025-08-29T00:00:00.000Z",
+          "dateModified": "2025-08-29T00:00:00.000Z",
+          "description": "Seoul police nabbed 16 suspects for stealing $28M from crypto and bank accounts, including BTS's Jungkook and Korean investors. Stay vigilant against cyber thef",
+          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
+          "url": "https://vectr.news/blog/2025-08-29-south-korea-busts-hacking-syndicate-after-multi-million-dollar-crypto-losses"
+        }
+      },
+      "documentHash": "1756474167588",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-08-29-strategys-saylor-talks-about-future-amid-bitcoin-bloodbath.mdx": {
+      "document": {
+        "title": "Strategy's Saylor Talks About Future Amid Bitcoin Bloodbath",
+        "date": "2025-08-29T00:00:00.000Z",
+        "tags": [
+          "news",
+          "bitcoin",
+          "crypto"
+        ],
+        "draft": false,
+        "summary": "Michael Saylor discusses Bitcoin's future amid recent long liquidations. Stay informed on how market dynamics impact the crypto space.",
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://u.today/strategys-saylor-talks-about-future-amid-bitcoin-bloodbath",
+        "body": {
+          "raw": "\nMichael Saylor discusses Bitcoin's future amid recent long liquidations. Stay informed on how market dynamics impact the crypto space.\n\n---\n\n**Original Article:** [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/strategys-saylor-talks-about-future-amid-bitcoin-bloodbath)\n\n*This article was originally published on [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/strategys-saylor-talks-about-future-amid-bitcoin-bloodbath) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var h=Object.create;var n=Object.defineProperty;var y=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,p=Object.prototype.hasOwnProperty;var b=(a,t)=>()=>(t||a((t={exports:{}}).exports,t),t.exports),g=(a,t)=>{for(var e in t)n(a,e,{get:t[e],enumerable:!0})},s=(a,t,e,i)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of m(t))!p.call(a,r)&&r!==e&&n(a,r,{get:()=>t[r],enumerable:!(i=y(t,r))||i.enumerable});return a};var x=(a,t,e)=>(e=a!=null?h(f(a)):{},s(t||!a||!a.__esModule?n(e,\"default\",{value:a,enumerable:!0}):e,a)),T=a=>s(n({},\"__esModule\",{value:!0}),a);var d=b((S,c)=>{c.exports=_jsx_runtime});var _={};g(_,{default:()=>u,frontmatter:()=>w});var o=x(d()),w={title:\"Strategy's Saylor Talks About Future Amid Bitcoin Bloodbath\",date:\"2025-08-29\",tags:[\"news\",\"bitcoin\",\"crypto\"],draft:!1,summary:\"Michael Saylor discusses Bitcoin's future amid recent long liquidations. Stay informed on how market dynamics impact the crypto space.\",authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://u.today/strategys-saylor-talks-about-future-amid-bitcoin-bloodbath\"};function l(a){let t={a:\"a\",em:\"em\",hr:\"hr\",p:\"p\",strong:\"strong\",...a.components};return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(t.p,{children:\"Michael Saylor discusses Bitcoin's future amid recent long liquidations. Stay informed on how market dynamics impact the crypto space.\"}),(0,o.jsx)(t.hr,{}),(0,o.jsxs)(t.p,{children:[(0,o.jsx)(t.strong,{children:\"Original Article:\"}),\" \",(0,o.jsx)(t.a,{href:\"https://u.today/strategys-saylor-talks-about-future-amid-bitcoin-bloodbath\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"})]}),(0,o.jsx)(t.p,{children:(0,o.jsxs)(t.em,{children:[\"This article was originally published on \",(0,o.jsx)(t.a,{href:\"https://u.today/strategys-saylor-talks-about-future-amid-bitcoin-bloodbath\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"}),\" and has been curated for our readers.\"]})})]})}function u(a={}){let{wrapper:t}=a.components||{};return t?(0,o.jsx)(t,{...a,children:(0,o.jsx)(l,{...a})}):l(a)}return T(_);})();\n;return Component;"
+        },
+        "_id": "blog/2025-08-29-strategys-saylor-talks-about-future-amid-bitcoin-bloodbath.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-08-29-strategys-saylor-talks-about-future-amid-bitcoin-bloodbath.mdx",
+          "sourceFileName": "2025-08-29-strategys-saylor-talks-about-future-amid-bitcoin-bloodbath.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-08-29-strategys-saylor-talks-about-future-amid-bitcoin-bloodbath"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.285,
+          "time": 17100,
+          "words": 57
+        },
+        "slug": "2025-08-29-strategys-saylor-talks-about-future-amid-bitcoin-bloodbath",
+        "path": "blog/2025-08-29-strategys-saylor-talks-about-future-amid-bitcoin-bloodbath",
+        "filePath": "blog/2025-08-29-strategys-saylor-talks-about-future-amid-bitcoin-bloodbath.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "Strategy's Saylor Talks About Future Amid Bitcoin Bloodbath",
+          "datePublished": "2025-08-29T00:00:00.000Z",
+          "dateModified": "2025-08-29T00:00:00.000Z",
+          "description": "Michael Saylor discusses Bitcoin's future amid recent long liquidations. Stay informed on how market dynamics impact the crypto space.",
+          "image": "/static/images/twitter-card.png",
+          "url": "https://vectr.news/blog/2025-08-29-strategys-saylor-talks-about-future-amid-bitcoin-bloodbath"
+        }
+      },
+      "documentHash": "1756474167588",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter.mdx": {
+      "document": {
+        "title": "Tether leads as crypto borrowing soars to $44 billion in record quarter",
+        "date": "2025-08-29T00:00:00.000Z",
+        "tags": [
+          "news",
+          "eth",
+          "crypto",
+          "defi"
+        ],
+        "draft": false,
+        "summary": "Crypto borrowing surged in Q2 2025, hitting a record $26.47 billion backed by digital assets on DeFi platforms. Galaxy Research revealed a 42.1% increase from t",
+        "images": [
+          "https://cryptoslate.com/wp-content/uploads/2025/08/tether-loan.jpg"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://cryptoslate.com/tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter/",
+        "body": {
+          "raw": "\n![Tether leads as crypto borrowing soars to $44 billion in record quarter](https://cryptoslate.com/wp-content/uploads/2025/08/tether-loan.jpg)\n\nCrypto borrowing surged in Q2 2025, hitting a record $26.47 billion backed by digital assets on DeFi platforms. Galaxy Research revealed a 42.1% increase from the previous quarter. This trend highlights the growing popularity of leveraging crypto holdings for loans in the market.\n\n---\n\n**Original Article:** [CryptoSlate](https://cryptoslate.com/tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter/)\n\n*This article was originally published on [CryptoSlate](https://cryptoslate.com/tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter/) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var p=Object.create;var n=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var b=(t,r)=>()=>(r||t((r={exports:{}}).exports,r),r.exports),f=(t,r)=>{for(var o in r)n(t,o,{get:r[o],enumerable:!0})},i=(t,r,o,s)=>{if(r&&typeof r==\"object\"||typeof r==\"function\")for(let a of m(r))!y.call(t,a)&&a!==o&&n(t,a,{get:()=>r[a],enumerable:!(s=g(r,a))||s.enumerable});return t};var w=(t,r,o)=>(o=t!=null?p(u(t)):{},i(r||!t||!t.__esModule?n(o,\"default\",{value:t,enumerable:!0}):o,t)),x=t=>i(n({},\"__esModule\",{value:!0}),t);var c=b((C,l)=>{l.exports=_jsx_runtime});var _={};f(_,{default:()=>h,frontmatter:()=>j});var e=w(c()),j={title:\"Tether leads as crypto borrowing soars to $44 billion in record quarter\",date:\"2025-08-29\",tags:[\"news\",\"eth\",\"crypto\",\"defi\"],draft:!1,summary:\"Crypto borrowing surged in Q2 2025, hitting a record $26.47 billion backed by digital assets on DeFi platforms. Galaxy Research revealed a 42.1% increase from t\",images:[\"https://cryptoslate.com/wp-content/uploads/2025/08/tether-loan.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://cryptoslate.com/tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter/\"};function d(t){let r={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(r.p,{children:(0,e.jsx)(r.img,{alt:\"Tether leads as crypto borrowing soars to $44 billion in record quarter\",src:\"https://cryptoslate.com/wp-content/uploads/2025/08/tether-loan.jpg\"})}),(0,e.jsx)(r.p,{children:\"Crypto borrowing surged in Q2 2025, hitting a record $26.47 billion backed by digital assets on DeFi platforms. Galaxy Research revealed a 42.1% increase from the previous quarter. This trend highlights the growing popularity of leveraging crypto holdings for loans in the market.\"}),(0,e.jsx)(r.hr,{}),(0,e.jsxs)(r.p,{children:[(0,e.jsx)(r.strong,{children:\"Original Article:\"}),\" \",(0,e.jsx)(r.a,{href:\"https://cryptoslate.com/tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter/\",children:\"CryptoSlate\"})]}),(0,e.jsx)(r.p,{children:(0,e.jsxs)(r.em,{children:[\"This article was originally published on \",(0,e.jsx)(r.a,{href:\"https://cryptoslate.com/tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter/\",children:\"CryptoSlate\"}),\" and has been curated for our readers.\"]})})]})}function h(t={}){let{wrapper:r}=t.components||{};return r?(0,e.jsx)(r,{...t,children:(0,e.jsx)(d,{...t})}):d(t)}return x(_);})();\n;return Component;"
+        },
+        "_id": "blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter.mdx",
+          "sourceFileName": "2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.365,
+          "time": 21900,
+          "words": 73
+        },
+        "slug": "2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter",
+        "path": "blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter",
+        "filePath": "blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "Tether leads as crypto borrowing soars to $44 billion in record quarter",
+          "datePublished": "2025-08-29T00:00:00.000Z",
+          "dateModified": "2025-08-29T00:00:00.000Z",
+          "description": "Crypto borrowing surged in Q2 2025, hitting a record $26.47 billion backed by digital assets on DeFi platforms. Galaxy Research revealed a 42.1% increase from t",
+          "image": "https://cryptoslate.com/wp-content/uploads/2025/08/tether-loan.jpg",
+          "url": "https://vectr.news/blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter"
+        }
+      },
+      "documentHash": "1756474167587",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-09-02--bunni-dex-paused-following-24m-exploit-of-liquidity-function-.mdx": {
+      "document": {
+        "title": " Bunni DEX paused following $2.4M exploit of liquidity function ",
+        "date": "2025-09-02T00:00:00.000Z",
+        "tags": [
+          "news",
+          "crypto",
+          "stablecoin"
+        ],
+        "draft": false,
+        "summary": "An exploit in Bunni's liquidity system led to a $2.4 million loss in stablecoins. To prevent further losses, the platform has temporarily halted all contracts. ",
+        "images": [
+          "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZlMzUtZDkzZC03MzYxLTg2YjctMDMyZWNiNGEzZTFk.jpg"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://cointelegraph.com/news/bunni-hack-2-4m-stablecoin-exploit-uniswap-v4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "body": {
+          "raw": "\n![ Bunni DEX paused following $2.4M exploit of liquidity function ](https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZlMzUtZDkzZC03MzYxLTg2YjctMDMyZWNiNGEzZTFk.jpg)\n\nAn exploit in Bunni's liquidity system led to a $2.4 million loss in stablecoins. To prevent further losses, the platform has temporarily halted all contracts. Stay updated for more details on this developing situation. #crypto #security\n\n---\n\n**Original Article:** [Cointelegraph.com News](https://cointelegraph.com/news/bunni-hack-2-4m-stablecoin-exploit-uniswap-v4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n*This article was originally published on [Cointelegraph.com News](https://cointelegraph.com/news/bunni-hack-2-4m-stablecoin-exploit-uniswap-v4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var p=Object.create;var o=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,_=Object.prototype.hasOwnProperty;var f=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),y=(e,t)=>{for(var i in t)o(e,i,{get:t[i],enumerable:!0})},a=(e,t,i,r)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let s of h(t))!_.call(e,s)&&s!==i&&o(e,s,{get:()=>t[s],enumerable:!(r=d(t,s))||r.enumerable});return e};var M=(e,t,i)=>(i=e!=null?p(g(e)):{},a(t||!e||!e.__esModule?o(i,\"default\",{value:e,enumerable:!0}):i,e)),x=e=>a(o({},\"__esModule\",{value:!0}),e);var c=f((D,l)=>{l.exports=_jsx_runtime});var w={};y(w,{default:()=>u,frontmatter:()=>b});var n=M(c()),b={title:\" Bunni DEX paused following $2.4M exploit of liquidity function \",date:\"2025-09-02\",tags:[\"news\",\"crypto\",\"stablecoin\"],draft:!1,summary:\"An exploit in Bunni's liquidity system led to a $2.4 million loss in stablecoins. To prevent further losses, the platform has temporarily halted all contracts. \",images:[\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZlMzUtZDkzZC03MzYxLTg2YjctMDMyZWNiNGEzZTFk.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://cointelegraph.com/news/bunni-hack-2-4m-stablecoin-exploit-uniswap-v4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\"};function m(e){let t={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.p,{children:(0,n.jsx)(t.img,{alt:\" Bunni DEX paused following $2.4M exploit of liquidity function \",src:\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZlMzUtZDkzZC03MzYxLTg2YjctMDMyZWNiNGEzZTFk.jpg\"})}),(0,n.jsx)(t.p,{children:\"An exploit in Bunni's liquidity system led to a $2.4 million loss in stablecoins. To prevent further losses, the platform has temporarily halted all contracts. Stay updated for more details on this developing situation. #crypto #security\"}),(0,n.jsx)(t.hr,{}),(0,n.jsxs)(t.p,{children:[(0,n.jsx)(t.strong,{children:\"Original Article:\"}),\" \",(0,n.jsx)(t.a,{href:\"https://cointelegraph.com/news/bunni-hack-2-4m-stablecoin-exploit-uniswap-v4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"})]}),(0,n.jsx)(t.p,{children:(0,n.jsxs)(t.em,{children:[\"This article was originally published on \",(0,n.jsx)(t.a,{href:\"https://cointelegraph.com/news/bunni-hack-2-4m-stablecoin-exploit-uniswap-v4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"}),\" and has been curated for our readers.\"]})})]})}function u(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(m,{...e})}):m(e)}return x(w);})();\n;return Component;"
+        },
+        "_id": "blog/2025-09-02--bunni-dex-paused-following-24m-exploit-of-liquidity-function-.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-09-02--bunni-dex-paused-following-24m-exploit-of-liquidity-function-.mdx",
+          "sourceFileName": "2025-09-02--bunni-dex-paused-following-24m-exploit-of-liquidity-function-.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-09-02--bunni-dex-paused-following-24m-exploit-of-liquidity-function-"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.335,
+          "time": 20100,
+          "words": 67
+        },
+        "slug": "2025-09-02--bunni-dex-paused-following-24m-exploit-of-liquidity-function-",
+        "path": "blog/2025-09-02--bunni-dex-paused-following-24m-exploit-of-liquidity-function-",
+        "filePath": "blog/2025-09-02--bunni-dex-paused-following-24m-exploit-of-liquidity-function-.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": " Bunni DEX paused following $2.4M exploit of liquidity function ",
+          "datePublished": "2025-09-02T00:00:00.000Z",
+          "dateModified": "2025-09-02T00:00:00.000Z",
+          "description": "An exploit in Bunni's liquidity system led to a $2.4 million loss in stablecoins. To prevent further losses, the platform has temporarily halted all contracts. ",
+          "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZlMzUtZDkzZC03MzYxLTg2YjctMDMyZWNiNGEzZTFk.jpg",
+          "url": "https://vectr.news/blog/2025-09-02--bunni-dex-paused-following-24m-exploit-of-liquidity-function-"
+        }
+      },
+      "documentHash": "1756805231854",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-09-02--metaplanet-clears-path-for-37b-bitcoin-accumulation-strategy-.mdx": {
+      "document": {
+        "title": " Metaplanet clears path for $3.7B Bitcoin accumulation strategy ",
+        "date": "2025-09-02T00:00:00.000Z",
+        "tags": [
+          "news",
+          "bitcoin"
+        ],
+        "draft": false,
+        "summary": "Metaplanet plans to increase its shares and introduce dual-class stock, aligning with its strategy to accumulate Bitcoin for the long run.",
+        "images": [
+          "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMDQtYjM4Yi03ZGQxLThiNTktYjk3ZjQxMjJlNjlh.jpg"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://cointelegraph.com/news/metaplanet-shareholder-approval-bitcoin-funding-3-7b-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "body": {
+          "raw": "\n![ Metaplanet clears path for $3.7B Bitcoin accumulation strategy ](https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMDQtYjM4Yi03ZGQxLThiNTktYjk3ZjQxMjJlNjlh.jpg)\n\nMetaplanet plans to increase its shares and introduce dual-class stock, aligning with its strategy to accumulate Bitcoin for the long run.\n\n---\n\n**Original Article:** [Cointelegraph.com News](https://cointelegraph.com/news/metaplanet-shareholder-approval-bitcoin-funding-3-7b-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n*This article was originally published on [Cointelegraph.com News](https://cointelegraph.com/news/metaplanet-shareholder-approval-bitcoin-funding-3-7b-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var h=Object.create;var s=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,_=Object.prototype.hasOwnProperty;var M=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),f=(e,t)=>{for(var n in t)s(e,n,{get:t[n],enumerable:!0})},o=(e,t,n,i)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of d(t))!_.call(e,r)&&r!==n&&s(e,r,{get:()=>t[r],enumerable:!(i=p(t,r))||i.enumerable});return e};var j=(e,t,n)=>(n=e!=null?h(g(e)):{},o(t||!e||!e.__esModule?s(n,\"default\",{value:e,enumerable:!0}):n,e)),x=e=>o(s({},\"__esModule\",{value:!0}),e);var l=M((Y,c)=>{c.exports=_jsx_runtime});var y={};f(y,{default:()=>u,frontmatter:()=>b});var a=j(l()),b={title:\" Metaplanet clears path for $3.7B Bitcoin accumulation strategy \",date:\"2025-09-02\",tags:[\"news\",\"bitcoin\"],draft:!1,summary:\"Metaplanet plans to increase its shares and introduce dual-class stock, aligning with its strategy to accumulate Bitcoin for the long run.\",images:[\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMDQtYjM4Yi03ZGQxLThiNTktYjk3ZjQxMjJlNjlh.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://cointelegraph.com/news/metaplanet-shareholder-approval-bitcoin-funding-3-7b-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\"};function m(e){let t={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...e.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(t.p,{children:(0,a.jsx)(t.img,{alt:\" Metaplanet clears path for $3.7B Bitcoin accumulation strategy \",src:\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMDQtYjM4Yi03ZGQxLThiNTktYjk3ZjQxMjJlNjlh.jpg\"})}),(0,a.jsx)(t.p,{children:\"Metaplanet plans to increase its shares and introduce dual-class stock, aligning with its strategy to accumulate Bitcoin for the long run.\"}),(0,a.jsx)(t.hr,{}),(0,a.jsxs)(t.p,{children:[(0,a.jsx)(t.strong,{children:\"Original Article:\"}),\" \",(0,a.jsx)(t.a,{href:\"https://cointelegraph.com/news/metaplanet-shareholder-approval-bitcoin-funding-3-7b-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"})]}),(0,a.jsx)(t.p,{children:(0,a.jsxs)(t.em,{children:[\"This article was originally published on \",(0,a.jsx)(t.a,{href:\"https://cointelegraph.com/news/metaplanet-shareholder-approval-bitcoin-funding-3-7b-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"}),\" and has been curated for our readers.\"]})})]})}function u(e={}){let{wrapper:t}=e.components||{};return t?(0,a.jsx)(t,{...e,children:(0,a.jsx)(m,{...e})}):m(e)}return x(y);})();\n;return Component;"
+        },
+        "_id": "blog/2025-09-02--metaplanet-clears-path-for-37b-bitcoin-accumulation-strategy-.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-09-02--metaplanet-clears-path-for-37b-bitcoin-accumulation-strategy-.mdx",
+          "sourceFileName": "2025-09-02--metaplanet-clears-path-for-37b-bitcoin-accumulation-strategy-.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-09-02--metaplanet-clears-path-for-37b-bitcoin-accumulation-strategy-"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.255,
+          "time": 15300,
+          "words": 51
+        },
+        "slug": "2025-09-02--metaplanet-clears-path-for-37b-bitcoin-accumulation-strategy-",
+        "path": "blog/2025-09-02--metaplanet-clears-path-for-37b-bitcoin-accumulation-strategy-",
+        "filePath": "blog/2025-09-02--metaplanet-clears-path-for-37b-bitcoin-accumulation-strategy-.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": " Metaplanet clears path for $3.7B Bitcoin accumulation strategy ",
+          "datePublished": "2025-09-02T00:00:00.000Z",
+          "dateModified": "2025-09-02T00:00:00.000Z",
+          "description": "Metaplanet plans to increase its shares and introduce dual-class stock, aligning with its strategy to accumulate Bitcoin for the long run.",
+          "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMDQtYjM4Yi03ZGQxLThiNTktYjk3ZjQxMjJlNjlh.jpg",
+          "url": "https://vectr.news/blog/2025-09-02--metaplanet-clears-path-for-37b-bitcoin-accumulation-strategy-"
+        }
+      },
+      "documentHash": "1756805231853",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-.mdx": {
+      "document": {
+        "title": " Ripple vs. SEC: How the lawsuit strengthened XRP’s narrative ",
+        "date": "2025-09-02T00:00:00.000Z",
+        "tags": [
+          "news",
+          "crypto",
+          "cryptocurrency"
+        ],
+        "draft": false,
+        "summary": "Discover how XRP overcame a potential threat from an SEC lawsuit to emerge stronger in 2025, showcasing the resilience and adaptability of the cryptocurrency in",
+        "images": [
+          "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83M2Q1YzBkYzU1ZjMwMjNhNGNmZTYyMWE2YmY5MjUyNy5qcGc=.jpg"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://cointelegraph.com/explained/ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "body": {
+          "raw": "\n![ Ripple vs. SEC: How the lawsuit strengthened XRP’s narrative ](https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83M2Q1YzBkYzU1ZjMwMjNhNGNmZTYyMWE2YmY5MjUyNy5qcGc=.jpg)\n\nDiscover how XRP overcame a potential threat from an SEC lawsuit to emerge stronger in 2025, showcasing the resilience and adaptability of the cryptocurrency in the face of regulatory challenges.\n\n---\n\n**Original Article:** [Cointelegraph.com News](https://cointelegraph.com/explained/ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n*This article was originally published on [Cointelegraph.com News](https://cointelegraph.com/explained/ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var p=Object.create;var s=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var _=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),w=(t,e)=>{for(var n in e)s(t,n,{get:e[n],enumerable:!0})},o=(t,e,n,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of u(e))!y.call(t,a)&&a!==n&&s(t,a,{get:()=>e[a],enumerable:!(i=d(e,a))||i.enumerable});return t};var f=(t,e,n)=>(n=t!=null?p(g(t)):{},o(e||!t||!t.__esModule?s(n,\"default\",{value:t,enumerable:!0}):n,t)),M=t=>o(s({},\"__esModule\",{value:!0}),t);var l=_((Y,c)=>{c.exports=_jsx_runtime});var j={};w(j,{default:()=>h,frontmatter:()=>v});var r=f(l()),v={title:\" Ripple vs. SEC: How the lawsuit strengthened XRP\\u2019s narrative \",date:\"2025-09-02\",tags:[\"news\",\"crypto\",\"cryptocurrency\"],draft:!1,summary:\"Discover how XRP overcame a potential threat from an SEC lawsuit to emerge stronger in 2025, showcasing the resilience and adaptability of the cryptocurrency in\",images:[\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83M2Q1YzBkYzU1ZjMwMjNhNGNmZTYyMWE2YmY5MjUyNy5qcGc=.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://cointelegraph.com/explained/ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\"};function m(t){let e={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(e.p,{children:(0,r.jsx)(e.img,{alt:\" Ripple vs. SEC: How the lawsuit strengthened XRP\\u2019s narrative \",src:\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83M2Q1YzBkYzU1ZjMwMjNhNGNmZTYyMWE2YmY5MjUyNy5qcGc=.jpg\"})}),(0,r.jsx)(e.p,{children:\"Discover how XRP overcame a potential threat from an SEC lawsuit to emerge stronger in 2025, showcasing the resilience and adaptability of the cryptocurrency in the face of regulatory challenges.\"}),(0,r.jsx)(e.hr,{}),(0,r.jsxs)(e.p,{children:[(0,r.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,r.jsx)(e.a,{href:\"https://cointelegraph.com/explained/ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"})]}),(0,r.jsx)(e.p,{children:(0,r.jsxs)(e.em,{children:[\"This article was originally published on \",(0,r.jsx)(e.a,{href:\"https://cointelegraph.com/explained/ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"}),\" and has been curated for our readers.\"]})})]})}function h(t={}){let{wrapper:e}=t.components||{};return e?(0,r.jsx)(e,{...t,children:(0,r.jsx)(m,{...t})}):m(t)}return M(j);})();\n;return Component;"
+        },
+        "_id": "blog/2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-.mdx",
+          "sourceFileName": "2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.305,
+          "time": 18300,
+          "words": 61
+        },
+        "slug": "2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-",
+        "path": "blog/2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-",
+        "filePath": "blog/2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": " Ripple vs. SEC: How the lawsuit strengthened XRP’s narrative ",
+          "datePublished": "2025-09-02T00:00:00.000Z",
+          "dateModified": "2025-09-02T00:00:00.000Z",
+          "description": "Discover how XRP overcame a potential threat from an SEC lawsuit to emerge stronger in 2025, showcasing the resilience and adaptability of the cryptocurrency in",
+          "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83M2Q1YzBkYzU1ZjMwMjNhNGNmZTYyMWE2YmY5MjUyNy5qcGc=.jpg",
+          "url": "https://vectr.news/blog/2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-"
+        }
+      },
+      "documentHash": "1756805231853",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025.mdx": {
+      "document": {
+        "title": "100% XRP Explosion: Biggest 24-Hour Spike in 2025",
+        "date": "2025-09-02T00:00:00.000Z",
+        "tags": [
+          "news",
+          "crypto",
+          "cryptocurrency"
+        ],
+        "draft": false,
+        "summary": "XRP's recent surge in on-chain activity signals potential long-term growth. This increase in transactions could be a positive sign for the cryptocurrency's reco",
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://u.today/100-xrp-explosion-biggest-24-hour-spike-in-2025",
+        "body": {
+          "raw": "\nXRP's recent surge in on-chain activity signals potential long-term growth. This increase in transactions could be a positive sign for the cryptocurrency's recovery.\n\n---\n\n**Original Article:** [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/100-xrp-explosion-biggest-24-hour-spike-in-2025)\n\n*This article was originally published on [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/100-xrp-explosion-biggest-24-hour-spike-in-2025) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var u=Object.create;var i=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var y=Object.getPrototypeOf,m=Object.prototype.hasOwnProperty;var x=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var r in e)i(t,r,{get:e[r],enumerable:!0})},a=(t,e,r,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of g(e))!m.call(t,o)&&o!==r&&i(t,o,{get:()=>e[o],enumerable:!(s=d(e,o))||s.enumerable});return t};var T=(t,e,r)=>(r=t!=null?u(y(t)):{},a(e||!t||!t.__esModule?i(r,\"default\",{value:t,enumerable:!0}):r,t)),b=t=>a(i({},\"__esModule\",{value:!0}),t);var l=x((v,c)=>{c.exports=_jsx_runtime});var _={};f(_,{default:()=>p,frontmatter:()=>w});var n=T(l()),w={title:\"100% XRP Explosion: Biggest 24-Hour Spike in 2025\",date:\"2025-09-02\",tags:[\"news\",\"crypto\",\"cryptocurrency\"],draft:!1,summary:\"XRP's recent surge in on-chain activity signals potential long-term growth. This increase in transactions could be a positive sign for the cryptocurrency's reco\",authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://u.today/100-xrp-explosion-biggest-24-hour-spike-in-2025\"};function h(t){let e={a:\"a\",em:\"em\",hr:\"hr\",p:\"p\",strong:\"strong\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"XRP's recent surge in on-chain activity signals potential long-term growth. This increase in transactions could be a positive sign for the cryptocurrency's recovery.\"}),(0,n.jsx)(e.hr,{}),(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,n.jsx)(e.a,{href:\"https://u.today/100-xrp-explosion-biggest-24-hour-spike-in-2025\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"})]}),(0,n.jsx)(e.p,{children:(0,n.jsxs)(e.em,{children:[\"This article was originally published on \",(0,n.jsx)(e.a,{href:\"https://u.today/100-xrp-explosion-biggest-24-hour-spike-in-2025\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"}),\" and has been curated for our readers.\"]})})]})}function p(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(h,{...t})}):h(t)}return b(_);})();\n;return Component;"
+        },
+        "_id": "blog/2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025.mdx",
+          "sourceFileName": "2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.305,
+          "time": 18300,
+          "words": 61
+        },
+        "slug": "2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025",
+        "path": "blog/2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025",
+        "filePath": "blog/2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "100% XRP Explosion: Biggest 24-Hour Spike in 2025",
+          "datePublished": "2025-09-02T00:00:00.000Z",
+          "dateModified": "2025-09-02T00:00:00.000Z",
+          "description": "XRP's recent surge in on-chain activity signals potential long-term growth. This increase in transactions could be a positive sign for the cryptocurrency's reco",
+          "image": "/static/images/twitter-card.png",
+          "url": "https://vectr.news/blog/2025-09-02-100-xrp-explosion-biggest-24-hour-spike-in-2025"
+        }
+      },
+      "documentHash": "1756805231852",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-09-02-bitcoin-faces-triple-death-cross-warning-amid-historically-weak-september.mdx": {
+      "document": {
+        "title": "Bitcoin Faces Triple ‘Death Cross’ Warning Amid Historically Weak September",
+        "date": "2025-09-02T00:00:00.000Z",
+        "tags": [
+          "news",
+          "bitcoin"
+        ],
+        "draft": false,
+        "summary": "In September, Bitcoin faces three \"death crosses\" on key indicators, signaling potential volatility. However, ETF stability and the Fed's rate cut decision co",
+        "images": [
+          "https://beincrypto.com/wp-content/uploads/2023/03/BIC_LAYOFFS_NRGATIVE_CROSS.png"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://beincrypto.com/analysts-warn-of-3-bitcoin-death-crosses-september/",
+        "body": {
+          "raw": "\n![Bitcoin Faces Triple ‘Death Cross’ Warning Amid Historically Weak September](https://beincrypto.com/wp-content/uploads/2023/03/BIC_LAYOFFS_NRGATIVE_CROSS.png)\n\nIn September, Bitcoin faces three \"death crosses\" on key indicators, signaling potential volatility. However, ETF stability and the Fed's rate cut decision could counteract bearish risks. Stay cautious and monitor market trends for potential shifts.\n\n---\n\n**Original Article:** [BeInCrypto](https://beincrypto.com/analysts-warn-of-3-bitcoin-death-crosses-september/)\n\n*This article was originally published on [BeInCrypto](https://beincrypto.com/analysts-warn-of-3-bitcoin-death-crosses-september/) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var h=Object.create;var i=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var y=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var g=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),f=(e,t)=>{for(var r in t)i(e,r,{get:t[r],enumerable:!0})},a=(e,t,r,o)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let s of y(t))!b.call(e,s)&&s!==r&&i(e,s,{get:()=>t[s],enumerable:!(o=m(t,s))||o.enumerable});return e};var _=(e,t,r)=>(r=e!=null?h(u(e)):{},a(t||!e||!e.__esModule?i(r,\"default\",{value:e,enumerable:!0}):r,e)),F=e=>a(i({},\"__esModule\",{value:!0}),e);var l=g((x,c)=>{c.exports=_jsx_runtime});var w={};f(w,{default:()=>d,frontmatter:()=>S});var n=_(l()),S={title:\"Bitcoin Faces Triple \\u2018Death Cross\\u2019 Warning Amid Historically Weak September\",date:\"2025-09-02\",tags:[\"news\",\"bitcoin\"],draft:!1,summary:`In September, Bitcoin faces three \"death crosses\" on key indicators, signaling potential volatility. However, ETF stability and the Fed's rate cut decision co`,images:[\"https://beincrypto.com/wp-content/uploads/2023/03/BIC_LAYOFFS_NRGATIVE_CROSS.png\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://beincrypto.com/analysts-warn-of-3-bitcoin-death-crosses-september/\"};function p(e){let t={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.p,{children:(0,n.jsx)(t.img,{alt:\"Bitcoin Faces Triple \\u2018Death Cross\\u2019 Warning Amid Historically Weak September\",src:\"https://beincrypto.com/wp-content/uploads/2023/03/BIC_LAYOFFS_NRGATIVE_CROSS.png\"})}),(0,n.jsx)(t.p,{children:`In September, Bitcoin faces three \"death crosses\" on key indicators, signaling potential volatility. However, ETF stability and the Fed's rate cut decision could counteract bearish risks. Stay cautious and monitor market trends for potential shifts.`}),(0,n.jsx)(t.hr,{}),(0,n.jsxs)(t.p,{children:[(0,n.jsx)(t.strong,{children:\"Original Article:\"}),\" \",(0,n.jsx)(t.a,{href:\"https://beincrypto.com/analysts-warn-of-3-bitcoin-death-crosses-september/\",children:\"BeInCrypto\"})]}),(0,n.jsx)(t.p,{children:(0,n.jsxs)(t.em,{children:[\"This article was originally published on \",(0,n.jsx)(t.a,{href:\"https://beincrypto.com/analysts-warn-of-3-bitcoin-death-crosses-september/\",children:\"BeInCrypto\"}),\" and has been curated for our readers.\"]})})]})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(p,{...e})}):p(e)}return F(w);})();\n;return Component;"
+        },
+        "_id": "blog/2025-09-02-bitcoin-faces-triple-death-cross-warning-amid-historically-weak-september.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-09-02-bitcoin-faces-triple-death-cross-warning-amid-historically-weak-september.mdx",
+          "sourceFileName": "2025-09-02-bitcoin-faces-triple-death-cross-warning-amid-historically-weak-september.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-09-02-bitcoin-faces-triple-death-cross-warning-amid-historically-weak-september"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.315,
+          "time": 18900,
+          "words": 63
+        },
+        "slug": "2025-09-02-bitcoin-faces-triple-death-cross-warning-amid-historically-weak-september",
+        "path": "blog/2025-09-02-bitcoin-faces-triple-death-cross-warning-amid-historically-weak-september",
+        "filePath": "blog/2025-09-02-bitcoin-faces-triple-death-cross-warning-amid-historically-weak-september.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "Bitcoin Faces Triple ‘Death Cross’ Warning Amid Historically Weak September",
+          "datePublished": "2025-09-02T00:00:00.000Z",
+          "dateModified": "2025-09-02T00:00:00.000Z",
+          "description": "In September, Bitcoin faces three \"death crosses\" on key indicators, signaling potential volatility. However, ETF stability and the Fed's rate cut decision co",
+          "image": "https://beincrypto.com/wp-content/uploads/2023/03/BIC_LAYOFFS_NRGATIVE_CROSS.png",
+          "url": "https://vectr.news/blog/2025-09-02-bitcoin-faces-triple-death-cross-warning-amid-historically-weak-september"
+        }
+      },
+      "documentHash": "1756805231855",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-09-02-bunni-dex-halts-smart-contracts-after-exploit-drains-84m-across-chains.mdx": {
+      "document": {
+        "title": "Bunni DEX Halts Smart Contracts After Exploit Drains $8.4M Across Chains",
+        "date": "2025-09-02T00:00:00.000Z",
+        "tags": [
+          "news",
+          "ethereum",
+          "eth",
+          "crypto"
+        ],
+        "draft": false,
+        "summary": "An exploit recently hit BunniHub's main contract system, leading to funds being redirected to two Ethereum wallets. Stay updated on the latest developments in t",
+        "images": [
+          "https://cdn.sanity.io/images/s3y3vcno/production/dde8a6f3584052ab3d1cee9009810ccc19b5693a-1920x1440.jpg?auto=format&w=1920&h=1080&crop=focalpoint&fit=clip"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://www.coindesk.com/web3/2025/09/02/bunni-dex-halts-smart-contracts-after-exploit-drains-usd8-4m-across-chains",
+        "body": {
+          "raw": "\n![Bunni DEX Halts Smart Contracts After Exploit Drains $8.4M Across Chains](https://cdn.sanity.io/images/s3y3vcno/production/dde8a6f3584052ab3d1cee9009810ccc19b5693a-1920x1440.jpg?auto=format&w=1920&h=1080&crop=focalpoint&fit=clip)\n\nAn exploit recently hit BunniHub's main contract system, leading to funds being redirected to two Ethereum wallets. Stay updated on the latest developments in the crypto world!\n\n---\n\n**Original Article:** [CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data](https://www.coindesk.com/web3/2025/09/02/bunni-dex-halts-smart-contracts-after-exploit-drains-usd8-4m-across-chains)\n\n*This article was originally published on [CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data](https://www.coindesk.com/web3/2025/09/02/bunni-dex-halts-smart-contracts-after-exploit-drains-usd8-4m-across-chains) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var m=Object.create;var r=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,w=Object.prototype.hasOwnProperty;var x=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),g=(e,t)=>{for(var a in t)r(e,a,{get:t[a],enumerable:!0})},i=(e,t,a,o)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let s of u(t))!w.call(e,s)&&s!==a&&r(e,s,{get:()=>t[s],enumerable:!(o=p(t,s))||o.enumerable});return e};var y=(e,t,a)=>(a=e!=null?m(f(e)):{},i(t||!e||!e.__esModule?r(a,\"default\",{value:e,enumerable:!0}):a,e)),b=e=>i(r({},\"__esModule\",{value:!0}),e);var d=x((j,c)=>{c.exports=_jsx_runtime});var D={};g(D,{default:()=>h,frontmatter:()=>C});var n=y(d()),C={title:\"Bunni DEX Halts Smart Contracts After Exploit Drains $8.4M Across Chains\",date:\"2025-09-02\",tags:[\"news\",\"ethereum\",\"eth\",\"crypto\"],draft:!1,summary:\"An exploit recently hit BunniHub's main contract system, leading to funds being redirected to two Ethereum wallets. Stay updated on the latest developments in t\",images:[\"https://cdn.sanity.io/images/s3y3vcno/production/dde8a6f3584052ab3d1cee9009810ccc19b5693a-1920x1440.jpg?auto=format&w=1920&h=1080&crop=focalpoint&fit=clip\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://www.coindesk.com/web3/2025/09/02/bunni-dex-halts-smart-contracts-after-exploit-drains-usd8-4m-across-chains\"};function l(e){let t={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.p,{children:(0,n.jsx)(t.img,{alt:\"Bunni DEX Halts Smart Contracts After Exploit Drains $8.4M Across Chains\",src:\"https://cdn.sanity.io/images/s3y3vcno/production/dde8a6f3584052ab3d1cee9009810ccc19b5693a-1920x1440.jpg?auto=format&w=1920&h=1080&crop=focalpoint&fit=clip\"})}),(0,n.jsx)(t.p,{children:\"An exploit recently hit BunniHub's main contract system, leading to funds being redirected to two Ethereum wallets. Stay updated on the latest developments in the crypto world!\"}),(0,n.jsx)(t.hr,{}),(0,n.jsxs)(t.p,{children:[(0,n.jsx)(t.strong,{children:\"Original Article:\"}),\" \",(0,n.jsx)(t.a,{href:\"https://www.coindesk.com/web3/2025/09/02/bunni-dex-halts-smart-contracts-after-exploit-drains-usd8-4m-across-chains\",children:\"CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data\"})]}),(0,n.jsx)(t.p,{children:(0,n.jsxs)(t.em,{children:[\"This article was originally published on \",(0,n.jsx)(t.a,{href:\"https://www.coindesk.com/web3/2025/09/02/bunni-dex-halts-smart-contracts-after-exploit-drains-usd8-4m-across-chains\",children:\"CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data\"}),\" and has been curated for our readers.\"]})})]})}function h(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(l,{...e})}):l(e)}return b(D);})();\n;return Component;"
+        },
+        "_id": "blog/2025-09-02-bunni-dex-halts-smart-contracts-after-exploit-drains-84m-across-chains.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-09-02-bunni-dex-halts-smart-contracts-after-exploit-drains-84m-across-chains.mdx",
+          "sourceFileName": "2025-09-02-bunni-dex-halts-smart-contracts-after-exploit-drains-84m-across-chains.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-09-02-bunni-dex-halts-smart-contracts-after-exploit-drains-84m-across-chains"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.35,
+          "time": 21000,
+          "words": 70
+        },
+        "slug": "2025-09-02-bunni-dex-halts-smart-contracts-after-exploit-drains-84m-across-chains",
+        "path": "blog/2025-09-02-bunni-dex-halts-smart-contracts-after-exploit-drains-84m-across-chains",
+        "filePath": "blog/2025-09-02-bunni-dex-halts-smart-contracts-after-exploit-drains-84m-across-chains.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "Bunni DEX Halts Smart Contracts After Exploit Drains $8.4M Across Chains",
+          "datePublished": "2025-09-02T00:00:00.000Z",
+          "dateModified": "2025-09-02T00:00:00.000Z",
+          "description": "An exploit recently hit BunniHub's main contract system, leading to funds being redirected to two Ethereum wallets. Stay updated on the latest developments in t",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/dde8a6f3584052ab3d1cee9009810ccc19b5693a-1920x1440.jpg?auto=format&w=1920&h=1080&crop=focalpoint&fit=clip",
+          "url": "https://vectr.news/blog/2025-09-02-bunni-dex-halts-smart-contracts-after-exploit-drains-84m-across-chains"
+        }
+      },
+      "documentHash": "1756805231852",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-09-02-european-regulator-flags-tokenized-stocks-stresses-need-for-safeguards.mdx": {
+      "document": {
+        "title": "European Regulator Flags Tokenized Stocks, Stresses Need for Safeguards",
+        "date": "2025-09-02T00:00:00.000Z",
+        "tags": [
+          "news",
+          "crypto"
+        ],
+        "draft": false,
+        "summary": "ESMA's executive director believes tokenization has the potential to revolutionize markets, but emphasizes the importance of safeguards to mitigate risks. An in",
+        "images": [
+          "https://cdn.decrypt.co/wp-content/uploads/2025/09/eu-flag-gID_7.jpg"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://decrypt.co/337636/european-regulator-flags-tokenized-stocks-stresses-need-safeguards",
+        "body": {
+          "raw": "\n![European Regulator Flags Tokenized Stocks, Stresses Need for Safeguards](https://cdn.decrypt.co/wp-content/uploads/2025/09/eu-flag-gID_7.jpg)\n\nESMA's executive director believes tokenization has the potential to revolutionize markets, but emphasizes the importance of safeguards to mitigate risks. An innovative approach with both opportunities and challenges for crypto enthusiasts to navigate.\n\n---\n\n**Original Article:** [Decrypt](https://decrypt.co/337636/european-regulator-flags-tokenized-stocks-stresses-need-safeguards)\n\n*This article was originally published on [Decrypt](https://decrypt.co/337636/european-regulator-flags-tokenized-stocks-stresses-need-safeguards) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var u=Object.create;var o=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,m=Object.prototype.hasOwnProperty;var k=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),y=(t,e)=>{for(var r in e)o(t,r,{get:e[r],enumerable:!0})},i=(t,e,r,n)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of h(e))!m.call(t,a)&&a!==r&&o(t,a,{get:()=>e[a],enumerable:!(n=g(e,a))||n.enumerable});return t};var x=(t,e,r)=>(r=t!=null?u(f(t)):{},i(e||!t||!t.__esModule?o(r,\"default\",{value:t,enumerable:!0}):r,t)),z=t=>i(o({},\"__esModule\",{value:!0}),t);var d=k((b,c)=>{c.exports=_jsx_runtime});var _={};y(_,{default:()=>p,frontmatter:()=>v});var s=x(d()),v={title:\"European Regulator Flags Tokenized Stocks, Stresses Need for Safeguards\",date:\"2025-09-02\",tags:[\"news\",\"crypto\"],draft:!1,summary:\"ESMA's executive director believes tokenization has the potential to revolutionize markets, but emphasizes the importance of safeguards to mitigate risks. An in\",images:[\"https://cdn.decrypt.co/wp-content/uploads/2025/09/eu-flag-gID_7.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://decrypt.co/337636/european-regulator-flags-tokenized-stocks-stresses-need-safeguards\"};function l(t){let e={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(e.p,{children:(0,s.jsx)(e.img,{alt:\"European Regulator Flags Tokenized Stocks, Stresses Need for Safeguards\",src:\"https://cdn.decrypt.co/wp-content/uploads/2025/09/eu-flag-gID_7.jpg\"})}),(0,s.jsx)(e.p,{children:\"ESMA's executive director believes tokenization has the potential to revolutionize markets, but emphasizes the importance of safeguards to mitigate risks. An innovative approach with both opportunities and challenges for crypto enthusiasts to navigate.\"}),(0,s.jsx)(e.hr,{}),(0,s.jsxs)(e.p,{children:[(0,s.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,s.jsx)(e.a,{href:\"https://decrypt.co/337636/european-regulator-flags-tokenized-stocks-stresses-need-safeguards\",children:\"Decrypt\"})]}),(0,s.jsx)(e.p,{children:(0,s.jsxs)(e.em,{children:[\"This article was originally published on \",(0,s.jsx)(e.a,{href:\"https://decrypt.co/337636/european-regulator-flags-tokenized-stocks-stresses-need-safeguards\",children:\"Decrypt\"}),\" and has been curated for our readers.\"]})})]})}function p(t={}){let{wrapper:e}=t.components||{};return e?(0,s.jsx)(e,{...t,children:(0,s.jsx)(l,{...t})}):l(t)}return z(_);})();\n;return Component;"
+        },
+        "_id": "blog/2025-09-02-european-regulator-flags-tokenized-stocks-stresses-need-for-safeguards.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-09-02-european-regulator-flags-tokenized-stocks-stresses-need-for-safeguards.mdx",
+          "sourceFileName": "2025-09-02-european-regulator-flags-tokenized-stocks-stresses-need-for-safeguards.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-09-02-european-regulator-flags-tokenized-stocks-stresses-need-for-safeguards"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.3,
+          "time": 18000,
+          "words": 60
+        },
+        "slug": "2025-09-02-european-regulator-flags-tokenized-stocks-stresses-need-for-safeguards",
+        "path": "blog/2025-09-02-european-regulator-flags-tokenized-stocks-stresses-need-for-safeguards",
+        "filePath": "blog/2025-09-02-european-regulator-flags-tokenized-stocks-stresses-need-for-safeguards.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "European Regulator Flags Tokenized Stocks, Stresses Need for Safeguards",
+          "datePublished": "2025-09-02T00:00:00.000Z",
+          "dateModified": "2025-09-02T00:00:00.000Z",
+          "description": "ESMA's executive director believes tokenization has the potential to revolutionize markets, but emphasizes the importance of safeguards to mitigate risks. An in",
+          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/eu-flag-gID_7.jpg",
+          "url": "https://vectr.news/blog/2025-09-02-european-regulator-flags-tokenized-stocks-stresses-need-for-safeguards"
+        }
+      },
+      "documentHash": "1756805231854",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin.mdx": {
+      "document": {
+        "title": "Gold Hits Record Highs: What Experts Say About Its Correlation with Bitcoin",
+        "date": "2025-09-02T00:00:00.000Z",
+        "tags": [
+          "news",
+          "bitcoin"
+        ],
+        "draft": false,
+        "summary": "As gold hits record highs, experts are debating if Bitcoin will rise or fall. Both are seen as key hedges in the changing economy. Stay tuned for more insights ",
+        "images": [
+          "https://beincrypto.com/wp-content/uploads/2024/02/BIC_Tokenization_bitcoin-covers_coins.png"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://beincrypto.com/gold-record-highs-what-about-bitcoin-correlation/",
+        "body": {
+          "raw": "\n![Gold Hits Record Highs: What Experts Say About Its Correlation with Bitcoin](https://beincrypto.com/wp-content/uploads/2024/02/BIC_Tokenization_bitcoin-covers_coins.png)\n\nAs gold hits record highs, experts are debating if Bitcoin will rise or fall. Both are seen as key hedges in the changing economy. Stay tuned for more insights on the correlation between these two assets.\n\n---\n\n**Original Article:** [BeInCrypto](https://beincrypto.com/gold-record-highs-what-about-bitcoin-correlation/)\n\n*This article was originally published on [BeInCrypto](https://beincrypto.com/gold-record-highs-what-about-bitcoin-correlation/) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var g=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var y=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),f=(e,t)=>{for(var n in t)i(e,n,{get:t[n],enumerable:!0})},a=(e,t,n,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of m(t))!b.call(e,r)&&r!==n&&i(e,r,{get:()=>t[r],enumerable:!(s=p(t,r))||s.enumerable});return e};var w=(e,t,n)=>(n=e!=null?g(u(e)):{},a(t||!e||!e.__esModule?i(n,\"default\",{value:e,enumerable:!0}):n,e)),x=e=>a(i({},\"__esModule\",{value:!0}),e);var h=y((I,c)=>{c.exports=_jsx_runtime});var B={};f(B,{default:()=>d,frontmatter:()=>_});var o=w(h()),_={title:\"Gold Hits Record Highs: What Experts Say About Its Correlation with Bitcoin\",date:\"2025-09-02\",tags:[\"news\",\"bitcoin\"],draft:!1,summary:\"As gold hits record highs, experts are debating if Bitcoin will rise or fall. Both are seen as key hedges in the changing economy. Stay tuned for more insights \",images:[\"https://beincrypto.com/wp-content/uploads/2024/02/BIC_Tokenization_bitcoin-covers_coins.png\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://beincrypto.com/gold-record-highs-what-about-bitcoin-correlation/\"};function l(e){let t={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...e.components};return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(t.p,{children:(0,o.jsx)(t.img,{alt:\"Gold Hits Record Highs: What Experts Say About Its Correlation with Bitcoin\",src:\"https://beincrypto.com/wp-content/uploads/2024/02/BIC_Tokenization_bitcoin-covers_coins.png\"})}),(0,o.jsx)(t.p,{children:\"As gold hits record highs, experts are debating if Bitcoin will rise or fall. Both are seen as key hedges in the changing economy. Stay tuned for more insights on the correlation between these two assets.\"}),(0,o.jsx)(t.hr,{}),(0,o.jsxs)(t.p,{children:[(0,o.jsx)(t.strong,{children:\"Original Article:\"}),\" \",(0,o.jsx)(t.a,{href:\"https://beincrypto.com/gold-record-highs-what-about-bitcoin-correlation/\",children:\"BeInCrypto\"})]}),(0,o.jsx)(t.p,{children:(0,o.jsxs)(t.em,{children:[\"This article was originally published on \",(0,o.jsx)(t.a,{href:\"https://beincrypto.com/gold-record-highs-what-about-bitcoin-correlation/\",children:\"BeInCrypto\"}),\" and has been curated for our readers.\"]})})]})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,o.jsx)(t,{...e,children:(0,o.jsx)(l,{...e})}):l(e)}return x(B);})();\n;return Component;"
+        },
+        "_id": "blog/2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin.mdx",
+          "sourceFileName": "2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.33,
+          "time": 19800,
+          "words": 66
+        },
+        "slug": "2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin",
+        "path": "blog/2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin",
+        "filePath": "blog/2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "Gold Hits Record Highs: What Experts Say About Its Correlation with Bitcoin",
+          "datePublished": "2025-09-02T00:00:00.000Z",
+          "dateModified": "2025-09-02T00:00:00.000Z",
+          "description": "As gold hits record highs, experts are debating if Bitcoin will rise or fall. Both are seen as key hedges in the changing economy. Stay tuned for more insights ",
+          "image": "https://beincrypto.com/wp-content/uploads/2024/02/BIC_Tokenization_bitcoin-covers_coins.png",
+          "url": "https://vectr.news/blog/2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin"
+        }
+      },
+      "documentHash": "1756805231854",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-09-02-no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst.mdx": {
+      "document": {
+        "title": "No Fireworks, Just Grind: Bitcoin Could Drift To $1M Over 7 Years: Analyst",
+        "date": "2025-09-02T00:00:00.000Z",
+        "tags": [
+          "analysis",
+          "bitcoin",
+          "crypto",
+          "news"
+        ],
+        "draft": false,
+        "summary": "Bitcoin analyst PlanC suggests that the path to $1,000,000 per coin may not be as dramatic as some anticipate. Rather than rapid price spikes, Bitcoin could see",
+        "images": [
+          "https://www.newsbtc.com/wp-content/uploads/2025/09/generate_image_of_bitcoin_with_a_1-1.jpeg?fit=536%2C536"
+        ],
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://www.newsbtc.com/bitcoin-news/no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst/",
+        "body": {
+          "raw": "\n![No Fireworks, Just Grind: Bitcoin Could Drift To $1M Over 7 Years: Analyst](https://www.newsbtc.com/wp-content/uploads/2025/09/generate_image_of_bitcoin_with_a_1-1.jpeg?fit=536%2C536)\n\nBitcoin analyst PlanC suggests that the path to $1,000,000 per coin may not be as dramatic as some anticipate. Rather than rapid price spikes, Bitcoin could see more gradual growth. This insight challenges common expectations in the crypto community.\n\n---\n\n**Original Article:** [NewsBTC](https://www.newsbtc.com/bitcoin-news/no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst/)\n\n*This article was originally published on [NewsBTC](https://www.newsbtc.com/bitcoin-news/no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst/) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var m=Object.create;var r=Object.defineProperty;var w=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var f=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),y=(e,t)=>{for(var i in t)r(e,i,{get:t[i],enumerable:!0})},a=(e,t,i,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let o of p(t))!g.call(e,o)&&o!==i&&r(e,o,{get:()=>t[o],enumerable:!(s=w(t,o))||s.enumerable});return e};var _=(e,t,i)=>(i=e!=null?m(u(e)):{},a(t||!e||!e.__esModule?r(i,\"default\",{value:e,enumerable:!0}):i,e)),b=e=>a(r({},\"__esModule\",{value:!0}),e);var l=f((B,c)=>{c.exports=_jsx_runtime});var x={};y(x,{default:()=>h,frontmatter:()=>j});var n=_(l()),j={title:\"No Fireworks, Just Grind: Bitcoin Could Drift To $1M Over 7 Years: Analyst\",date:\"2025-09-02\",tags:[\"analysis\",\"bitcoin\",\"crypto\",\"news\"],draft:!1,summary:\"Bitcoin analyst PlanC suggests that the path to $1,000,000 per coin may not be as dramatic as some anticipate. Rather than rapid price spikes, Bitcoin could see\",images:[\"https://www.newsbtc.com/wp-content/uploads/2025/09/generate_image_of_bitcoin_with_a_1-1.jpeg?fit=536%2C536\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://www.newsbtc.com/bitcoin-news/no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst/\"};function d(e){let t={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.p,{children:(0,n.jsx)(t.img,{alt:\"No Fireworks, Just Grind: Bitcoin Could Drift To $1M Over 7 Years: Analyst\",src:\"https://www.newsbtc.com/wp-content/uploads/2025/09/generate_image_of_bitcoin_with_a_1-1.jpeg?fit=536%2C536\"})}),(0,n.jsx)(t.p,{children:\"Bitcoin analyst PlanC suggests that the path to $1,000,000 per coin may not be as dramatic as some anticipate. Rather than rapid price spikes, Bitcoin could see more gradual growth. This insight challenges common expectations in the crypto community.\"}),(0,n.jsx)(t.hr,{}),(0,n.jsxs)(t.p,{children:[(0,n.jsx)(t.strong,{children:\"Original Article:\"}),\" \",(0,n.jsx)(t.a,{href:\"https://www.newsbtc.com/bitcoin-news/no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst/\",children:\"NewsBTC\"})]}),(0,n.jsx)(t.p,{children:(0,n.jsxs)(t.em,{children:[\"This article was originally published on \",(0,n.jsx)(t.a,{href:\"https://www.newsbtc.com/bitcoin-news/no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst/\",children:\"NewsBTC\"}),\" and has been curated for our readers.\"]})})]})}function h(e={}){let{wrapper:t}=e.components||{};return t?(0,n.jsx)(t,{...e,children:(0,n.jsx)(d,{...e})}):d(e)}return b(x);})();\n;return Component;"
+        },
+        "_id": "blog/2025-09-02-no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-09-02-no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst.mdx",
+          "sourceFileName": "2025-09-02-no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-09-02-no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.35,
+          "time": 21000,
+          "words": 70
+        },
+        "slug": "2025-09-02-no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst",
+        "path": "blog/2025-09-02-no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst",
+        "filePath": "blog/2025-09-02-no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "No Fireworks, Just Grind: Bitcoin Could Drift To $1M Over 7 Years: Analyst",
+          "datePublished": "2025-09-02T00:00:00.000Z",
+          "dateModified": "2025-09-02T00:00:00.000Z",
+          "description": "Bitcoin analyst PlanC suggests that the path to $1,000,000 per coin may not be as dramatic as some anticipate. Rather than rapid price spikes, Bitcoin could see",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2025/09/generate_image_of_bitcoin_with_a_1-1.jpeg?fit=536%2C536",
+          "url": "https://vectr.news/blog/2025-09-02-no-fireworks-just-grind-bitcoin-could-drift-to-1m-over-7-years-analyst"
+        }
+      },
+      "documentHash": "1756805231852",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/2025-09-02-xrp-etf-approval-likely-near-100-reveals-market-veteran.mdx": {
+      "document": {
+        "title": "XRP ETF Approval Likely Near 100%, Reveals Market Veteran",
+        "date": "2025-09-02T00:00:00.000Z",
+        "tags": [
+          "news",
+          "crypto"
+        ],
+        "draft": false,
+        "summary": "Experts predict that an XRP ETF could be approved as soon as 2025. This would make it easier for investors to gain exposure to Ripple's digital asset. Stay tune",
+        "authors": [
+          "default"
+        ],
+        "layout": "PostLayout",
+        "canonicalUrl": "https://u.today/xrp-etf-approval-likely-near-100-reveals-market-veteran",
+        "body": {
+          "raw": "\nExperts predict that an XRP ETF could be approved as soon as 2025. This would make it easier for investors to gain exposure to Ripple's digital asset. Stay tuned for updates on this potential game-changing development in the world of crypto investments.\n\n---\n\n**Original Article:** [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/xrp-etf-approval-likely-near-100-reveals-market-veteran)\n\n*This article was originally published on [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/xrp-etf-approval-likely-near-100-reveals-market-veteran) and has been curated for our readers.*\n",
+          "code": "var Component=(()=>{var h=Object.create;var o=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var y=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var v=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),x=(t,e)=>{for(var r in e)o(t,r,{get:e[r],enumerable:!0})},i=(t,e,r,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let n of m(e))!f.call(t,n)&&n!==r&&o(t,n,{get:()=>e[n],enumerable:!(s=u(e,n))||s.enumerable});return t};var g=(t,e,r)=>(r=t!=null?h(y(t)):{},i(e||!t||!t.__esModule?o(r,\"default\",{value:t,enumerable:!0}):r,t)),T=t=>i(o({},\"__esModule\",{value:!0}),t);var p=v((_,l)=>{l.exports=_jsx_runtime});var w={};x(w,{default:()=>c,frontmatter:()=>k});var a=g(p()),k={title:\"XRP ETF Approval Likely Near 100%, Reveals Market Veteran\",date:\"2025-09-02\",tags:[\"news\",\"crypto\"],draft:!1,summary:\"Experts predict that an XRP ETF could be approved as soon as 2025. This would make it easier for investors to gain exposure to Ripple's digital asset. Stay tune\",authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://u.today/xrp-etf-approval-likely-near-100-reveals-market-veteran\"};function d(t){let e={a:\"a\",em:\"em\",hr:\"hr\",p:\"p\",strong:\"strong\",...t.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(e.p,{children:\"Experts predict that an XRP ETF could be approved as soon as 2025. This would make it easier for investors to gain exposure to Ripple's digital asset. Stay tuned for updates on this potential game-changing development in the world of crypto investments.\"}),(0,a.jsx)(e.hr,{}),(0,a.jsxs)(e.p,{children:[(0,a.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,a.jsx)(e.a,{href:\"https://u.today/xrp-etf-approval-likely-near-100-reveals-market-veteran\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"})]}),(0,a.jsx)(e.p,{children:(0,a.jsxs)(e.em,{children:[\"This article was originally published on \",(0,a.jsx)(e.a,{href:\"https://u.today/xrp-etf-approval-likely-near-100-reveals-market-veteran\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"}),\" and has been curated for our readers.\"]})})]})}function c(t={}){let{wrapper:e}=t.components||{};return e?(0,a.jsx)(e,{...t,children:(0,a.jsx)(d,{...t})}):d(t)}return T(w);})();\n;return Component;"
+        },
+        "_id": "blog/2025-09-02-xrp-etf-approval-likely-near-100-reveals-market-veteran.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/2025-09-02-xrp-etf-approval-likely-near-100-reveals-market-veteran.mdx",
+          "sourceFileName": "2025-09-02-xrp-etf-approval-likely-near-100-reveals-market-veteran.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/2025-09-02-xrp-etf-approval-likely-near-100-reveals-market-veteran"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "1 min read",
+          "minutes": 0.4,
+          "time": 24000,
+          "words": 80
+        },
+        "slug": "2025-09-02-xrp-etf-approval-likely-near-100-reveals-market-veteran",
+        "path": "blog/2025-09-02-xrp-etf-approval-likely-near-100-reveals-market-veteran",
+        "filePath": "blog/2025-09-02-xrp-etf-approval-likely-near-100-reveals-market-veteran.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "XRP ETF Approval Likely Near 100%, Reveals Market Veteran",
+          "datePublished": "2025-09-02T00:00:00.000Z",
+          "dateModified": "2025-09-02T00:00:00.000Z",
+          "description": "Experts predict that an XRP ETF could be approved as soon as 2025. This would make it easier for investors to gain exposure to Ripple's digital asset. Stay tune",
+          "image": "/static/images/twitter-card.png",
+          "url": "https://vectr.news/blog/2025-09-02-xrp-etf-approval-likely-near-100-reveals-market-veteran"
+        }
+      },
+      "documentHash": "1756805231853",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": " ETH staking entry queue surges to two-year high as institutions accumulate ",
+  "date": "2025-09-03T00:00:00.000Z",
+  "tags": [
+    "news",
+    "ethereum",
+    "eth",
+    "blockchain",
+    "staking"
+  ],
+  "draft": false,
+  "summary": "Institutional demand for Ethereum staking is soaring, leading to a record-high entry queue. Confidence in the blockchain is also growing. Meanwhile, the exit qu",
+  "images": [
+    "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGMxZjgtZDYxZS03NWNlLWIxODMtZWQ4NjY4MGRmNWRl.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://cointelegraph.com/news/ethereum-staking-entry-queue-hits-highest-level-for-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "body": {
+    "raw": "\n![ ETH staking entry queue surges to two-year high as institutions accumulate ](https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGMxZjgtZDYxZS03NWNlLWIxODMtZWQ4NjY4MGRmNWRl.jpg)\n\nInstitutional demand for Ethereum staking is soaring, leading to a record-high entry queue. Confidence in the blockchain is also growing. Meanwhile, the exit queue is on the decline. Exciting times for ETH enthusiasts!\n\n---\n\n**Original Article:** [Cointelegraph.com News](https://cointelegraph.com/news/ethereum-staking-entry-queue-hits-highest-level-for-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n*This article was originally published on [Cointelegraph.com News](https://cointelegraph.com/news/ethereum-staking-entry-queue-hits-highest-level-for-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var l=Object.create;var i=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,_=Object.prototype.hasOwnProperty;var y=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var s in e)i(t,s,{get:e[s],enumerable:!0})},o=(t,e,s,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of d(e))!_.call(t,r)&&r!==s&&i(t,r,{get:()=>e[r],enumerable:!(a=g(e,r))||a.enumerable});return t};var M=(t,e,s)=>(s=t!=null?l(p(t)):{},o(e||!t||!t.__esModule?i(s,\"default\",{value:t,enumerable:!0}):s,t)),x=t=>o(i({},\"__esModule\",{value:!0}),t);var h=y((b,u)=>{u.exports=_jsx_runtime});var j={};f(j,{default:()=>m,frontmatter:()=>w});var n=M(h()),w={title:\" ETH staking entry queue surges to two-year high as institutions accumulate \",date:\"2025-09-03\",tags:[\"news\",\"ethereum\",\"eth\",\"blockchain\",\"staking\"],draft:!1,summary:\"Institutional demand for Ethereum staking is soaring, leading to a record-high entry queue. Confidence in the blockchain is also growing. Meanwhile, the exit qu\",images:[\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGMxZjgtZDYxZS03NWNlLWIxODMtZWQ4NjY4MGRmNWRl.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://cointelegraph.com/news/ethereum-staking-entry-queue-hits-highest-level-for-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\"};function c(t){let e={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:(0,n.jsx)(e.img,{alt:\" ETH staking entry queue surges to two-year high as institutions accumulate \",src:\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGMxZjgtZDYxZS03NWNlLWIxODMtZWQ4NjY4MGRmNWRl.jpg\"})}),(0,n.jsx)(e.p,{children:\"Institutional demand for Ethereum staking is soaring, leading to a record-high entry queue. Confidence in the blockchain is also growing. Meanwhile, the exit queue is on the decline. Exciting times for ETH enthusiasts!\"}),(0,n.jsx)(e.hr,{}),(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,n.jsx)(e.a,{href:\"https://cointelegraph.com/news/ethereum-staking-entry-queue-hits-highest-level-for-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"})]}),(0,n.jsx)(e.p,{children:(0,n.jsxs)(e.em,{children:[\"This article was originally published on \",(0,n.jsx)(e.a,{href:\"https://cointelegraph.com/news/ethereum-staking-entry-queue-hits-highest-level-for-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"}),\" and has been curated for our readers.\"]})})]})}function m(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(c,{...t})}):c(t)}return x(j);})();\n;return Component;"
+  },
+  "_id": "blog/2025-09-03--eth-staking-entry-queue-surges-to-two-year-high-as-institutions-accumulate-.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-09-03--eth-staking-entry-queue-surges-to-two-year-high-as-institutions-accumulate-.mdx",
+    "sourceFileName": "2025-09-03--eth-staking-entry-queue-surges-to-two-year-high-as-institutions-accumulate-.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-09-03--eth-staking-entry-queue-surges-to-two-year-high-as-institutions-accumulate-"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.33,
+    "time": 19800,
+    "words": 66
+  },
+  "slug": "2025-09-03--eth-staking-entry-queue-surges-to-two-year-high-as-institutions-accumulate-",
+  "path": "blog/2025-09-03--eth-staking-entry-queue-surges-to-two-year-high-as-institutions-accumulate-",
+  "filePath": "blog/2025-09-03--eth-staking-entry-queue-surges-to-two-year-high-as-institutions-accumulate-.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": " ETH staking entry queue surges to two-year high as institutions accumulate ",
+    "datePublished": "2025-09-03T00:00:00.000Z",
+    "dateModified": "2025-09-03T00:00:00.000Z",
+    "description": "Institutional demand for Ethereum staking is soaring, leading to a record-high entry queue. Confidence in the blockchain is also growing. Meanwhile, the exit qu",
+    "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGMxZjgtZDYxZS03NWNlLWIxODMtZWQ4NjY4MGRmNWRl.jpg",
+    "url": "https://vektr.news/blog/2025-09-03--eth-staking-entry-queue-surges-to-two-year-high-as-institutions-accumulate-"
+  }
+}

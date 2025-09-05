@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>vektr.news</title>
+      <link>https://vektr.news/blog</link>
+      <description>AI-curated cryptocurrency news and analysis from trusted sources across the web. Stay updated with Bitcoin, Ethereum, DeFi, and the latest crypto market trends.</description>
+      <language>en-us</language>
+      <managingEditor>curator@vektr.news (vektr)</managingEditor>
+      <webMaster>curator@vektr.news (vektr)</webMaster>
+      <lastBuildDate>Wed, 03 Sep 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://vektr.news/tags/staking/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03--eth-staking-entry-queue-surges-to-two-year-high-as-institutions-accumulate-</guid>
+    <title> ETH staking entry queue surges to two-year high as institutions accumulate </title>
+    <link>https://vektr.news/blog/2025-09-03--eth-staking-entry-queue-surges-to-two-year-high-as-institutions-accumulate-</link>
+    <description>Institutional demand for Ethereum staking is soaring, leading to a record-high entry queue. Confidence in the blockchain is also growing. Meanwhile, the exit qu</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>ethereum</category><category>eth</category><category>blockchain</category><category>staking</category>
+  </item>
+
+    </channel>
+  </rss>

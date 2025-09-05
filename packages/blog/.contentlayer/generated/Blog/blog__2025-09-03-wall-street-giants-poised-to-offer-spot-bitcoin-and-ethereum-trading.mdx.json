@@ -1,0 +1,54 @@
+{
+  "title": "Wall Street Giants Poised to Offer Spot Bitcoin and Ethereum Trading",
+  "date": "2025-09-03T00:00:00.000Z",
+  "tags": [
+    "news",
+    "bitcoin",
+    "ethereum",
+    "eth",
+    "trading"
+  ],
+  "draft": false,
+  "summary": "US regulators greenlight Wall Street giants to host Bitcoin and Ethereum trading.",
+  "images": [
+    "https://beincrypto.com/wp-content/uploads/2024/01/bic_crypto_market_general_5-covers.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://beincrypto.com/wall-street-giants-spot-bitcoin-ethereum-trading/",
+  "body": {
+    "raw": "\n![Wall Street Giants Poised to Offer Spot Bitcoin and Ethereum Trading](https://beincrypto.com/wp-content/uploads/2024/01/bic_crypto_market_general_5-covers.jpg)\n\nUS regulators greenlight Wall Street giants to host Bitcoin and Ethereum trading.\n\n---\n\n**Original Article:** [BeInCrypto](https://beincrypto.com/wall-street-giants-spot-bitcoin-ethereum-trading/)\n\n*This article was originally published on [BeInCrypto](https://beincrypto.com/wall-street-giants-spot-bitcoin-ethereum-trading/) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var g=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var _=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),y=(e,t)=>{for(var n in t)i(e,n,{get:t[n],enumerable:!0})},s=(e,t,n,a)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let o of m(t))!f.call(e,o)&&o!==n&&i(e,o,{get:()=>t[o],enumerable:!(a=p(t,o))||a.enumerable});return e};var b=(e,t,n)=>(n=e!=null?g(u(e)):{},s(t||!e||!e.__esModule?i(n,\"default\",{value:e,enumerable:!0}):n,e)),x=e=>s(i({},\"__esModule\",{value:!0}),e);var l=_((B,c)=>{c.exports=_jsx_runtime});var S={};y(S,{default:()=>d,frontmatter:()=>w});var r=b(l()),w={title:\"Wall Street Giants Poised to Offer Spot Bitcoin and Ethereum Trading\",date:\"2025-09-03\",tags:[\"news\",\"bitcoin\",\"ethereum\",\"eth\",\"trading\"],draft:!1,summary:\"US regulators greenlight Wall Street giants to host Bitcoin and Ethereum trading.\",images:[\"https://beincrypto.com/wp-content/uploads/2024/01/bic_crypto_market_general_5-covers.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://beincrypto.com/wall-street-giants-spot-bitcoin-ethereum-trading/\"};function h(e){let t={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...e.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(t.p,{children:(0,r.jsx)(t.img,{alt:\"Wall Street Giants Poised to Offer Spot Bitcoin and Ethereum Trading\",src:\"https://beincrypto.com/wp-content/uploads/2024/01/bic_crypto_market_general_5-covers.jpg\"})}),(0,r.jsx)(t.p,{children:\"US regulators greenlight Wall Street giants to host Bitcoin and Ethereum trading.\"}),(0,r.jsx)(t.hr,{}),(0,r.jsxs)(t.p,{children:[(0,r.jsx)(t.strong,{children:\"Original Article:\"}),\" \",(0,r.jsx)(t.a,{href:\"https://beincrypto.com/wall-street-giants-spot-bitcoin-ethereum-trading/\",children:\"BeInCrypto\"})]}),(0,r.jsx)(t.p,{children:(0,r.jsxs)(t.em,{children:[\"This article was originally published on \",(0,r.jsx)(t.a,{href:\"https://beincrypto.com/wall-street-giants-spot-bitcoin-ethereum-trading/\",children:\"BeInCrypto\"}),\" and has been curated for our readers.\"]})})]})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,r.jsx)(t,{...e,children:(0,r.jsx)(h,{...e})}):h(e)}return x(S);})();\n;return Component;"
+  },
+  "_id": "blog/2025-09-03-wall-street-giants-poised-to-offer-spot-bitcoin-and-ethereum-trading.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-09-03-wall-street-giants-poised-to-offer-spot-bitcoin-and-ethereum-trading.mdx",
+    "sourceFileName": "2025-09-03-wall-street-giants-poised-to-offer-spot-bitcoin-and-ethereum-trading.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-09-03-wall-street-giants-poised-to-offer-spot-bitcoin-and-ethereum-trading"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.205,
+    "time": 12300,
+    "words": 41
+  },
+  "slug": "2025-09-03-wall-street-giants-poised-to-offer-spot-bitcoin-and-ethereum-trading",
+  "path": "blog/2025-09-03-wall-street-giants-poised-to-offer-spot-bitcoin-and-ethereum-trading",
+  "filePath": "blog/2025-09-03-wall-street-giants-poised-to-offer-spot-bitcoin-and-ethereum-trading.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Wall Street Giants Poised to Offer Spot Bitcoin and Ethereum Trading",
+    "datePublished": "2025-09-03T00:00:00.000Z",
+    "dateModified": "2025-09-03T00:00:00.000Z",
+    "description": "US regulators greenlight Wall Street giants to host Bitcoin and Ethereum trading.",
+    "image": "https://beincrypto.com/wp-content/uploads/2024/01/bic_crypto_market_general_5-covers.jpg",
+    "url": "https://vektr.news/blog/2025-09-03-wall-street-giants-poised-to-offer-spot-bitcoin-and-ethereum-trading"
+  }
+}

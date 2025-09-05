@@ -1,0 +1,52 @@
+[
+  {
+    "title": "CoinDesk - Bitcoin & Cryptocurrency News",
+    "xmlUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "news"
+  },
+  {
+    "title": "Cointelegraph",
+    "xmlUrl": "https://cointelegraph.com/rss",
+    "category": "news"
+  },
+  {
+    "title": "Decrypt",
+    "xmlUrl": "https://decrypt.co/feed",
+    "category": "news"
+  },
+  {
+    "title": "The Block",
+    "xmlUrl": "https://www.theblock.co/rss.xml",
+    "category": "news"
+  },
+  {
+    "title": "Bitcoin Magazine",
+    "xmlUrl": "https://bitcoinmagazine.com/.rss/full/",
+    "category": "bitcoin"
+  },
+  {
+    "title": "CryptoSlate",
+    "xmlUrl": "https://cryptoslate.com/feed/",
+    "category": "news"
+  },
+  {
+    "title": "BeInCrypto",
+    "xmlUrl": "https://beincrypto.com/feed/",
+    "category": "news"
+  },
+  {
+    "title": "NewsBTC",
+    "xmlUrl": "https://www.newsbtc.com/feed/",
+    "category": "analysis"
+  },
+  {
+    "title": "CoinGape",
+    "xmlUrl": "https://coingape.com/feed/",
+    "category": "news"
+  },
+  {
+    "title": "U.Today Cryptocurrency News",
+    "xmlUrl": "https://u.today/rss",
+    "category": "news"
+  }
+]

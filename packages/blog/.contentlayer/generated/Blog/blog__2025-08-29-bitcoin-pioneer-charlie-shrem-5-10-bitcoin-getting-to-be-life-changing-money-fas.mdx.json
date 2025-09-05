@@ -1,0 +1,51 @@
+{
+  "title": "Bitcoin Pioneer Charlie Shrem: '5-10 Bitcoin Getting to Be Life-Changing Money Fast’",
+  "date": "2025-08-29T00:00:00.000Z",
+  "tags": [
+    "news",
+    "bitcoin",
+    "btc",
+    "crypto",
+    "adoption"
+  ],
+  "draft": false,
+  "summary": "Bitcoin pioneer Charlie Shrem reflects on his accurate Bitcoin prediction from six years ago. Explore Shrem's insights into the future of BTC and the impact of ",
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://u.today/bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fast",
+  "body": {
+    "raw": "\nBitcoin pioneer Charlie Shrem reflects on his accurate Bitcoin prediction from six years ago. Explore Shrem's insights into the future of BTC and the impact of his early adoption on the crypto market.\n\n---\n\n**Original Article:** [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fast)\n\n*This article was originally published on [U.Today - IT, AI and Fintech Daily News for You Today](https://u.today/bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fast) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var f=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var y=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),b=(t,e)=>{for(var n in e)r(t,n,{get:e[n],enumerable:!0})},c=(t,e,n,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of g(e))!u.call(t,o)&&o!==n&&r(t,o,{get:()=>e[o],enumerable:!(a=m(e,o))||a.enumerable});return t};var x=(t,e,n)=>(n=t!=null?f(p(t)):{},c(e||!t||!t.__esModule?r(n,\"default\",{value:t,enumerable:!0}):n,t)),B=t=>c(r({},\"__esModule\",{value:!0}),t);var h=y((j,s)=>{s.exports=_jsx_runtime});var C={};b(C,{default:()=>d,frontmatter:()=>T});var i=x(h()),T={title:\"Bitcoin Pioneer Charlie Shrem: '5-10 Bitcoin Getting to Be Life-Changing Money Fast\\u2019\",date:\"2025-08-29\",tags:[\"news\",\"bitcoin\",\"btc\",\"crypto\",\"adoption\"],draft:!1,summary:\"Bitcoin pioneer Charlie Shrem reflects on his accurate Bitcoin prediction from six years ago. Explore Shrem's insights into the future of BTC and the impact of \",authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://u.today/bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fast\"};function l(t){let e={a:\"a\",em:\"em\",hr:\"hr\",p:\"p\",strong:\"strong\",...t.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(e.p,{children:\"Bitcoin pioneer Charlie Shrem reflects on his accurate Bitcoin prediction from six years ago. Explore Shrem's insights into the future of BTC and the impact of his early adoption on the crypto market.\"}),(0,i.jsx)(e.hr,{}),(0,i.jsxs)(e.p,{children:[(0,i.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,i.jsx)(e.a,{href:\"https://u.today/bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fast\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"})]}),(0,i.jsx)(e.p,{children:(0,i.jsxs)(e.em,{children:[\"This article was originally published on \",(0,i.jsx)(e.a,{href:\"https://u.today/bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fast\",children:\"U.Today - IT, AI and Fintech Daily News for You Today\"}),\" and has been curated for our readers.\"]})})]})}function d(t={}){let{wrapper:e}=t.components||{};return e?(0,i.jsx)(e,{...t,children:(0,i.jsx)(l,{...t})}):l(t)}return B(C);})();\n;return Component;"
+  },
+  "_id": "blog/2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas.mdx",
+    "sourceFileName": "2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.355,
+    "time": 21300,
+    "words": 71
+  },
+  "slug": "2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas",
+  "path": "blog/2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas",
+  "filePath": "blog/2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Bitcoin Pioneer Charlie Shrem: '5-10 Bitcoin Getting to Be Life-Changing Money Fast’",
+    "datePublished": "2025-08-29T00:00:00.000Z",
+    "dateModified": "2025-08-29T00:00:00.000Z",
+    "description": "Bitcoin pioneer Charlie Shrem reflects on his accurate Bitcoin prediction from six years ago. Explore Shrem's insights into the future of BTC and the impact of ",
+    "image": "/static/images/twitter-card.png",
+    "url": "https://vektr.news/blog/2025-08-29-bitcoin-pioneer-charlie-shrem-5-10-bitcoin-getting-to-be-life-changing-money-fas"
+  }
+}

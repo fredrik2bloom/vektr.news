@@ -1,0 +1,52 @@
+{
+  "title": " Ripple vs. SEC: How the lawsuit strengthened XRP’s narrative ",
+  "date": "2025-09-02T00:00:00.000Z",
+  "tags": [
+    "news",
+    "crypto",
+    "cryptocurrency"
+  ],
+  "draft": false,
+  "summary": "Discover how XRP overcame a potential threat from an SEC lawsuit to emerge stronger in 2025, showcasing the resilience and adaptability of the cryptocurrency in",
+  "images": [
+    "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83M2Q1YzBkYzU1ZjMwMjNhNGNmZTYyMWE2YmY5MjUyNy5qcGc=.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://cointelegraph.com/explained/ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "body": {
+    "raw": "\n![ Ripple vs. SEC: How the lawsuit strengthened XRP’s narrative ](https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83M2Q1YzBkYzU1ZjMwMjNhNGNmZTYyMWE2YmY5MjUyNy5qcGc=.jpg)\n\nDiscover how XRP overcame a potential threat from an SEC lawsuit to emerge stronger in 2025, showcasing the resilience and adaptability of the cryptocurrency in the face of regulatory challenges.\n\n---\n\n**Original Article:** [Cointelegraph.com News](https://cointelegraph.com/explained/ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n*This article was originally published on [Cointelegraph.com News](https://cointelegraph.com/explained/ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var p=Object.create;var s=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var _=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),w=(t,e)=>{for(var n in e)s(t,n,{get:e[n],enumerable:!0})},o=(t,e,n,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of u(e))!y.call(t,a)&&a!==n&&s(t,a,{get:()=>e[a],enumerable:!(i=d(e,a))||i.enumerable});return t};var f=(t,e,n)=>(n=t!=null?p(g(t)):{},o(e||!t||!t.__esModule?s(n,\"default\",{value:t,enumerable:!0}):n,t)),M=t=>o(s({},\"__esModule\",{value:!0}),t);var l=_((Y,c)=>{c.exports=_jsx_runtime});var j={};w(j,{default:()=>h,frontmatter:()=>v});var r=f(l()),v={title:\" Ripple vs. SEC: How the lawsuit strengthened XRP\\u2019s narrative \",date:\"2025-09-02\",tags:[\"news\",\"crypto\",\"cryptocurrency\"],draft:!1,summary:\"Discover how XRP overcame a potential threat from an SEC lawsuit to emerge stronger in 2025, showcasing the resilience and adaptability of the cryptocurrency in\",images:[\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83M2Q1YzBkYzU1ZjMwMjNhNGNmZTYyMWE2YmY5MjUyNy5qcGc=.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://cointelegraph.com/explained/ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\"};function m(t){let e={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(e.p,{children:(0,r.jsx)(e.img,{alt:\" Ripple vs. SEC: How the lawsuit strengthened XRP\\u2019s narrative \",src:\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83M2Q1YzBkYzU1ZjMwMjNhNGNmZTYyMWE2YmY5MjUyNy5qcGc=.jpg\"})}),(0,r.jsx)(e.p,{children:\"Discover how XRP overcame a potential threat from an SEC lawsuit to emerge stronger in 2025, showcasing the resilience and adaptability of the cryptocurrency in the face of regulatory challenges.\"}),(0,r.jsx)(e.hr,{}),(0,r.jsxs)(e.p,{children:[(0,r.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,r.jsx)(e.a,{href:\"https://cointelegraph.com/explained/ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"})]}),(0,r.jsx)(e.p,{children:(0,r.jsxs)(e.em,{children:[\"This article was originally published on \",(0,r.jsx)(e.a,{href:\"https://cointelegraph.com/explained/ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"}),\" and has been curated for our readers.\"]})})]})}function h(t={}){let{wrapper:e}=t.components||{};return e?(0,r.jsx)(e,{...t,children:(0,r.jsx)(m,{...t})}):m(t)}return M(j);})();\n;return Component;"
+  },
+  "_id": "blog/2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-.mdx",
+    "sourceFileName": "2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.305,
+    "time": 18300,
+    "words": 61
+  },
+  "slug": "2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-",
+  "path": "blog/2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-",
+  "filePath": "blog/2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": " Ripple vs. SEC: How the lawsuit strengthened XRP’s narrative ",
+    "datePublished": "2025-09-02T00:00:00.000Z",
+    "dateModified": "2025-09-02T00:00:00.000Z",
+    "description": "Discover how XRP overcame a potential threat from an SEC lawsuit to emerge stronger in 2025, showcasing the resilience and adaptability of the cryptocurrency in",
+    "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83M2Q1YzBkYzU1ZjMwMjNhNGNmZTYyMWE2YmY5MjUyNy5qcGc=.jpg",
+    "url": "https://vektr.news/blog/2025-09-02--ripple-vs-sec-how-the-lawsuit-strengthened-xrps-narrative-"
+  }
+}

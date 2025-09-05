@@ -1,0 +1,51 @@
+{
+  "title": "Gold Hits Record Highs: What Experts Say About Its Correlation with Bitcoin",
+  "date": "2025-09-02T00:00:00.000Z",
+  "tags": [
+    "news",
+    "bitcoin"
+  ],
+  "draft": false,
+  "summary": "As gold hits record highs, experts are debating if Bitcoin will rise or fall. Both are seen as key hedges in the changing economy. Stay tuned for more insights ",
+  "images": [
+    "https://beincrypto.com/wp-content/uploads/2024/02/BIC_Tokenization_bitcoin-covers_coins.png"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://beincrypto.com/gold-record-highs-what-about-bitcoin-correlation/",
+  "body": {
+    "raw": "\n![Gold Hits Record Highs: What Experts Say About Its Correlation with Bitcoin](https://beincrypto.com/wp-content/uploads/2024/02/BIC_Tokenization_bitcoin-covers_coins.png)\n\nAs gold hits record highs, experts are debating if Bitcoin will rise or fall. Both are seen as key hedges in the changing economy. Stay tuned for more insights on the correlation between these two assets.\n\n---\n\n**Original Article:** [BeInCrypto](https://beincrypto.com/gold-record-highs-what-about-bitcoin-correlation/)\n\n*This article was originally published on [BeInCrypto](https://beincrypto.com/gold-record-highs-what-about-bitcoin-correlation/) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var g=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var y=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),f=(e,t)=>{for(var n in t)i(e,n,{get:t[n],enumerable:!0})},a=(e,t,n,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of m(t))!b.call(e,r)&&r!==n&&i(e,r,{get:()=>t[r],enumerable:!(s=p(t,r))||s.enumerable});return e};var w=(e,t,n)=>(n=e!=null?g(u(e)):{},a(t||!e||!e.__esModule?i(n,\"default\",{value:e,enumerable:!0}):n,e)),x=e=>a(i({},\"__esModule\",{value:!0}),e);var h=y((I,c)=>{c.exports=_jsx_runtime});var B={};f(B,{default:()=>d,frontmatter:()=>_});var o=w(h()),_={title:\"Gold Hits Record Highs: What Experts Say About Its Correlation with Bitcoin\",date:\"2025-09-02\",tags:[\"news\",\"bitcoin\"],draft:!1,summary:\"As gold hits record highs, experts are debating if Bitcoin will rise or fall. Both are seen as key hedges in the changing economy. Stay tuned for more insights \",images:[\"https://beincrypto.com/wp-content/uploads/2024/02/BIC_Tokenization_bitcoin-covers_coins.png\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://beincrypto.com/gold-record-highs-what-about-bitcoin-correlation/\"};function l(e){let t={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...e.components};return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(t.p,{children:(0,o.jsx)(t.img,{alt:\"Gold Hits Record Highs: What Experts Say About Its Correlation with Bitcoin\",src:\"https://beincrypto.com/wp-content/uploads/2024/02/BIC_Tokenization_bitcoin-covers_coins.png\"})}),(0,o.jsx)(t.p,{children:\"As gold hits record highs, experts are debating if Bitcoin will rise or fall. Both are seen as key hedges in the changing economy. Stay tuned for more insights on the correlation between these two assets.\"}),(0,o.jsx)(t.hr,{}),(0,o.jsxs)(t.p,{children:[(0,o.jsx)(t.strong,{children:\"Original Article:\"}),\" \",(0,o.jsx)(t.a,{href:\"https://beincrypto.com/gold-record-highs-what-about-bitcoin-correlation/\",children:\"BeInCrypto\"})]}),(0,o.jsx)(t.p,{children:(0,o.jsxs)(t.em,{children:[\"This article was originally published on \",(0,o.jsx)(t.a,{href:\"https://beincrypto.com/gold-record-highs-what-about-bitcoin-correlation/\",children:\"BeInCrypto\"}),\" and has been curated for our readers.\"]})})]})}function d(e={}){let{wrapper:t}=e.components||{};return t?(0,o.jsx)(t,{...e,children:(0,o.jsx)(l,{...e})}):l(e)}return x(B);})();\n;return Component;"
+  },
+  "_id": "blog/2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin.mdx",
+    "sourceFileName": "2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.33,
+    "time": 19800,
+    "words": 66
+  },
+  "slug": "2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin",
+  "path": "blog/2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin",
+  "filePath": "blog/2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Gold Hits Record Highs: What Experts Say About Its Correlation with Bitcoin",
+    "datePublished": "2025-09-02T00:00:00.000Z",
+    "dateModified": "2025-09-02T00:00:00.000Z",
+    "description": "As gold hits record highs, experts are debating if Bitcoin will rise or fall. Both are seen as key hedges in the changing economy. Stay tuned for more insights ",
+    "image": "https://beincrypto.com/wp-content/uploads/2024/02/BIC_Tokenization_bitcoin-covers_coins.png",
+    "url": "https://vektr.news/blog/2025-09-02-gold-hits-record-highs-what-experts-say-about-its-correlation-with-bitcoin"
+  }
+}

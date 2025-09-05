@@ -1,0 +1,52 @@
+{
+  "title": "Ethereum onchain volume tops $320 billion in August, highest since mid-2021",
+  "date": "2025-08-29T00:00:00.000Z",
+  "tags": [
+    "news",
+    "ethereum",
+    "eth"
+  ],
+  "draft": false,
+  "summary": "In August, Ethereum saw a significant spike in onchain volume, surpassing $320 billion. This surge was driven by increased institutional interest and low transa",
+  "images": [
+    "https://www.tbstat.com/wp/uploads/2020/04/20200423_Ethereum_Stateless-1x-Daily-800x450.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://www.theblock.co/post/368753/ethereum-onchain-volume-surges-to-4-year-high?utm_source=rss&utm_medium=rss",
+  "body": {
+    "raw": "\n![Ethereum onchain volume tops $320 billion in August, highest since mid-2021](https://www.tbstat.com/wp/uploads/2020/04/20200423_Ethereum_Stateless-1x-Daily-800x450.jpg)\n\nIn August, Ethereum saw a significant spike in onchain volume, surpassing $320 billion. This surge was driven by increased institutional interest and low transaction fees. This marks Ethereum's highest monthly volume since 2021.\n\n---\n\n**Original Article:** [The Block](https://www.theblock.co/post/368753/ethereum-onchain-volume-surges-to-4-year-high?utm_source=rss&utm_medium=rss)\n\n*This article was originally published on [The Block](https://www.theblock.co/post/368753/ethereum-onchain-volume-surges-to-4-year-high?utm_source=rss&utm_medium=rss) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var c=Object.create;var r=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,w=Object.prototype.hasOwnProperty;var _=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var n in e)r(t,n,{get:e[n],enumerable:!0})},a=(t,e,n,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of d(e))!w.call(t,i)&&i!==n&&r(t,i,{get:()=>e[i],enumerable:!(o=g(e,i))||o.enumerable});return t};var b=(t,e,n)=>(n=t!=null?c(p(t)):{},a(e||!t||!t.__esModule?r(n,\"default\",{value:t,enumerable:!0}):n,t)),x=t=>a(r({},\"__esModule\",{value:!0}),t);var h=_((j,u)=>{u.exports=_jsx_runtime});var v={};f(v,{default:()=>m,frontmatter:()=>y});var s=b(h()),y={title:\"Ethereum onchain volume tops $320 billion in August, highest since mid-2021\",date:\"2025-08-29\",tags:[\"news\",\"ethereum\",\"eth\"],draft:!1,summary:\"In August, Ethereum saw a significant spike in onchain volume, surpassing $320 billion. This surge was driven by increased institutional interest and low transa\",images:[\"https://www.tbstat.com/wp/uploads/2020/04/20200423_Ethereum_Stateless-1x-Daily-800x450.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://www.theblock.co/post/368753/ethereum-onchain-volume-surges-to-4-year-high?utm_source=rss&utm_medium=rss\"};function l(t){let e={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(e.p,{children:(0,s.jsx)(e.img,{alt:\"Ethereum onchain volume tops $320 billion in August, highest since mid-2021\",src:\"https://www.tbstat.com/wp/uploads/2020/04/20200423_Ethereum_Stateless-1x-Daily-800x450.jpg\"})}),(0,s.jsx)(e.p,{children:\"In August, Ethereum saw a significant spike in onchain volume, surpassing $320 billion. This surge was driven by increased institutional interest and low transaction fees. This marks Ethereum's highest monthly volume since 2021.\"}),(0,s.jsx)(e.hr,{}),(0,s.jsxs)(e.p,{children:[(0,s.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,s.jsx)(e.a,{href:\"https://www.theblock.co/post/368753/ethereum-onchain-volume-surges-to-4-year-high?utm_source=rss&utm_medium=rss\",children:\"The Block\"})]}),(0,s.jsx)(e.p,{children:(0,s.jsxs)(e.em,{children:[\"This article was originally published on \",(0,s.jsx)(e.a,{href:\"https://www.theblock.co/post/368753/ethereum-onchain-volume-surges-to-4-year-high?utm_source=rss&utm_medium=rss\",children:\"The Block\"}),\" and has been curated for our readers.\"]})})]})}function m(t={}){let{wrapper:e}=t.components||{};return e?(0,s.jsx)(e,{...t,children:(0,s.jsx)(l,{...t})}):l(t)}return x(v);})();\n;return Component;"
+  },
+  "_id": "blog/2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021.mdx",
+    "sourceFileName": "2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.32,
+    "time": 19200,
+    "words": 64
+  },
+  "slug": "2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021",
+  "path": "blog/2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021",
+  "filePath": "blog/2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Ethereum onchain volume tops $320 billion in August, highest since mid-2021",
+    "datePublished": "2025-08-29T00:00:00.000Z",
+    "dateModified": "2025-08-29T00:00:00.000Z",
+    "description": "In August, Ethereum saw a significant spike in onchain volume, surpassing $320 billion. This surge was driven by increased institutional interest and low transa",
+    "image": "https://www.tbstat.com/wp/uploads/2020/04/20200423_Ethereum_Stateless-1x-Daily-800x450.jpg",
+    "url": "https://vektr.news/blog/2025-08-29-ethereum-onchain-volume-tops-320-billion-in-august-highest-since-mid-2021"
+  }
+}

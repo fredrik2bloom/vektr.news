@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>vektr.news</title>
+      <link>https://vektr.news/blog</link>
+      <description>AI-curated cryptocurrency news and analysis from trusted sources across the web. Stay updated with Bitcoin, Ethereum, DeFi, and the latest crypto market trends.</description>
+      <language>en-us</language>
+      <managingEditor>curator@vektr.news (vektr)</managingEditor>
+      <webMaster>curator@vektr.news (vektr)</webMaster>
+      <lastBuildDate>Fri, 29 Aug 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://vektr.news/tags/defi/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://vektr.news/blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter</guid>
+    <title>Tether leads as crypto borrowing soars to $44 billion in record quarter</title>
+    <link>https://vektr.news/blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter</link>
+    <description>Crypto borrowing surged in Q2 2025, hitting a record $26.47 billion backed by digital assets on DeFi platforms. Galaxy Research revealed a 42.1% increase from t</description>
+    <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>eth</category><category>crypto</category><category>defi</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03-venus-protocol-restores-services-recovers-stolen-funds-after-27m-exploit</guid>
+    <title>Venus Protocol Restores Services, Recovers Stolen Funds After $27M Exploit</title>
+    <link>https://vektr.news/blog/2025-09-03-venus-protocol-restores-services-recovers-stolen-funds-after-27m-exploit</link>
+    <description>DeFi lender suspends withdrawals following contract hack, millions lost</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>news</category><category>defi</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,52 @@
+{
+  "title": " CoinShares reports 26% AUM increase to $3.46B in Q2 ",
+  "date": "2025-08-29T00:00:00.000Z",
+  "tags": [
+    "news",
+    "bitcoin",
+    "eth"
+  ],
+  "draft": false,
+  "summary": "CoinShares reports $32.4M profit in Q2 and eyes US listing. Executives anticipate growth in second half with Bitcoin and Ether reaching record highs.",
+  "images": [
+    "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc2YWEtODM0NC03YmQ4LTg1YTEtNzNiMTVlYzRkZGZk.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://cointelegraph.com/news/coinshares-q2-2025-net-profit-32m-aum-growth-26?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "body": {
+    "raw": "\n![ CoinShares reports 26% AUM increase to $3.46B in Q2 ](https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc2YWEtODM0NC03YmQ4LTg1YTEtNzNiMTVlYzRkZGZk.jpg)\n\nCoinShares reports $32.4M profit in Q2 and eyes US listing. Executives anticipate growth in second half with Bitcoin and Ether reaching record highs.\n\n---\n\n**Original Article:** [Cointelegraph.com News](https://cointelegraph.com/news/coinshares-q2-2025-net-profit-32m-aum-growth-26?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n*This article was originally published on [Cointelegraph.com News](https://cointelegraph.com/news/coinshares-q2-2025-net-profit-32m-aum-growth-26?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var p=Object.create;var i=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var l=Object.getPrototypeOf,_=Object.prototype.hasOwnProperty;var M=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var n in e)i(t,n,{get:e[n],enumerable:!0})},o=(t,e,n,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let s of u(e))!_.call(t,s)&&s!==n&&i(t,s,{get:()=>e[s],enumerable:!(a=d(e,s))||a.enumerable});return t};var w=(t,e,n)=>(n=t!=null?p(l(t)):{},o(e||!t||!t.__esModule?i(n,\"default\",{value:t,enumerable:!0}):n,t)),x=t=>o(i({},\"__esModule\",{value:!0}),t);var m=M((Y,c)=>{c.exports=_jsx_runtime});var z={};f(z,{default:()=>g,frontmatter:()=>y});var r=w(m()),y={title:\" CoinShares reports 26% AUM increase to $3.46B in Q2 \",date:\"2025-08-29\",tags:[\"news\",\"bitcoin\",\"eth\"],draft:!1,summary:\"CoinShares reports $32.4M profit in Q2 and eyes US listing. Executives anticipate growth in second half with Bitcoin and Ether reaching record highs.\",images:[\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc2YWEtODM0NC03YmQ4LTg1YTEtNzNiMTVlYzRkZGZk.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://cointelegraph.com/news/coinshares-q2-2025-net-profit-32m-aum-growth-26?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\"};function h(t){let e={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(e.p,{children:(0,r.jsx)(e.img,{alt:\" CoinShares reports 26% AUM increase to $3.46B in Q2 \",src:\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc2YWEtODM0NC03YmQ4LTg1YTEtNzNiMTVlYzRkZGZk.jpg\"})}),(0,r.jsx)(e.p,{children:\"CoinShares reports $32.4M profit in Q2 and eyes US listing. Executives anticipate growth in second half with Bitcoin and Ether reaching record highs.\"}),(0,r.jsx)(e.hr,{}),(0,r.jsxs)(e.p,{children:[(0,r.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,r.jsx)(e.a,{href:\"https://cointelegraph.com/news/coinshares-q2-2025-net-profit-32m-aum-growth-26?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"})]}),(0,r.jsx)(e.p,{children:(0,r.jsxs)(e.em,{children:[\"This article was originally published on \",(0,r.jsx)(e.a,{href:\"https://cointelegraph.com/news/coinshares-q2-2025-net-profit-32m-aum-growth-26?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"}),\" and has been curated for our readers.\"]})})]})}function g(t={}){let{wrapper:e}=t.components||{};return e?(0,r.jsx)(e,{...t,children:(0,r.jsx)(h,{...t})}):h(t)}return x(z);})();\n;return Component;"
+  },
+  "_id": "blog/2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-.mdx",
+    "sourceFileName": "2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.27,
+    "time": 16200,
+    "words": 54
+  },
+  "slug": "2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-",
+  "path": "blog/2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-",
+  "filePath": "blog/2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": " CoinShares reports 26% AUM increase to $3.46B in Q2 ",
+    "datePublished": "2025-08-29T00:00:00.000Z",
+    "dateModified": "2025-08-29T00:00:00.000Z",
+    "description": "CoinShares reports $32.4M profit in Q2 and eyes US listing. Executives anticipate growth in second half with Bitcoin and Ether reaching record highs.",
+    "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc2YWEtODM0NC03YmQ4LTg1YTEtNzNiMTVlYzRkZGZk.jpg",
+    "url": "https://vektr.news/blog/2025-08-29--coinshares-reports-26-aum-increase-to-346b-in-q2-"
+  }
+}

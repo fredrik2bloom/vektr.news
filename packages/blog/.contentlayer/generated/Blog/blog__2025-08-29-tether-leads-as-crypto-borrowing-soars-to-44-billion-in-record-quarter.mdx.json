@@ -1,0 +1,53 @@
+{
+  "title": "Tether leads as crypto borrowing soars to $44 billion in record quarter",
+  "date": "2025-08-29T00:00:00.000Z",
+  "tags": [
+    "news",
+    "eth",
+    "crypto",
+    "defi"
+  ],
+  "draft": false,
+  "summary": "Crypto borrowing surged in Q2 2025, hitting a record $26.47 billion backed by digital assets on DeFi platforms. Galaxy Research revealed a 42.1% increase from t",
+  "images": [
+    "https://cryptoslate.com/wp-content/uploads/2025/08/tether-loan.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://cryptoslate.com/tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter/",
+  "body": {
+    "raw": "\n![Tether leads as crypto borrowing soars to $44 billion in record quarter](https://cryptoslate.com/wp-content/uploads/2025/08/tether-loan.jpg)\n\nCrypto borrowing surged in Q2 2025, hitting a record $26.47 billion backed by digital assets on DeFi platforms. Galaxy Research revealed a 42.1% increase from the previous quarter. This trend highlights the growing popularity of leveraging crypto holdings for loans in the market.\n\n---\n\n**Original Article:** [CryptoSlate](https://cryptoslate.com/tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter/)\n\n*This article was originally published on [CryptoSlate](https://cryptoslate.com/tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter/) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var p=Object.create;var n=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var b=(t,r)=>()=>(r||t((r={exports:{}}).exports,r),r.exports),f=(t,r)=>{for(var o in r)n(t,o,{get:r[o],enumerable:!0})},i=(t,r,o,s)=>{if(r&&typeof r==\"object\"||typeof r==\"function\")for(let a of m(r))!y.call(t,a)&&a!==o&&n(t,a,{get:()=>r[a],enumerable:!(s=g(r,a))||s.enumerable});return t};var w=(t,r,o)=>(o=t!=null?p(u(t)):{},i(r||!t||!t.__esModule?n(o,\"default\",{value:t,enumerable:!0}):o,t)),x=t=>i(n({},\"__esModule\",{value:!0}),t);var c=b((C,l)=>{l.exports=_jsx_runtime});var _={};f(_,{default:()=>h,frontmatter:()=>j});var e=w(c()),j={title:\"Tether leads as crypto borrowing soars to $44 billion in record quarter\",date:\"2025-08-29\",tags:[\"news\",\"eth\",\"crypto\",\"defi\"],draft:!1,summary:\"Crypto borrowing surged in Q2 2025, hitting a record $26.47 billion backed by digital assets on DeFi platforms. Galaxy Research revealed a 42.1% increase from t\",images:[\"https://cryptoslate.com/wp-content/uploads/2025/08/tether-loan.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://cryptoslate.com/tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter/\"};function d(t){let r={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(r.p,{children:(0,e.jsx)(r.img,{alt:\"Tether leads as crypto borrowing soars to $44 billion in record quarter\",src:\"https://cryptoslate.com/wp-content/uploads/2025/08/tether-loan.jpg\"})}),(0,e.jsx)(r.p,{children:\"Crypto borrowing surged in Q2 2025, hitting a record $26.47 billion backed by digital assets on DeFi platforms. Galaxy Research revealed a 42.1% increase from the previous quarter. This trend highlights the growing popularity of leveraging crypto holdings for loans in the market.\"}),(0,e.jsx)(r.hr,{}),(0,e.jsxs)(r.p,{children:[(0,e.jsx)(r.strong,{children:\"Original Article:\"}),\" \",(0,e.jsx)(r.a,{href:\"https://cryptoslate.com/tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter/\",children:\"CryptoSlate\"})]}),(0,e.jsx)(r.p,{children:(0,e.jsxs)(r.em,{children:[\"This article was originally published on \",(0,e.jsx)(r.a,{href:\"https://cryptoslate.com/tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter/\",children:\"CryptoSlate\"}),\" and has been curated for our readers.\"]})})]})}function h(t={}){let{wrapper:r}=t.components||{};return r?(0,e.jsx)(r,{...t,children:(0,e.jsx)(d,{...t})}):d(t)}return x(_);})();\n;return Component;"
+  },
+  "_id": "blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter.mdx",
+    "sourceFileName": "2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.365,
+    "time": 21900,
+    "words": 73
+  },
+  "slug": "2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter",
+  "path": "blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter",
+  "filePath": "blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Tether leads as crypto borrowing soars to $44 billion in record quarter",
+    "datePublished": "2025-08-29T00:00:00.000Z",
+    "dateModified": "2025-08-29T00:00:00.000Z",
+    "description": "Crypto borrowing surged in Q2 2025, hitting a record $26.47 billion backed by digital assets on DeFi platforms. Galaxy Research revealed a 42.1% increase from t",
+    "image": "https://cryptoslate.com/wp-content/uploads/2025/08/tether-loan.jpg",
+    "url": "https://vektr.news/blog/2025-08-29-tether-leads-as-crypto-borrowing-soars-to-44-billion-in-record-quarter"
+  }
+}

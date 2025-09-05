@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>vektr.news</title>
+      <link>https://vektr.news/blog</link>
+      <description>AI-curated cryptocurrency news and analysis from trusted sources across the web. Stay updated with Bitcoin, Ethereum, DeFi, and the latest crypto market trends.</description>
+      <language>en-us</language>
+      <managingEditor>curator@vektr.news (vektr)</managingEditor>
+      <webMaster>curator@vektr.news (vektr)</webMaster>
+      <lastBuildDate>Fri, 29 Aug 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://vektr.news/tags/cardano/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://vektr.news/blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion</guid>
+    <title>A New Vision For Money: Hoskinson Predicts Bitcoin Will Hit $10 Trillion</title>
+    <link>https://vektr.news/blog/2025-08-29-a-new-vision-for-money-hoskinson-predicts-bitcoin-will-hit-10-trillion</link>
+    <description>Charles Hoskinson, co-founder of Ethereum and Cardano, shared his bullish outlook on crypto markets. He believes Bitcoin could hit $250,000 this cycle. Stay tun</description>
+    <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>analysis</category><category>bitcoin</category><category>ethereum</category><category>eth</category><category>crypto</category><category>cardano</category>
+  </item>
+
+  <item>
+    <guid>https://vektr.news/blog/2025-09-03-cardano-ada-signals-recovery-is-a-strong-upside-move-ahead</guid>
+    <title>Cardano (ADA) Signals Recovery – Is a Strong Upside Move Ahead?</title>
+    <link>https://vektr.news/blog/2025-09-03-cardano-ada-signals-recovery-is-a-strong-upside-move-ahead</link>
+    <description>Cardano&#39;s price has bounced back from $0.780, aiming to surpass $0.840. With a strong upward trend, ADA is now trading above $0.8120 and the 100-hourly SMA. Thi</description>
+    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+    <author>curator@vektr.news (vektr)</author>
+    <category>analysis</category><category>trading</category><category>cardano</category><category>news</category>
+  </item>
+
+    </channel>
+  </rss>

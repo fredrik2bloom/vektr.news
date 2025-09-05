@@ -1,0 +1,51 @@
+{
+  "title": " OKX fined $2.6M in Netherlands for unlicensed operations ahead of MiCA rollout ",
+  "date": "2025-09-03T00:00:00.000Z",
+  "tags": [
+    "news",
+    "eth"
+  ],
+  "draft": false,
+  "summary": "OKX hit with $2.6M fine by Dutch National Bank for unregistered operations in Netherlands pre-MiCA.",
+  "images": [
+    "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlOWQtMDdiNy03NmJmLWJmNmEtMDY2YjFhODkwNWMw.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://cointelegraph.com/news/okx-fined-2-6m-netherlands-operating-without-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "body": {
+    "raw": "\n![ OKX fined $2.6M in Netherlands for unlicensed operations ahead of MiCA rollout ](https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlOWQtMDdiNy03NmJmLWJmNmEtMDY2YjFhODkwNWMw.jpg)\n\nOKX hit with $2.6M fine by Dutch National Bank for unregistered operations in Netherlands pre-MiCA.\n\n---\n\n**Original Article:** [Cointelegraph.com News](https://cointelegraph.com/news/okx-fined-2-6m-netherlands-operating-without-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n*This article was originally published on [Cointelegraph.com News](https://cointelegraph.com/news/okx-fined-2-6m-netherlands-operating-without-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var h=Object.create;var s=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,M=Object.prototype.hasOwnProperty;var f=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),_=(t,e)=>{for(var r in e)s(t,r,{get:e[r],enumerable:!0})},o=(t,e,r,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of p(e))!M.call(t,i)&&i!==r&&s(t,i,{get:()=>e[i],enumerable:!(a=u(e,i))||a.enumerable});return t};var w=(t,e,r)=>(r=t!=null?h(g(t)):{},o(e||!t||!t.__esModule?s(r,\"default\",{value:t,enumerable:!0}):r,t)),N=t=>o(s({},\"__esModule\",{value:!0}),t);var c=f((D,m)=>{m.exports=_jsx_runtime});var x={};_(x,{default:()=>d,frontmatter:()=>y});var n=w(c()),y={title:\" OKX fined $2.6M in Netherlands for unlicensed operations ahead of MiCA rollout \",date:\"2025-09-03\",tags:[\"news\",\"eth\"],draft:!1,summary:\"OKX hit with $2.6M fine by Dutch National Bank for unregistered operations in Netherlands pre-MiCA.\",images:[\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlOWQtMDdiNy03NmJmLWJmNmEtMDY2YjFhODkwNWMw.jpg\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://cointelegraph.com/news/okx-fined-2-6m-netherlands-operating-without-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\"};function l(t){let e={a:\"a\",em:\"em\",hr:\"hr\",img:\"img\",p:\"p\",strong:\"strong\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:(0,n.jsx)(e.img,{alt:\" OKX fined $2.6M in Netherlands for unlicensed operations ahead of MiCA rollout \",src:\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlOWQtMDdiNy03NmJmLWJmNmEtMDY2YjFhODkwNWMw.jpg\"})}),(0,n.jsx)(e.p,{children:\"OKX hit with $2.6M fine by Dutch National Bank for unregistered operations in Netherlands pre-MiCA.\"}),(0,n.jsx)(e.hr,{}),(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.strong,{children:\"Original Article:\"}),\" \",(0,n.jsx)(e.a,{href:\"https://cointelegraph.com/news/okx-fined-2-6m-netherlands-operating-without-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"})]}),(0,n.jsx)(e.p,{children:(0,n.jsxs)(e.em,{children:[\"This article was originally published on \",(0,n.jsx)(e.a,{href:\"https://cointelegraph.com/news/okx-fined-2-6m-netherlands-operating-without-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\",children:\"Cointelegraph.com News\"}),\" and has been curated for our readers.\"]})})]})}function d(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(l,{...t})}):l(t)}return N(x);})();\n;return Component;"
+  },
+  "_id": "blog/2025-09-03--okx-fined-26m-in-netherlands-for-unlicensed-operations-ahead-of-mica-rollout-.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-09-03--okx-fined-26m-in-netherlands-for-unlicensed-operations-ahead-of-mica-rollout-.mdx",
+    "sourceFileName": "2025-09-03--okx-fined-26m-in-netherlands-for-unlicensed-operations-ahead-of-mica-rollout-.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-09-03--okx-fined-26m-in-netherlands-for-unlicensed-operations-ahead-of-mica-rollout-"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.245,
+    "time": 14700,
+    "words": 49
+  },
+  "slug": "2025-09-03--okx-fined-26m-in-netherlands-for-unlicensed-operations-ahead-of-mica-rollout-",
+  "path": "blog/2025-09-03--okx-fined-26m-in-netherlands-for-unlicensed-operations-ahead-of-mica-rollout-",
+  "filePath": "blog/2025-09-03--okx-fined-26m-in-netherlands-for-unlicensed-operations-ahead-of-mica-rollout-.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": " OKX fined $2.6M in Netherlands for unlicensed operations ahead of MiCA rollout ",
+    "datePublished": "2025-09-03T00:00:00.000Z",
+    "dateModified": "2025-09-03T00:00:00.000Z",
+    "description": "OKX hit with $2.6M fine by Dutch National Bank for unregistered operations in Netherlands pre-MiCA.",
+    "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlOWQtMDdiNy03NmJmLWJmNmEtMDY2YjFhODkwNWMw.jpg",
+    "url": "https://vektr.news/blog/2025-09-03--okx-fined-26m-in-netherlands-for-unlicensed-operations-ahead-of-mica-rollout-"
+  }
+}

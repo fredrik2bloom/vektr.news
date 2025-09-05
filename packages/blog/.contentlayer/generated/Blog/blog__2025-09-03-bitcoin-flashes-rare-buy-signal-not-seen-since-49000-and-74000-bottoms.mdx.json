@@ -1,0 +1,52 @@
+{
+  "title": "Bitcoin Flashes Rare Buy Signal Not Seen Since $49,000 And $74,000 Bottoms",
+  "date": "2025-09-03T00:00:00.000Z",
+  "tags": [
+    "analysis",
+    "bitcoin",
+    "news"
+  ],
+  "draft": false,
+  "summary": "On-chain analyst Frank spotted a “buy” signal for Bitcoin, indicating potential price increases. This signal has historically led to significant swing lows at $",
+  "images": [
+    "https://www.newsbtc.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-27-2025-08_11_24-AM.png?fit=750%2C500"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "canonicalUrl": "https://www.newsbtc.com/bitcoin-news/bitcoin-buy-signal-not-since-49000-74000-bottoms/",
+  "body": {
+    "raw": "\n![Bitcoin Flashes Rare Buy Signal Not Seen Since $49,000 And $74,000 Bottoms](https://www.newsbtc.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-27-2025-08_11_24-AM.png?fit=750%2C500)\n\nOn-chain analyst Frank spotted a “buy” signal for Bitcoin, indicating potential price increases. This signal has historically led to significant swing lows at $49,000 and $74,000. Frank noted an Oversold print on the short-term holder MVRV bollinger bands, suggesting a bullish trend.\n\n---\n\n**Original Article:** [NewsBTC](https://www.newsbtc.com/bitcoin-news/bitcoin-buy-signal-not-since-49000-74000-bottoms/)\n\n*This article was originally published on [NewsBTC](https://www.newsbtc.com/bitcoin-news/bitcoin-buy-signal-not-since-49000-74000-bottoms/) and has been curated for our readers.*\n",
+    "code": "var Component=(()=>{var d=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var w=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var b=(a,n)=>()=>(n||a((n={exports:{}}).exports,n),n.exports),y=(a,n)=>{for(var e in n)i(a,e,{get:n[e],enumerable:!0})},r=(a,n,e,o)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let s of g(n))!u.call(a,s)&&s!==e&&i(a,s,{get:()=>n[s],enumerable:!(o=p(n,s))||o.enumerable});return a};var f=(a,n,e)=>(e=a!=null?d(w(a)):{},r(n||!a||!a.__esModule?i(e,\"default\",{value:a,enumerable:!0}):e,a)),x=a=>r(i({},\"__esModule\",{value:!0}),a);var l=b((M,c)=>{c.exports=_jsx_runtime});var _={};y(_,{default:()=>h,frontmatter:()=>N});var t=f(l()),N={title:\"Bitcoin Flashes Rare Buy Signal Not Seen Since $49,000 And $74,000 Bottoms\",date:\"2025-09-03\",tags:[\"analysis\",\"bitcoin\",\"news\"],draft:!1,summary:\"On-chain analyst Frank spotted a \\u201Cbuy\\u201D signal for Bitcoin, indicating potential price increases. This signal has historically led to significant swing lows at $\",images:[\"https://www.newsbtc.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-27-2025-08_11_24-AM.png?fit=750%2C500\"],authors:[\"default\"],layout:\"PostLayout\",canonicalUrl:\"https://www.newsbtc.com/bitcoin-news/bitcoin-buy-signal-not-since-49000-74000-bottoms/\"};function m(a){let n={a:\"a\",annotation:\"annotation\",em:\"em\",hr:\"hr\",img:\"img\",math:\"math\",mi:\"mi\",mn:\"mn\",mo:\"mo\",mrow:\"mrow\",p:\"p\",semantics:\"semantics\",span:\"span\",strong:\"strong\",...a.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.p,{children:(0,t.jsx)(n.img,{alt:\"Bitcoin Flashes Rare Buy Signal Not Seen Since 49,000 And 74,000 Bottoms\",src:\"https://www.newsbtc.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-27-2025-08_11_24-AM.png?fit=750%2C500\"})}),(0,t.jsxs)(n.p,{children:[\"On-chain analyst Frank spotted a \\u201Cbuy\\u201D signal for Bitcoin, indicating potential price increases. This signal has historically led to significant swing lows at \",(0,t.jsxs)(n.span,{className:\"katex\",translate:\"no\",children:[(0,t.jsx)(n.span,{className:\"katex-mathml\",children:(0,t.jsx)(n.math,{xmlns:\"http://www.w3.org/1998/Math/MathML\",children:(0,t.jsxs)(n.semantics,{children:[(0,t.jsxs)(n.mrow,{children:[(0,t.jsx)(n.mn,{children:\"49\"}),(0,t.jsx)(n.mo,{separator:\"true\",children:\",\"}),(0,t.jsx)(n.mn,{children:\"000\"}),(0,t.jsx)(n.mi,{children:\"a\"}),(0,t.jsx)(n.mi,{children:\"n\"}),(0,t.jsx)(n.mi,{children:\"d\"})]}),(0,t.jsx)(n.annotation,{encoding:\"application/x-tex\",children:\"49,000 and \"})]})})}),(0,t.jsx)(n.span,{className:\"katex-html\",\"aria-hidden\":\"true\",children:(0,t.jsxs)(n.span,{className:\"base\",children:[(0,t.jsx)(n.span,{className:\"strut\",style:{height:\".8889em\",verticalAlign:\"-.1944em\"}}),(0,t.jsx)(n.span,{className:\"mord\",children:\"49\"}),(0,t.jsx)(n.span,{className:\"mpunct\",children:\",\"}),(0,t.jsx)(n.span,{className:\"mspace\",style:{marginRight:\".1667em\"}}),(0,t.jsx)(n.span,{className:\"mord\",children:\"000\"}),(0,t.jsx)(n.span,{className:\"mord mathnormal\",children:\"an\"}),(0,t.jsx)(n.span,{className:\"mord mathnormal\",children:\"d\"})]})})]}),\"74,000. Frank noted an Oversold print on the short-term holder MVRV bollinger bands, suggesting a bullish trend.\"]}),(0,t.jsx)(n.hr,{}),(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:\"Original Article:\"}),\" \",(0,t.jsx)(n.a,{href:\"https://www.newsbtc.com/bitcoin-news/bitcoin-buy-signal-not-since-49000-74000-bottoms/\",children:\"NewsBTC\"})]}),(0,t.jsx)(n.p,{children:(0,t.jsxs)(n.em,{children:[\"This article was originally published on \",(0,t.jsx)(n.a,{href:\"https://www.newsbtc.com/bitcoin-news/bitcoin-buy-signal-not-since-49000-74000-bottoms/\",children:\"NewsBTC\"}),\" and has been curated for our readers.\"]})})]})}function h(a={}){let{wrapper:n}=a.components||{};return n?(0,t.jsx)(n,{...a,children:(0,t.jsx)(m,{...a})}):m(a)}return x(_);})();\n;return Component;"
+  },
+  "_id": "blog/2025-09-03-bitcoin-flashes-rare-buy-signal-not-seen-since-49000-and-74000-bottoms.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025-09-03-bitcoin-flashes-rare-buy-signal-not-seen-since-49000-and-74000-bottoms.mdx",
+    "sourceFileName": "2025-09-03-bitcoin-flashes-rare-buy-signal-not-seen-since-49000-and-74000-bottoms.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025-09-03-bitcoin-flashes-rare-buy-signal-not-seen-since-49000-and-74000-bottoms"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.36,
+    "time": 21600,
+    "words": 72
+  },
+  "slug": "2025-09-03-bitcoin-flashes-rare-buy-signal-not-seen-since-49000-and-74000-bottoms",
+  "path": "blog/2025-09-03-bitcoin-flashes-rare-buy-signal-not-seen-since-49000-and-74000-bottoms",
+  "filePath": "blog/2025-09-03-bitcoin-flashes-rare-buy-signal-not-seen-since-49000-and-74000-bottoms.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Bitcoin Flashes Rare Buy Signal Not Seen Since $49,000 And $74,000 Bottoms",
+    "datePublished": "2025-09-03T00:00:00.000Z",
+    "dateModified": "2025-09-03T00:00:00.000Z",
+    "description": "On-chain analyst Frank spotted a “buy” signal for Bitcoin, indicating potential price increases. This signal has historically led to significant swing lows at $",
+    "image": "https://www.newsbtc.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-27-2025-08_11_24-AM.png?fit=750%2C500",
+    "url": "https://vektr.news/blog/2025-09-03-bitcoin-flashes-rare-buy-signal-not-seen-since-49000-and-74000-bottoms"
+  }
+}
