@@ -1,0 +1,58 @@
+name: Scrape + Publish to Blog
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *" # hourly
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-publish
+  cancel-in-progress: false
+
+jobs:
+  scrape_publish:
+    runs-on: ubuntu-latest
+    env:
+      # Write MDX posts to the blog package
+      NEXTJS_BLOG_DIR: packages/blog/data/blog
+
+      # Scraper env (set in GitHub repo: Settings -> Secrets and variables -> Actions)
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+
+      # Optional tuning
+      ENABLE_CURATION: "true"
+      CURATION_BATCH_DELAY: "200"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: npm
+
+      - name: Install scraper workspace only
+        run: npm ci --workspace=@crypto-feed/scraper
+
+      - name: Scrape + curate + generate TLDRs (single run)
+        run: node packages/scraper/src/index.js --once
+
+      - name: Publish MDX to Next.js blog
+        run: node packages/scraper/scripts/publish-to-nextjs.js --all-recent --limit 20
+
+      - name: Commit new MDX (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add packages/blog/data/blog
+          git diff --cached --quiet || git commit -m "chore(blog): publish new articles"
+          git push
+
