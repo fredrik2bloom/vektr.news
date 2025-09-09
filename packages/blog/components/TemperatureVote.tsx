@@ -132,11 +132,22 @@ export default function VectorVote({ articleId, className = '' }: VectorVoteProp
     }
   }
 
-  // Calculate arrow rotation based on slope (-45 to +45 degrees)
+  // Calculate arrow rotation with saturation at ±90° and vote-based damping
   const getArrowRotation = () => {
-    const scaledSlope = data.slope * -3 // Invert and amplify
-    const clampedSlope = Math.max(-45, Math.min(45, scaledSlope))
-    return clampedSlope
+    const slope = data.slope || 0
+    const votes = Math.max(0, data.thumbscount || 0)
+
+    // Dampen responsiveness as votes increase using an inverse power law
+    // Effective momentum grows with slope but with diminishing returns as votes accumulate
+    const GAMMA = 0.5 // 0.5 = sqrt damping; increase to dampen more
+    const STEEPNESS = 0.35 // steeper response near zero; tune 0.25–0.5
+    const MAX_ANGLE = 90
+
+    const normalized = slope / Math.pow(votes + 1, GAMMA)
+
+    // Smoothly saturate to ±MAX_ANGLE using tanh, then invert to point up for positive slope
+    const angle = MAX_ANGLE * Math.tanh(STEEPNESS * normalized)
+    return -angle
   }
 
   if (loading) {
