@@ -67,6 +67,7 @@ export default function Home({ posts }) {
               >
                 <Image
                   src={getArticleImage(heroPost.images, heroPost.slug)}
+                  fallbackSlug={heroPost.slug}
                   alt={heroPost.title}
                   fill
                   className="object-cover"
@@ -153,6 +154,7 @@ export default function Home({ posts }) {
                           >
                             <Image
                               src={getArticleImage(images, slug)}
+                              fallbackSlug={slug}
                               alt={title}
                               fill
                               className="object-cover"
@@ -268,6 +270,7 @@ export default function Home({ posts }) {
                     >
                       <Image
                         src={getArticleImage(images, slug)}
+                        fallbackSlug={slug}
                         alt={title}
                         fill
                         className="object-cover"

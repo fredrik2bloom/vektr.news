@@ -142,6 +142,7 @@ export default function ListLayoutWithTags({
                             >
                               <Image
                                 src={images[0]}
+                                fallbackSlug={path}
                                 alt={title}
                                 fill
                                 className="object-cover transition-transform duration-300 hover:scale-105"

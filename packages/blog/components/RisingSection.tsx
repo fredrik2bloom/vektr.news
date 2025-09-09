@@ -141,6 +141,7 @@ const RisingSection = ({ posts }: RisingSectionProps) => {
               <div className="relative aspect-[16/9] overflow-hidden">
                 <Image
                   src={getArticleImage(images, slug)}
+                  fallbackSlug={slug}
                   alt={title}
                   fill
                   className="object-cover"
