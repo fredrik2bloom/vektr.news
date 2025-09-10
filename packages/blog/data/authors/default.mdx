@@ -5,21 +5,30 @@ occupation: Crypto News Analyst
 company: vektr
 email: curator@vektr.news
 twitter: https://twitter.com/vektr
-linkedin: https://www.linkedin.com/company/vektr
-github: https://github.com/vektr
 ---
 
 Vektr is an AI‑assisted, community‑curated crypto news platform. We aggregate trusted sources, de‑duplicate and normalize stories, and highlight credible reporting and real market signals—so you can scan the space fast without the noise.
 
-Every article is treated like a vector with “temperature” that reflects community momentum. Your votes nudge the slope: amplify what’s insightful, dampen what’s overstated. The result is a feed that adapts to what informed readers find useful right now.
+Every article is treated like a vector with “slope” that reflects community momentum. Your votes nudge the slope: amplify what’s insightful, dampen what’s overstated. The result is a feed that adapts to what informed readers find useful right now.
 
-<span className="inline-flex items-center gap-2">
+<div className="mt-4 flex items-center gap-3">
   <img
-    src="/static/images/ryan-chen.jpg"
+    src="/static/images/ryan-chen.png"
     alt="Ryan Chen"
-    className="inline-block h-7 w-7 rounded-full ring-1 ring-gray-200 dark:ring-gray-700"
+    className="h-12 w-12 shrink-0 rounded-full object-cover ring-1 ring-gray-200 dark:ring-gray-700"
   />
-  <span>
-    Created by Ryan Chen — a Computer Science graduate and web3 practitioner focused on data‑driven products. Ryan has shipped production‑grade web apps and analytics pipelines, and built Vektr to surface reliable crypto coverage with context and momentum.
-  </span>
-</span>
+  <em className="text-sm text-gray-700 dark:text-gray-300">
+    Created by Ryan Chen — a Computer Science graduate and web3 practitioner focused on data‑driven products. Ryan has shipped production‑grade web apps and analytics pipelines, and built Vektr to surface reliable crypto coverage with context and momentum. 
+    <a href="https://x.com/chen0x33" target="_blank" rel="noopener noreferrer" className="underline decoration-dotted hover:text-primary-600 dark:hover:text-primary-400">Follow Ryan on X</a>.
+  </em>
+</div>
+
+## Methodology
+
+Vektr combines automated aggregation with community input. We fetch and normalize stories from trusted sources, de‑duplicate near‑identical items, summarize for fast scanning, and tag topics and quality signals. Readers then vote, adjusting each article’s slope, which influences its rank in the feed.
+
+<img
+  src="/static/images/method.svg"
+  alt="Vektr methodology overview"
+  className="mt-6 w-full max-w-3xl rounded-md border border-gray-200 dark:border-gray-700"
+/>
