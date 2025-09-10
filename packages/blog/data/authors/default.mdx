@@ -1,6 +1,6 @@
 ---
 name: vektr
-avatar: /static/images/avatar.png
+avatar: /static/images/ryan-chen.png
 occupation: Crypto News Analyst
 company: vektr
 email: curator@vektr.news
@@ -12,9 +12,11 @@ Vektr is an AI‑assisted, community‑curated crypto news platform. We aggregat
 Every article is treated like a vector with “slope” that reflects community momentum. Your votes nudge the slope: amplify what’s insightful, dampen what’s overstated. The result is a feed that adapts to what informed readers find useful right now.
 
 <div className="mt-4 flex items-center gap-3">
-  <img
+  <Image
     src="/static/images/ryan-chen.png"
     alt="Ryan Chen"
+    width={48}
+    height={48}
     className="h-12 w-12 shrink-0 rounded-full object-cover ring-1 ring-gray-200 dark:ring-gray-700"
   />
   <em className="text-sm text-gray-700 dark:text-gray-300">
@@ -24,11 +26,6 @@ Every article is treated like a vector with “slope” that reflects community 
 </div>
 
 ## Methodology
+import Image from '@/components/Image'
 
 Vektr combines automated aggregation with community input. We fetch and normalize stories from trusted sources, de‑duplicate near‑identical items, summarize for fast scanning, and tag topics and quality signals. Readers then vote, adjusting each article’s slope, which influences its rank in the feed.
-
-<img
-  src="/static/images/method.svg"
-  alt="Vektr methodology overview"
-  className="mt-6 w-full max-w-3xl rounded-md border border-gray-200 dark:border-gray-700"
-/>
